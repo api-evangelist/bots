@@ -22,7 +22,7 @@ tags_path : /tags.html
 
 # Masthead title
 masthead_link: http://bots.apievangelist.com
-masthead_font_size: 65
+masthead_font_size: 85
 masthead_title: '{"Bots"}'
 
 # Feature
