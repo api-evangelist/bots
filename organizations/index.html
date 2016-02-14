@@ -3,39 +3,25 @@ layout: page
 title: Organizations
 ---
 
-<table width="100%" border="0" cellpadding="3" cellspacing="2"><tr>
-<td align="left" width="80%" style="border-top: 1px solid #CCC; padding-top:18px;">
-<a href="http://www.pandorabots.com/" id="home-logo-link-18978"><img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/pandora-bots-logo.png" width="200" align="left" style="padding: 15px;" /></a>
-<a href="http://www.pandorabots.com/" id="home-name-link-18978" style="color: #000;"><strong>Pandorabots</strong></a>
-Pandorabots is a web service for building and deploying chatbots. The Pandorabots Playground is a free, integrated development environment for building chatbots loaded with features and tools. Learn the basics of chatbot development in minutes, or hone your skills with our Tutorial.
-</td>
-<td width="50" align="center" style="border-top: 1px solid #CCC;"><a href="http://www.pandorabots.com/" target="_blank" title="Website" id="home-icon-18978"><img id="home-icon-img-18978" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-home-icon.jpeg" width="28" align="center" /></a>
-</td>
-<td width="50" align="center" style="border-top: 1px solid #CCC;"><a href="http://blog.pandorabots.com/" target="_blank" title="Blog" id="blog-icon-18978"><img id="blog-icon-img-18978" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-blog-icon.png" width="28" align="center" /></a>
-</td>
-<td width="50" align="center" style="border-top: 1px solid #CCC;"><a href="http://blog.pandorabots.com/rss/" target="_blank" title="Blog RSS" id="blogrss-icon-18978"><img id="blogrss-icon-img-18978" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-rss-icon.png" width="28" align="center" /></a>
-</td>
-<td width="50" align="center" style="border-top: 1px solid #CCC;"><a href="https://www.twitter.com/pandorabots" target="_blank" title="Twitter" id="twitter-icon-18978"><img id="twitter-icon-img-18978" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-twitter-icon.png" width="33" align="center" /></a>
-</td>
-<td width="50" align="center" style="border-top: 1px solid #CCC;"><a href="https://www.github.com/pandorabots" target="_blank" title="Github" id="github-icon-18978"><img id="github-icon-img-18978" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github-icon.png" width="35" align="center" /></a>
-</td>
-<td width="50" align="center" style="border-top: 1px solid #CCC;"></td>
-<td width="150" align="center" id="github-issue-18978" style="font-size: 11px;" style="border-top: 1px solid #CCC;"></td>
-</tr>
-<tr><td style="height: 18px; border: 1px solid #FFF;" colspan="8"></td></tr><tr>
-<td align="left" width="80%" style="border-top: 1px solid #CCC; padding-top:18px;">
-<a href="https://telegram.org/" id="home-logo-link-18986"><img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/telegram-logo.png" width="200" align="left" style="padding: 15px;" /></a>
-<a href="https://telegram.org/" id="home-name-link-18986" style="color: #000;"><strong>Telegram</strong></a>
-Telegram is about freedom and openness u2013 our code is open for everyone, as is our API. Today weu2019re making another step towards openness by launching a Bot API and platform for third-party developers to create bots. Bots are simply Telegram accounts operated by software u2013 not people u2013 and theyll often have AI features. They can do anything u2013 teach, play, search, broadcast, remind, connect, integrate with other services, or even pass commands to the Internet of Things.
-</td>
-<td width="50" align="center" style="border-top: 1px solid #CCC;"><a href="https://telegram.org/" target="_blank" title="Website" id="home-icon-18986"><img id="home-icon-img-18986" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-home-icon.jpeg" width="28" align="center" /></a>
-</td>
-<td width="50" align="center" style="border-top: 1px solid #CCC;"></td>
-<td width="50" align="center" style="border-top: 1px solid #CCC;"></td>
-<td width="50" align="center" style="border-top: 1px solid #CCC;"><a href="https://twitter.com/telegram" target="_blank" title="Twitter" id="twitter-icon-18986"><img id="twitter-icon-img-18986" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-twitter-icon.png" width="33" align="center" /></a>
-</td>
-<td width="50" align="center" style="border-top: 1px solid #CCC;"></td>
-<td width="50" align="center" style="border-top: 1px solid #CCC;"></td>
-<td width="150" align="center" id="github-issue-18986" style="font-size: 11px;" style="border-top: 1px solid #CCC;"></td>
-</tr>
-<tr><td style="height: 18px; border: 1px solid #FFF;" colspan="8"></td></tr><tr><td style="height: 18px; border-bottom: 1px solid #CCC;" colspan="8"></td></tr></table>
+<table width="100%" border="0" cellpadding="3" cellspacing="2">
+  {% for org in site.data.organizations %}
+  <tr>
+    <td align="left" width="80%" style="border-top: 1px solid #CCC; padding-top:18px;">
+      <a href="{{ org.website }}" id="home-logo-link-18911"><img src="{{ org.logo }}" width="{{ org.logo_width }}" align="left" style="padding: 15px;" /></a>
+      <a href="{{ org.website }}" id="home-name-link-18911" style="color: #000;"><strong>{{ org.name }}</strong></a>
+      {{ org.details }}
+    </td>
+    <td width="50" align="center" style="border-top: 1px solid #CCC;">
+      <a href="{{ org.website }}" target="_blank" title="Website"><img id="home-icon-img-18911" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-home-icon.jpeg" width="28" align="center" /></a>
+    </td>
+    <td width="50" align="center" style="border-top: 1px solid #CCC;"></td>
+    <td width="50" align="center" style="border-top: 1px solid #CCC;"></td>
+    <td width="50" align="center" style="border-top: 1px solid #CCC;">
+      <a href="{{ org.twitter }}" target="_blank" title="Twitter"><img id="twitter-icon-img-18911" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-twitter-icon.png" width="33" align="center" /></a>
+    </td>
+    <td width="50" align="center" style="border-top: 1px solid #CCC;"></td>
+    <td width="50" align="center" style="border-top: 1px solid #CCC;"></td>
+    <td width="150" align="center" style="font-size: 11px;" style="border-top: 1px solid #CCC;"></td>
+  </tr>
+  {% endfor %}
+</table>
