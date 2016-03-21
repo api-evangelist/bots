@@ -100,6 +100,28 @@
 		]
 	},
 	{
+		"id": "9LmdktsCvHJY42rWaakBlxFACd7No5Bs5oV4cxB116J42TgzezdlnejHjVtVVpYzVKO123oBMeYyQRaHGXQy74NJpg117117",
+		"name": "Confetti",
+		"summary": "A very serious news service. Slack and Confetti make a great pair. Add to your channel and get updates there. Usually itu2019s news and mostly smart stuff. Sometimes itu2019s random but funny enough.",
+		"details": "A very serious news service. Slack and Confetti make a great pair. Add to your channel and get updates there. Usually itu2019s news and mostly smart stuff. Sometimes itu2019s random but funny enough.",
+		"website": "http://confetti.cool/",
+		"twitter": "",
+		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/confetti-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/confetti-logo.png",
+		"tags": [
+			"Bots"
+		]
+	},
+	{
 		"id": "2B3Qn9Pbg0l26ybop7UNFqLrBIoAmuMGEAYKWE9v5ANDW116DZFJ116frlZdXPf6kElE8JVOZDMkC4SAFqkl8Y6116hw117117",
 		"name": "Converse",
 		"summary": "Automated social media handling using bots. Unlike existing messaging platforms, Converse is focussed around enabling end user to service conversations. These may be to a computer/bot, a human, or a combination of both.",
