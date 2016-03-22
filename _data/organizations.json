@@ -76,6 +76,74 @@
 		]
 	},
 	{
+		"id": "123ismL4eHgNtuhAhQBoD1168NFsSFl56UXFOEyNfdCt52ZCyHmGZRPd6j6aJf123Rtmu9AcTD02gkAPLgE3mu6owfHw117117",
+		"name": "Bigbux",
+		"summary": "Bigbux is a bot that will quickly pay contractors and freelancers via Stripe.",
+		"details": "Bigbux is a bot that will quickly pay contractors and freelancers via Stripe.",
+		"website": "https://bigbuxapp.com/",
+		"twitter": "https://twitter.com/bigbuxapp",
+		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bigbux-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bigbux-logo.png",
+		"tags": [
+			"Bots"
+		]
+	},
+	{
+		"id": "lP1232QfYH5aCcOFcZGlZnbQcFYCUzshB5sBXKDVS5fdpJH9EfRS44L1fUt8DYZXQTD116G82bpetW4VljYH9fpHZQ117117",
+		"name": "Birdly",
+		"summary": "Birdly tackles the trivia of expense reports and helps professionals focus on what matters most. Birdly is the first Slack bot that makes the expense reporting experience completely seamless. We extract information from receipts and use data intelligence to determine the relevant client, project, or travel context of the expense.",
+		"details": "Birdly tackles the trivia of expense reports and helps professionals focus on what matters most. Birdly is the first Slack bot that makes the expense reporting experience completely seamless. We extract information from receipts and use data intelligence to determine the relevant client, project, or travel context of the expense.",
+		"website": "https://www.getbirdly.com/",
+		"twitter": "https://twitter.com/getbirdly",
+		"github": "https://github.com/Birdly",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/Birdly",
+		"base_url": "",
+		"blog": "https://medium.com/inside-birdly",
+		"blogrss": "https://medium.com/feed/inside-birdly",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/birdly.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/birdly.png",
+		"tags": [
+			"Slack",
+			"Bots"
+		]
+	},
+	{
+		"id": "2p2y2jLPQpzGj0cq7lmVXUvsSQiNTst3G3AqMKVzN4ybsQorGYCVaIdN123116123SsVDdyNPje4xh4K9Cx9S4WrrHDA117117",
+		"name": "Botwiki",
+		"summary": "Botwiki is a catalog of friendly, useful, artistic online bots, and tools and tutorials that can help you make them.",
+		"details": "Botwiki is a catalog of friendly, useful, artistic online bots, and tools and tutorials that can help you make them.",
+		"website": "https://botwiki.org/",
+		"twitter": "https://twitter.com/botwikidotorg",
+		"github": "https://github.com/botwiki",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/botwiki",
+		"base_url": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/botwiki.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/botwiki.png",
+		"tags": [
+			"Directory",
+			"Bots"
+		]
+	},
+	{
 		"id": "HPjiS2MXaXSvD4pt123DKYWv1232GnE4qzynboMl3OuQnk5oD123Np1yGaJb9RKdwHkr7wHf1Z7HP1123w2tVcQ4yl4fHA117117",
 		"name": "Chatfuel",
 		"summary": "Chatfuel helps easily create chatbots to engage with your audience on messengers. Powering a new kind of conversation. No programming required. Create chatbots easily u2014 no coding required. Reliable, free hosting provides a secure experience for your users. And weu2019ll make sure your code is always up-to-date, automatically. Engage and retain users. Send news, collect feedback, receive and an",
@@ -96,6 +164,28 @@
 		"tags": [
 			"Messaging",
 			"Chat",
+			"Bots"
+		]
+	},
+	{
+		"id": "1234JRF6116Q7sxcuK2WUd7e6kMxD9xplKgn123CZPhn9vEZKLCxMlcQICualnL0qAnylz08xzvNhsmPdTRbKzu4MAJg117117",
+		"name": "Clubble",
+		"summary": "Clubble.io bridges the gap between your Slack team and your email-reliant clients or partners. This integration allows you to receive emails & attachments in your channels andu2014most importantlyu2014to reply directly from Slack. Two different tools, one same conversation.",
+		"details": "Clubble.io bridges the gap between your Slack team and your email-reliant clients or partners. This integration allows you to receive emails & attachments in your channels andu2014most importantlyu2014to reply directly from Slack. Two different tools, one same conversation.",
+		"website": "https://clubble.io",
+		"twitter": "https://twitter.com/ClubbleIO",
+		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
+		"blog": "https://medium.com/@Clubble.io/",
+		"blogrss": "https://medium.com/feed/@Clubble.io",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/clubble-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/clubble-logo.png",
+		"tags": [
 			"Bots"
 		]
 	},
@@ -144,6 +234,162 @@
 		]
 	},
 	{
+		"id": "cTUVT123MaA0UgQYpzEGtjanlmxK3RT0vL97BptnR1B1qkOLkZ2VNzOh45S123uaTmeHh6123h2DFmfZBVWcPteMY7IA117117",
+		"name": "Flow XO",
+		"summary": "Connect your cloud apps together into automated workflows. Workflows run through your existing apps and email, no new tools to learn. Our simple workflow designer is easy, fast and fun - even for novice users.  Use Flow XO for marketing, on-boarding, up-selling and renewals & retention. n",
+		"details": "Connect your cloud apps together into automated workflows. Workflows run through your existing apps and email, no new tools to learn. Our simple workflow designer is easy, fast and fun - even for novice users.  Use Flow XO for marketing, on-boarding, up-selling and renewals & retention. n",
+		"website": "https://flowxo.com/",
+		"twitter": "https://twitter.com/flowxo",
+		"github": "https://github.com/flowxo",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/flowxo",
+		"base_url": "",
+		"blog": "http://blog.flowxo.com/",
+		"blogrss": "http://blog.flowxo.com/feed/",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/flowxo-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/flowxo-logo.png",
+		"tags": [
+			"Reciprocity",
+			"Bots"
+		]
+	},
+	{
+		"id": "PTkgTTy116CE2PrdHJOFJuL07qNFvIsCNBsVU123jk116drBkJBR5qEkqeK7VoZ4i8EBiDhQyyG6gwfSiNKNA3zFX1Hw117117",
+		"name": "Geekbot",
+		"summary": "Introducing geekbot, the first ever slackbot assistant that helps you set up real asynchronous stand up meetings inside slack.",
+		"details": "Introducing geekbot, the first ever slackbot assistant that helps you set up real asynchronous stand up meetings inside slack.",
+		"website": "https://geekbot.io/",
+		"twitter": "https://twitter.com/geekbot_io",
+		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/geekbot-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/geekbot-logo.png",
+		"tags": [
+			"Bots"
+		]
+	},
+	{
+		"id": "4eqsxx61i6rSZobvUJB123p2HLb9QXTcAN59pVAzhnQX3i8wUt7w9tdUq2wh0vNdyT5mWMYlIkA0qzMM2BUsIz4g117117",
+		"name": "Kifi",
+		"summary": "We built Kifi to be the best, most flexible, intuitive knowledge sharing tool for you and your teams. People use Kifi a hundred different ways we never thought of. All the stories our users have told us come down to the following six ways they start using Kifi to save time and be more productive.n",
+		"details": "We built Kifi to be the best, most flexible, intuitive knowledge sharing tool for you and your teams. People use Kifi a hundred different ways we never thought of. All the stories our users have told us come down to the following six ways they start using Kifi to save time and be more productive.n",
+		"website": "https://www.kifi.com/",
+		"twitter": "https://twitter.com/kifi",
+		"github": "https://github.com/kifi",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/kifi",
+		"base_url": "",
+		"blog": "http://blog.kifi.com/",
+		"blogrss": "http://blog.kifi.com/feed/",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/kifi-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/kifi-logo.png",
+		"tags": [
+			"Bots"
+		]
+	},
+	{
+		"id": "IvYqqI0hxUj2qIp1dG1Y7EAxFLxcJyiVQBnVjEtxXdZqXrwUsGnMWW12361vO8HWcy8RAwgeTOuzF5fP5tXDSZ123Q117117",
+		"name": "Meekan",
+		"summary": "Connecting the Worldu2019s Calendars. Our flexible time scheduling engine matches everyoneu2019s calendars in seconds. Pinpoint the best times to meet, schedule a service, reserve a hotel or book a flight.",
+		"details": "Connecting the Worldu2019s Calendars. Our flexible time scheduling engine matches everyoneu2019s calendars in seconds. Pinpoint the best times to meet, schedule a service, reserve a hotel or book a flight.",
+		"website": "https://meekan.com/",
+		"twitter": "https://twitter.com/meekanWorld",
+		"github": "https://github.com/meekan",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/meekan",
+		"base_url": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/meekan-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/meekan-logo.png",
+		"tags": [
+			"Bots"
+		]
+	},
+	{
+		"id": "D116iz5UdgwA0rGCrWQMj1I1FXjrzLx6q4AqEin12CxoCwHMiH116Uf3fLMZCZYA52b0H4POOm0rKwb4b7vWj116usJQ117117",
+		"name": "Nestor",
+		"summary": "Supercharge your team with Bot Powers in Seconds. Nestor has a large and growing library of bot powers from your favorite services. Want to integrate with a private API that belongs to your company? No problem, start coding your power in the Nestor Bot Development Environment with a very Simple Javascript API and deploy your bot power in seconds.",
+		"details": "Supercharge your team with Bot Powers in Seconds. Nestor has a large and growing library of bot powers from your favorite services. Want to integrate with a private API that belongs to your company? No problem, start coding your power in the Nestor Bot Development Environment with a very Simple Javascript API and deploy your bot power in seconds.",
+		"website": "https://www.asknestor.me/",
+		"twitter": "https://twitter.com/asknestor",
+		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ask-nestor-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ask-nestor-logo.png",
+		"tags": [
+			"Bots"
+		]
+	},
+	{
+		"id": "8nePjHzvlqhJt20AUZeXwoMfd42xOFrUjYKZF6b123jEdnOdO5tUCWSqb9g116HzIu7msz80FKEh7CEXEnRjIAhNHg117117",
+		"name": "Notify",
+		"summary": "Get notified on Slack or HipChat, when your company is mentioned on the web.",
+		"details": "Get notified on Slack or HipChat, when your company is mentioned on the web.",
+		"website": "https://notify.ly/",
+		"twitter": "https://twitter.com/notify_ly",
+		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/notify-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/notify-logo.png",
+		"tags": [
+			"Bots"
+		]
+	},
+	{
+		"id": "81e1RpK7IzKyJRXqz4En51Ov3UQxmCEBDzZuLen5UdIpW4WrhXwuQa3pF9Eu9JnT6aMYsEbsI8TWMqAs9aicfg117117",
+		"name": "ottspott",
+		"summary": "Ottspott makes communication between your team and your clients easier. You dont need to own a phone set to have a local number anymore. With a simple Slack integration, Ottspott lets you make and receive calls through your browser. Its even better with a team - you can forward your calls to other members in your team and let them deal with it.",
+		"details": "Ottspott makes communication between your team and your clients easier. You dont need to own a phone set to have a local number anymore. With a simple Slack integration, Ottspott lets you make and receive calls through your browser. Its even better with a team - you can forward your calls to other members in your team and let them deal with it.",
+		"website": "http://ottspott.co",
+		"twitter": "https://twitter.com/ottspott_co",
+		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
+		"blog": "http://ottspott.co/blog/",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ottspott-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ottspott-logo.png",
+		"tags": [
+			"Slack",
+			"Bots"
+		]
+	},
+	{
 		"id": "7BNiOxuPfj4C0ugLRA0nJh8IGvzu6TmxpAW123jULY3BOH1235AVP1KHMYn8wz5e7fYigqhXvZrM1233zFJGAdZOKE116Q117117",
 		"name": "Pandorabots",
 		"summary": "Pandorabots is a web service for building and deploying chatbots. The Pandorabots Playground is a free, integrated development environment for building chatbots loaded with features and tools. Learn the basics of chatbot development in minutes, or hone your skills with our Tutorial.",
@@ -161,6 +407,138 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/pandora-bots-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/pandora-bots-logo.png",
+		"tags": [
+			"Bots"
+		]
+	},
+	{
+		"id": "S2QFI3IvQHpLZIuBy51bCH6xDrgY4qnildvsZlxPFnU2OVQZo7L7bxJNeIio409tjtpFXyJ3ltqLdu5CASBtsQ117117",
+		"name": "Partyline",
+		"summary": "Project Management through Slack. Turn your Slack Conversations into project tickets.  Our custom slash command lets you use the power of Sprintly right from within Slack. Create new tickets or update, delete and search existing ones. Just type /partyline to get started.",
+		"details": "Project Management through Slack. Turn your Slack Conversations into project tickets.  Our custom slash command lets you use the power of Sprintly right from within Slack. Create new tickets or update, delete and search existing ones. Just type /partyline to get started.",
+		"website": null,
+		"twitter": null,
+		"github": null,
+		"apisjson_url": null,
+		"sdksio_url": null,
+		"postman_url": null,
+		"portal_url": null,
+		"base_url": null,
+		"blog": null,
+		"blogrss": null,
+		"logo": null,
+		"logo_width": null,
+		"screenshot": null,
+		"tags": [
+			"Bots"
+		]
+	},
+	{
+		"id": "MNNlUDYyNaBLemoeB123KT2XJfk6DSsxiNIMEc123WjP4QZkC2NlprMToy3m0QzlAuQQnD7kD4v1QGKm12N7jSur7A117117",
+		"name": "Relay",
+		"summary": "Stream actionable user activity from your app to Slack. Relay lets you easily pick events from your app and stream them to Slack.",
+		"details": "Stream actionable user activity from your app to Slack. Relay lets you easily pick events from your app and stream them to Slack.",
+		"website": null,
+		"twitter": null,
+		"github": null,
+		"apisjson_url": null,
+		"sdksio_url": null,
+		"postman_url": null,
+		"portal_url": null,
+		"base_url": null,
+		"blog": null,
+		"blogrss": null,
+		"logo": null,
+		"logo_width": null,
+		"screenshot": null,
+		"tags": [
+			"Bots"
+		]
+	},
+	{
+		"id": "3CHFzPgPm3123E7123UzJpR4OcG71VjtAU6WIjvTpbrFb51162WB8dZp3eCXfR5uzbuq116kqlS1qvp6aLHkHI2kn123ttjg117117",
+		"name": "Roomino",
+		"summary": "Simple travel booking for Slack teams. A badass Slackbot ready to help your team with their trips.",
+		"details": "Simple travel booking for Slack teams. A badass Slackbot ready to help your team with their trips.",
+		"website": "https://www.roomino.com/",
+		"twitter": "https://twitter.com/RoominoHQ",
+		"github": "https://github.com/lastroom",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/lastroom",
+		"base_url": "",
+		"blog": "https://roomino.pr.co/",
+		"blogrss": "http://roomino.pr.co/press_releases.atom",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/roomino-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/roomino-logo.png",
+		"tags": [
+			"Bots"
+		]
+	},
+	{
+		"id": "ihdAFw2nue1237U2dMlw8ciy1169Jm00dEin4wsijY116yMXJVnPMUJmx1uQPfXtZ9IKy116yOMe4R55oWN1jLVD123PaH116Q117117",
+		"name": "Simple Poll",
+		"summary": "Simple Pollu2122 is the easiest way to create polls in Slack. Its quick, and more importantly its native. Everything happens right within Slack. We do not store your poll data anywhere and you do not have to go to our website to see the results.",
+		"details": "Simple Pollu2122 is the easiest way to create polls in Slack. Its quick, and more importantly its native. Everything happens right within Slack. We do not store your poll data anywhere and you do not have to go to our website to see the results.",
+		"website": "https://simplepoll.rocks/",
+		"twitter": "https://twitter.com/simplepoll",
+		"github": "https://github.com/xoneco/simple-poll",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/xoneco/simple-poll",
+		"base_url": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/simple-poll.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/simple-poll.png",
+		"tags": [
+			"Bots"
+		]
+	},
+	{
+		"id": "8jIqg123FI6Nmc84OdBjnx8999JwAfSniKnXdm7vl1EvB4aqA6UXoP512303K0TD4dtf70Gv9n116GLLyTknRiBydTuQ117117",
+		"name": "Statsbot",
+		"summary": "Google Analytics Bot for Slack. Slack bot to keep your team informed about metrics.",
+		"details": "Google Analytics Bot for Slack. Slack bot to keep your team informed about metrics.",
+		"website": "https://statsbot.co/",
+		"twitter": "https://twitter.com/statsbotco",
+		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
+		"blog": "https://medium.com/stats-and-bots",
+		"blogrss": "https://medium.com/feed/stats-and-bots",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/statsbot.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/statsbot.png",
+		"tags": [
+			"Bots"
+		]
+	},
+	{
+		"id": "kdtA2P6CqwpB123mDjO747rzJhn5Tq3PTu00cFMhkOKMZkQagK8tK11690116BFH123pH2WRId4m8Rhos9NO15mli8WrBw117117",
+		"name": "Talkus",
+		"summary": "With Talkus, Slack becomes the place for your team to communicate with customers, personally, on your website by live chat or by email, phone or SMS.",
+		"details": "With Talkus, Slack becomes the place for your team to communicate with customers, personally, on your website by live chat or by email, phone or SMS.",
+		"website": "https://www.talkus.io",
+		"twitter": "https://twitter.com/talkusio",
+		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/talkus-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/talkus-logo.png",
 		"tags": [
 			"Bots"
 		]
