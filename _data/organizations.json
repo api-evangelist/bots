@@ -1,5 +1,27 @@
 [
 	{
+		"id": "MUa05cAcW7tnCSnoItWUZjq1x8jwMw1Q123ezu1230rZA71WKui2T0A116lZ116TtuHG3ZIRlJBljHC2nGl5EP6UdvAZZQ117117",
+		"name": "Ace",
+		"summary": "Meet Ace{BOT}. The intelligent task manager on Slack. Your personal slackbot that lets you manage your todos and daily actionnitems - without ever leaving Slack. Ace is your daily task manager on Slack that will work with you to get tasks done.",
+		"details": "Meet Ace{BOT}. The intelligent task manager on Slack. Your personal slackbot that lets you manage your todos and daily actionnitems - without ever leaving Slack. Ace is your daily task manager on Slack that will work with you to get tasks done.",
+		"website": "http://www.appsonchat.com/",
+		"twitter": "",
+		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ace-bot-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ace-bot-logo.png",
+		"tags": [
+			"Bots"
+		]
+	},
+	{
 		"id": "8Z6NScNM87UvrbCf7D81OzpcifEirQZuOekCJV0MZh1JDWb95VbAdn3HZFV8n3DykMsqb116fjrVjvu6ElHioP6Q117117",
 		"name": "Akamai Technologies",
 		"summary": "Bot Manager relies on the simple premise that not all bots are created equal. Many bots play a legitimate role in online business strategy. Others harm businesses by reducing competitive advantage, getting between an organization and its customers, or committing fraud. Bot Manager provides a flexible framework to manage the wide array of bots accessing websites every day.",
@@ -234,6 +256,28 @@
 		]
 	},
 	{
+		"id": "k116H5TxP3123Dc8MlhZ9tIZB5Wg9d8Nm3wcfM9QIwvcallOzZXeb80wSHclK7bAbldyHTaHx1162UZBYTzhvOgnUOfQ117117",
+		"name": "DBot",
+		"summary": "DBOT monitors Slack conversations for URL, File and IP addresses and alerts users on malicious content before harm is done. DBOT was designed for Securing Slack Content for anybody using Slack and enabling easy access to advanced security information for security professionals using Slack.",
+		"details": "DBOT monitors Slack conversations for URL, File and IP addresses and alerts users on malicious content before harm is done. DBOT was designed for Securing Slack Content for anybody using Slack and enabling easy access to advanced security information for security professionals using Slack.",
+		"website": "https://dbot.demisto.com/",
+		"twitter": "",
+		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
+		"blog": "https://blog.demisto.com/",
+		"blogrss": "https://blog.demisto.com/feed",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/demisto-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/demisto-logo.png",
+		"tags": [
+			"Bots"
+		]
+	},
+	{
 		"id": "cTUVT123MaA0UgQYpzEGtjanlmxK3RT0vL97BptnR1B1qkOLkZ2VNzOh45S123uaTmeHh6123h2DFmfZBVWcPteMY7IA117117",
 		"name": "Flow XO",
 		"summary": "Connect your cloud apps together into automated workflows. Workflows run through your existing apps and email, no new tools to learn. Our simple workflow designer is easy, fast and fun - even for novice users.  Use Flow XO for marketing, on-boarding, up-selling and renewals & retention. n",
@@ -279,6 +323,28 @@
 		]
 	},
 	{
+		"id": "LGIfZezamiNSVtPZj0ElJdH123csW5GTvP2Ckr7O2Jq8m4z4JijNPcZB7hfIRBkKbPjHCu116rUya4Bn116Qt8x1Rtxg117117",
+		"name": "Growbot",
+		"summary": "Share, celebrate, and save team accomplishments in Slack!  Do you remember your top accomplishments last year? Growbot does. Growbot is the first Slackbot to help recognize and record your teams wins. We all want to know were doing meaningful work. Growbot helps you track it.",
+		"details": "Share, celebrate, and save team accomplishments in Slack!  Do you remember your top accomplishments last year? Growbot does. Growbot is the first Slackbot to help recognize and record your teams wins. We all want to know were doing meaningful work. Growbot helps you track it.",
+		"website": null,
+		"twitter": null,
+		"github": null,
+		"apisjson_url": null,
+		"sdksio_url": null,
+		"postman_url": null,
+		"portal_url": null,
+		"base_url": null,
+		"blog": null,
+		"blogrss": null,
+		"logo": null,
+		"logo_width": null,
+		"screenshot": null,
+		"tags": [
+			"Bots"
+		]
+	},
+	{
 		"id": "4eqsxx61i6rSZobvUJB123p2HLb9QXTcAN59pVAzhnQX3i8wUt7w9tdUq2wh0vNdyT5mWMYlIkA0qzMM2BUsIz4g117117",
 		"name": "Kifi",
 		"summary": "We built Kifi to be the best, most flexible, intuitive knowledge sharing tool for you and your teams. People use Kifi a hundred different ways we never thought of. All the stories our users have told us come down to the following six ways they start using Kifi to save time and be more productive.n",
@@ -296,6 +362,28 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/kifi-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/kifi-logo.png",
+		"tags": [
+			"Bots"
+		]
+	},
+	{
+		"id": "etglXxysnkwmGlQuRsIfCZjcTffGiWO3pqpMK8zpQH1ptP127Bm4TbKg9p62ACfegR8OpYmtz2gvmltQyAhd7w117117",
+		"name": "Leo",
+		"summary": "The Slack Bot to Keep Your Team Happy. The most powerful way to measure and improve employee satisfaction, without ever leaving Slack.",
+		"details": "The Slack Bot to Keep Your Team Happy. The most powerful way to measure and improve employee satisfaction, without ever leaving Slack.",
+		"website": "",
+		"twitter": "",
+		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/leo-bot-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/leo-bot-logo.png",
 		"tags": [
 			"Bots"
 		]
@@ -340,6 +428,28 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ask-nestor-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ask-nestor-logo.png",
+		"tags": [
+			"Bots"
+		]
+	},
+	{
+		"id": "1SbzExtTzM08cgRJfXqKqtBbFgIFoC1I1168116q123VHaa0NQrxrTEniCOO123bhyqJLR4i9ymrbisZ1BwV9lAvYgVYbA117117",
+		"name": "Nikabot",
+		"summary": "Hands-free team tracking for Slack.  Let Nikabot track down your team and bring you reports, you dont have to do a thing. See what your whole team has been working on, all in one neatly organized place. Detailed views for project managers and billing, a clear view of how things are going.",
+		"details": "Hands-free team tracking for Slack.  Let Nikabot track down your team and bring you reports, you dont have to do a thing. See what your whole team has been working on, all in one neatly organized place. Detailed views for project managers and billing, a clear view of how things are going.",
+		"website": "http://www.nikabot.com/",
+		"twitter": "",
+		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/nikabot-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/nikabot-logo.png",
 		"tags": [
 			"Bots"
 		]
@@ -456,6 +566,28 @@
 		]
 	},
 	{
+		"id": "WzjpI533SvTjet7MXvKiMhKyH1168sgIHMZwCzlliHFpv68xNP6VGVb7vae7zEPdt83s64RsO5k6K1UAKJ7vsvTg117117",
+		"name": "Revealytics",
+		"summary": "Revealytics helps you understand what u200bis going on with u200byour marketing, product and revenue metrics by connecting user acquisition and revenue data. It builds the financial model of SaaS business from acquisition to churn, calculate marketing ROI and make first visit cohort analysis just by connecting Stripe API and adding a couple lines of code. ",
+		"details": "Revealytics helps you understand what u200bis going on with u200byour marketing, product and revenue metrics by connecting user acquisition and revenue data. It builds the financial model of SaaS business from acquisition to churn, calculate marketing ROI and make first visit cohort analysis just by connecting Stripe API and adding a couple lines of code. ",
+		"website": "https://revealytics.com/",
+		"twitter": "https://twitter.com/revealytics",
+		"github": "https://github.com/revealytics",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/revealytics",
+		"base_url": "https://docs.revealytics.com/",
+		"blog": "https://revealytics.com/blog/",
+		"blogrss": "https://revealytics.com/blog/rss/",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/revealytics-logo .jpg",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/revealytics-logo .jpg",
+		"tags": [
+			"Bots"
+		]
+	},
+	{
 		"id": "3CHFzPgPm3123E7123UzJpR4OcG71VjtAU6WIjvTpbrFb51162WB8dZp3eCXfR5uzbuq116kqlS1qvp6aLHkHI2kn123ttjg117117",
 		"name": "Roomino",
 		"summary": "Simple travel booking for Slack teams. A badass Slackbot ready to help your team with their trips.",
@@ -473,6 +605,50 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/roomino-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/roomino-logo.png",
+		"tags": [
+			"Bots"
+		]
+	},
+	{
+		"id": "J0erh116Hc1Rd3QyTG58TXrF4Yr2qyiAWvsfCeKGYjP123Zj116k123AF989de1FFlAQmh116oFnSfRXhzXySh123wwMbZZi4g117117",
+		"name": "Roundtable",
+		"summary": "When team members are aware of each other, productivity soars. Say goodbye to old-school reporting: with daily one-sentence updates, the whole team knows whats going on and who needs help. Publish daily one-sentence status in one click. Now your colleagues are aware of your load, successes and roadblocks. Say goodbye to old-school reporting.",
+		"details": "When team members are aware of each other, productivity soars. Say goodbye to old-school reporting: with daily one-sentence updates, the whole team knows whats going on and who needs help. Publish daily one-sentence status in one click. Now your colleagues are aware of your load, successes and roadblocks. Say goodbye to old-school reporting.",
+		"website": "http://www.roundtable.team/",
+		"twitter": "",
+		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/roundtable-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/roundtable-logo.png",
+		"tags": [
+			"Bots"
+		]
+	},
+	{
+		"id": "116YGPT0Hr123jS8ald123TS2sP1162i1TmhWa42pLgMoFQSQwTtqPQcubqQrWAA7rvdMX3DK0OJhp0s1RQsytIZXYZSZw117117",
+		"name": "Safelink",
+		"summary": "Prevent Identity Theft with the Simplicity of a Link. Send credit card numbers, important files, private messages in seconds.",
+		"details": "Prevent Identity Theft with the Simplicity of a Link. Send credit card numbers, important files, private messages in seconds.",
+		"website": "https://safelink.io/",
+		"twitter": "",
+		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/safelink-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/safelink-logo.png",
 		"tags": [
 			"Bots"
 		]
@@ -608,6 +784,28 @@
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/wealthbot.io-logo.png",
 		"tags": [
 			"Financial",
+			"Bots"
+		]
+	},
+	{
+		"id": "Jm2faeitPrLmrMhgefdJc51165WDrYgHIAMFcOUY67yWw68zN123HEOHYJGXMWdljpRvcTPi116y123wVKfQy05116ctcBWg117117",
+		"name": "Workbot",
+		"summary": "Workbot, the first chat bot on the market that enables employees to access and command applications from within chat. When it comes to interactions with business apps, Workbot shifts Slack from a listening and communication platform to a doing platform as it takes commands and executes actionsu2013it even understands the chat context and makes recommendations. ",
+		"details": "Workbot, the first chat bot on the market that enables employees to access and command applications from within chat. When it comes to interactions with business apps, Workbot shifts Slack from a listening and communication platform to a doing platform as it takes commands and executes actionsu2013it even understands the chat context and makes recommendations. ",
+		"website": "https://www.workato.com/workbot-slack",
+		"twitter": "",
+		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/workbot.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/workbot.png",
+		"tags": [
 			"Bots"
 		]
 	}
