@@ -76,6 +76,28 @@
 		]
 	},
 	{
+		"id": "Qc4sht5eWK3V3D3RqES9BwrxuOWdqC00ro1160X03iOv0BAHXL6GCsjVXx2bTW7Tmr8A2AgAQv5BnFnchAMuJbgQ117117",
+		"name": "Baremetrics",
+		"summary": "Baremetrics gives you zero-setup, one-click SaaS analytics for your Stripe account. No more wondering if you set up integration correctly with other analytics apps or trying to reimport old data to bring your analytics package up to speed.",
+		"details": "Baremetrics gives you zero-setup, one-click SaaS analytics for your Stripe account. No more wondering if you set up integration correctly with other analytics apps or trying to reimport old data to bring your analytics package up to speed.",
+		"website": "https://baremetrics.com",
+		"twitter": "https://twitter.com/Baremetrics",
+		"github": "https://github.com/Baremetrics",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/Baremetrics",
+		"base_url": "",
+		"blog": "https://baremetrics.com/blog",
+		"blogrss": "https://baremetrics.com/blog/feed",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/baremetrics-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/baremetrics-logo.png",
+		"tags": [
+			"Bots"
+		]
+	},
+	{
 		"id": "nXtoVypt1XvHGy0r3veZu8prCbY8123116s123ToEL0un0nZDS3jW123azWK41234D7W9oInTNf2iFmstSHEtthwgyDyrMag117117",
 		"name": "Beep Boop",
 		"summary": "Beep Boop is a ridiculously simple hosting platform for your Slack bots. A hosting platform for Slack bots with turnkey build and deployments. Your Bots source code is managed through Github and launched as a container, so whatever language you prefer is A-OK.",
@@ -162,6 +184,28 @@
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/botwiki.png",
 		"tags": [
 			"Directory",
+			"Bots"
+		]
+	},
+	{
+		"id": "Gh4OI8jRL123j21sS72VPJG8ZFT123N123Wyis5XaNQFxUCRYSzOs6TqMKtGDI6In0oyVcOLhommw3epccd5vEx8uJFQ117117",
+		"name": "Brisby",
+		"summary": "Tired of answering the same questions over and over again? Slack bot that answers the questions you get asked too often Let @brisbybot help!",
+		"details": "Tired of answering the same questions over and over again? Slack bot that answers the questions you get asked too often Let @brisbybot help!",
+		"website": "https://www.ohbrisby.com/",
+		"twitter": "https://twitter.com/BrisbyBot",
+		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/brisby-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/brisby-logo.png",
+		"tags": [
 			"Bots"
 		]
 	},
@@ -345,6 +389,28 @@
 		]
 	},
 	{
+		"id": "4AckRIl27tF72w8TRirCf5zPgveVwIHQJil8IIZ49K0Z116IbP116gsn123tq9DPbRMPGWrzFcQ2LOWJZ2qN84tqV5yQ117117",
+		"name": "Itsabot",
+		"summary": "Digital assistants are huge, complex pieces of software. Abot makes it easy and fun to build your own digital assistant, and we include everything you need to get started. Whether youre automating customer service; inbound sales; or just want your own, personal Jarvis, let Abot do the heavy lifting.",
+		"details": "Digital assistants are huge, complex pieces of software. Abot makes it easy and fun to build your own digital assistant, and we include everything you need to get started. Whether youre automating customer service; inbound sales; or just want your own, personal Jarvis, let Abot do the heavy lifting.",
+		"website": "https://www.itsabot.org/",
+		"twitter": "",
+		"github": "https://github.com/itsabot",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/itsabot",
+		"base_url": "https://godoc.org/github.com/itsabot/abot",
+		"blog": "",
+		"blogrss": "",
+		"logo": "",
+		"logo_width": "0",
+		"screenshot": "",
+		"tags": [
+			"Bots"
+		]
+	},
+	{
 		"id": "4eqsxx61i6rSZobvUJB123p2HLb9QXTcAN59pVAzhnQX3i8wUt7w9tdUq2wh0vNdyT5mWMYlIkA0qzMM2BUsIz4g117117",
 		"name": "Kifi",
 		"summary": "We built Kifi to be the best, most flexible, intuitive knowledge sharing tool for you and your teams. People use Kifi a hundred different ways we never thought of. All the stories our users have told us come down to the following six ways they start using Kifi to save time and be more productive.n",
@@ -363,6 +429,29 @@
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/kifi-logo.png",
 		"tags": [
+			"Bots"
+		]
+	},
+	{
+		"id": "AT8a3MuGFqTllMVilUC116Ed4Ybi9tnIz6JkZn4qBjKMJoDbZPeiLQKBBrxmyjSMC776RqUv9cUKJmRX4cvg5FVQ117117",
+		"name": "Kik",
+		"summary": "Kik Messenger, also called Kik, is an instant messenger application (app) for mobile devices from Kik Interactive, available free of charge on iOS, Android, and Windows Phone operating systems. Kik Messenger is modeled after BlackBerry Messenger. It uses a smartphones data plan or Wi-Fi to transmit and receive messages, photos, videos, sketches, mobile webpages, and other content after users regis",
+		"details": "Kik Messenger, also called Kik, is an instant messenger application (app) for mobile devices from Kik Interactive, available free of charge on iOS, Android, and Windows Phone operating systems. Kik Messenger is modeled after BlackBerry Messenger. It uses a smartphones data plan or Wi-Fi to transmit and receive messages, photos, videos, sketches, mobile webpages, and other content after users register a username.",
+		"website": "https://www.kik.com/",
+		"twitter": "https://twitter.com/Kik",
+		"github": "https://github.com/kikinteractive",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/kikinteractive",
+		"base_url": "https://dev.kik.com",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/kik-logo.jpeg",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/kik-logo.jpeg",
+		"tags": [
+			"Messaging",
 			"Bots"
 		]
 	},
@@ -649,6 +738,50 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/safelink-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/safelink-logo.png",
+		"tags": [
+			"Bots"
+		]
+	},
+	{
+		"id": "hjB09ldkfziZlgv6Rk116lHNHXQ50x8NXm7qyzvcLJ6vBgLK4IwfJ1123KDklUX81232jCU0uK1gJaodiuaRyr1D41SA117117",
+		"name": "Schedul.io",
+		"summary": "Schedule your messages to Slack. You can : Send messages to multiple teams and multiple channels. Notify Channel, Everyone or specific users. Auto-schedule messages so schedul.io defines the best time to reach a maximum of users. We upgrade the way you use Slack.",
+		"details": "Schedule your messages to Slack. You can : Send messages to multiple teams and multiple channels. Notify Channel, Everyone or specific users. Auto-schedule messages so schedul.io defines the best time to reach a maximum of users. We upgrade the way you use Slack.",
+		"website": "http://www.schedul.io/",
+		"twitter": "https://twitter.com/schedul_io",
+		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/schedul-io-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/schedul-io-logo.png",
+		"tags": [
+			"Bots"
+		]
+	},
+	{
+		"id": "7P3nTLN5fBnQsD6fBtUZ60Wk3123yUvFQwpkmBATL1166edCmMfrM8lGEAVZB8eoGcUdGW63jdxsAswxl26rDMIRdw117117",
+		"name": "Sensay",
+		"summary": "Sensay signals humans who can help Connect and chat instantly Oh, and its totally anonymous! Sensay is betting that you care quite a bit about the opinion of a rando. The service lets users text a specific phone number with a question (like u201cwhatu2019s the best pizza in Brooklynu201d or u201cwhere can I get a haircut in Santa Feu201d), after which that user is instantly connected to a stranger",
+		"details": "Sensay signals humans who can help Connect and chat instantly Oh, and its totally anonymous! Sensay is betting that you care quite a bit about the opinion of a rando. The service lets users text a specific phone number with a question (like u201cwhatu2019s the best pizza in Brooklynu201d or u201cwhere can I get a haircut in Santa Feu201d), after which that user is instantly connected to a stranger who might have an answer.",
+		"website": "https://sensay.it/",
+		"twitter": "https://twitter.com/sensay",
+		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
+		"blog": "https://medium.com/@sensay",
+		"blogrss": "https://medium.com/feed/@sensay",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sensay-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sensay-logo.png",
 		"tags": [
 			"Bots"
 		]
