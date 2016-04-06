@@ -17,49 +17,49 @@ title: Organizations
     </a>
     </td>
     <td width="50" align="center" style="border-top: 1px solid #CCC;">
-      {% if org.portal_url != empty %}
+      {% if org.portal_url != null %}
         <a href="{{ org.portal_url }}" target="_blank" title="Portal">
           <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-portal-developers.jpg" width="23" align="center" />
         </a>
       {% endif %}
     </td>
     <td width="50" align="center" style="border-top: 1px solid #CCC;">
-      {% if org.blog != empty %}
+      {% if org.blog != null %}
         <a href="{{ org.blog }}" target="_blank" title="Blog">
           <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-blog-icon.png" width="18" align="center" />
         </a>
       {% endif %}
     </td>
     <td width="50" align="center" style="border-top: 1px solid #CCC;">
-      {% if org.blogrss != empty %}
+      {% if org.blogrss != null %}
         <a href="{{ org.blogrss }}" target="_blank" title="Blog RSS">
           <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-rss-icon.png" width="18" align="center" />
         </a>
       {% endif %}
     </td>
     <td width="50" align="center" style="border-top: 1px solid #CCC;">
-      {% if org.twitter != empty %}
+      {% if org.twitter != null %}
         <a href="{{ org.twitter }}" target="_blank" title="Twitter">
           <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-twitter-icon.png" width="23" align="center" />
         </a>
       {% endif %}
     </td>
     <td width="50" align="center" style="border-top: 1px solid #CCC;">
-      {% if org.github != empty %}
+      {% if org.github != null %}
         <a href="{{ org.github }}" target="_blank" title="Github">
           <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github-icon.png" width="25" align="center" />
         </a>
       {% endif %}
     </td>
     <td width="50" align="center" style="border-top: 1px solid #CCC;">
-      {% if org.apisjson_url != empty %}
+      {% if org.apisjson_url != null %}
         <a href="{{ org.apisjson_url }}" target="_blank" title="APIs.json">
           <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png" width="25" align="center" />
         </a>
       {% endif %}
     </td>
     <td width="50" align="center" style="border-top: 1px solid #CCC;">
-      {% if org.sdksio_url != empty %}
+      {% if org.sdksio_url != null %}
         <a href="{{ org.sdksio_url }}" target="_blank" title="SDKs.io">
           <img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/sdks-io/sdks-io-icon.png" width="25" align="center" />
         </a>
