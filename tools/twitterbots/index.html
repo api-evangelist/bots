@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 'API Definition Converters'
+title: 'Twitterbots'
 ---
 <h1>API Definition Converters</h1>
-<p>These are the open source API definition converters that I am tracking on as part of my research, and can be used as across the API life cycle.</p>
+<p>These are the open source API definition converters that I am tracking on as part of my bot research.</p>
 <table width="100%" border="0">
   {% for tool in site.data.tools %}
-    {% if tool.tags contains 'Converter' %}
+    {% if tool.tags contains 'Twitterbots' %}
     <tr>
       <td align="center" valign="middle" width="160">
         <a href="{{ tool.url }}"><img src="{{ tool.logo }}" width="150" align="left" style="padding: 15px;" /></a>
@@ -26,5 +26,5 @@ title: 'API Definition Converters'
     {% endif %}
   {% endfor %}
 </table>
-<p>If there is an open source tool that should be listed here, <a href="https://github.com/api-evangelist/design/issues">submit as a Github Issue, and I will consider adding</a>.</p>
+<p>If there is an open source tool that should be listed here, <a href="https://github.com/api-evangelist/bots/issues">submit as a Github Issue, and I will consider adding</a>.</p>
 <p align="center"><a href="../index.html"><strong>Return To Main Tooling Page</strong></a></p>
