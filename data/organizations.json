@@ -2393,6 +2393,28 @@
 		]
 	},
 	{
+		"id": "5qMFHjhnB8zpAaSt5evtqzvI4i3hsGSeePD1NdIHOcQMJPNdCb116havygOuqEwvZ1234bxMkJC8h1235R42LCo3RV6Q117117",
+		"name": "Bot Hunter",
+		"summary": "Every week bot hunter sends you few curated bots. Chat with the creator only if you want. Get more curated bots on demand.",
+		"details": "Every week bot hunter sends you few curated bots. Chat with the creator only if you want. Get more curated bots on demand.",
+		"website": "http://bothunterbot.com/",
+		"twitter": "",
+		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Bot_hunter_bot_u2014_every_week_we_send_you_the_chat_bot_of_the_week.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Bot_hunter_bot_u2014_every_week_we_send_you_the_chat_bot_of_the_week.png",
+		"tags": [
+			"Bots"
+		]
+	},
+	{
 		"id": "EToOEOVwUXeLkDe35KcLcd2JlSHJdVD3zqIkuVbxT1avhApE6Y3ciar2niPSmIAD9TqC95c3H1UQyqnb116etdcg117117",
 		"name": "Bot Loves You",
 		"summary": "A twitter bot that loves you and wants you to be happy.",
