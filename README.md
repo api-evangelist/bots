@@ -1,4 +1,2 @@
-Bots
-==============
-
-This is a project for tracking on various approaches to use bots with APIs, visit http://bots.apievangelist.com for more information.
+# Bots & APIs Research
+This is my bots & APIs research
