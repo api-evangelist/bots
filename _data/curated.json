@@ -1,18 +1,490 @@
 [
 	{
+		"curated_id": "NUVf0xAr1jBm1166ZIg9c8HlsWzaci0xe4eQ0BlBRRCJu8UxpJHuy72s116EBEpP3LJJmXdcxpnRxly6kCVoxmChVQ117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "CHATBOTS EXPLAINED Why businesses should be paying attention to the chatbot revolution FB AAPL GOOG",
+		"url": "http://www.businessinsider.com/2016-10-2-a-chatbots-explained-why-businesses-should-be-paying-attention-to-the-chatbot-revolution-2016-9",
+		"domain": "www.businessinsider.com",
+		"image": ""
+	},
+	{
+		"curated_id": "RcoSte0EN116TJMR2ZWi8kejJhzVFjzV3DVFwvFtht0VgbgH0xpJdb3LamgKEXbR116F2v3SoxKA9YDWytAKh4Yl2g117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "LinkedIn unveils smarter messaging with bots",
+		"url": "http://www.zdnet.com/article/linkedin-unveils-smarter-messaging-with-bots/",
+		"domain": "www.zdnet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "f4bUOJ123sqC3ZLDLu4rkQ3HIRPHtJavcoo59frJxq0tuInBrlusUEiFVdPzEWBofAlNA3FnB9mqtnTgkA0lCaaQ117117",
+		"item_date": "2016-09-23 00:00:00",
+		"title": "Microsoft Pushes the Bot Framework Google Buys APIai",
+		"url": "https://www.infoq.com/news/2016/09/bot-framework-api-ai",
+		"domain": "www.infoq.com",
+		"image": ""
+	},
+	{
+		"curated_id": "teYEZZpUJal6igYXS7hYIoHivcuuPrO4178116GxDsT4NCQqLSA123W8HD9rOwLy123tCFGi31163gllSCJPN1238hYY123dnA117117",
+		"item_date": "2016-09-21 00:00:00",
+		"title": "A Frustrating Conversation About Privacy With Googles New Allo Chatbot",
+		"url": "http://motherboard.vice.com/read/allo-chatbot-privacy",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "8eFmNV75WxCfGgaP7DGk0yQuqnDrU116qTDkhunk6wUtJHQkgGrfQ0NeQw8botfIFDBIMaLy0g4gZbg0JUgk3D4g117117",
+		"item_date": "2016-09-22 10:53:27",
+		"title": "Chatbots Your Ultimate Prototyping Tool",
+		"url": "https://medium.com/ideo-stories/chatbots-ultimate-prototyping-tool-e4e2831967f3#.r3nf81n2h",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
+		"curated_id": "TS3VlpLQyYbEXPh2aD3UYD85IWm3s7l1qKlcKqmOvH8cihVt4WetMoo123FGr79Qjfe5NHwlKHRDNAV6H6aq3Ocg117117",
+		"item_date": "2016-09-22 16:48:08",
+		"title": "hungtraanFacebookBot A Facebook Messenger Bot that supports Voice Recognition Natural Language Processing and features such as search nearby restaurants search trending news transcribe and save memos to the cloud",
+		"url": "https://github.com/hungtraan/FacebookBot",
+		"domain": "github.com",
+		"image": ""
+	},
+	{
+		"curated_id": "W7fCTprxSa116XF2j5cUkfXSQBCtvhQu7toKY0gqmq7Du8DY7jFn1cbw1jgO80uppipk11sS1t116XBUT9cduhDF1Q117117",
+		"item_date": "2016-09-19 00:00:00",
+		"title": "Tweet this bot your pics and it will put emoji on your face",
+		"url": "http://thenextweb.com/twitter/2016/09/19/twitter-bot-swap-face-emoji/",
+		"domain": "thenextweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "KftlJ116ZnbwPcZ8PvYEHFQIjSCZzCADaPZt116xNcpTmoCt3TUM1teYYBQXMAfunm83vUQ7jxdUjWd7gpRkSfsGqg117117",
+		"item_date": "2016-09-20 00:00:00",
+		"title": "Angelai a company that builds chat bots acquihired by Amazon",
+		"url": "https://techcrunch.com/2016/09/20/angel-ai-a-company-that-builds-chat-bots-acqui-hired-by-amazon/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "wbe0Ra123i6YepcXfXjlbkAouyI7A17IaNO7e18pV81WexF5bvhuTUJ5cH8PWrf116cyyd9Z8116VnboDF55iTPJdqmA117117",
+		"item_date": "2016-09-20 00:00:00",
+		"title": "How to Build a Facebook Messenger Chatbot in 10 Minutes",
+		"url": "http://blog.backand.com/how-to-build-a-facebook-messenger-chatbot-in-10-minutes/",
+		"domain": "blog.backand.com",
+		"image": ""
+	},
+	{
+		"curated_id": "fAWs5M02LVi9szSobTBUTbNbfukrX1pQHAtOU65MCiXFuQy8WuOPrar1123FY123PwtbNtPlkk6J123fXMA60ZT7AK5A117117",
+		"item_date": "2016-09-20 00:00:00",
+		"title": "Multi channel bots  youre doing it wrong",
+		"url": "https://medium.com/m/global-identity",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
+		"curated_id": "R8Hhykjwhs123np3ySrfO7qvWcjMCobpdq6bUDjJqCfjgpMRi3F6Gje116lRSH8wz3k116822XNXA0TRzkIsEPEUpc4w117117",
+		"item_date": "2016-09-21 00:00:00",
+		"title": "Bots are waging passiveaggressive war on Wikipedia",
+		"url": "https://techcrunch.com/2016/09/21/bots-are-waging-passive-aggressive-war-on-wikipedia/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "EKEujbhigz0D1W123labML3Qxd9SRXtDj9dvsKCt1q4mVAo9TBuN50vY7Tg1rWXNU116devfU49v6yWE0PJn116gBbgw117117",
+		"item_date": "2016-09-21 00:00:00",
+		"title": "Build a sentiment analysis Slackbot using Nodejs",
+		"url": "https://community.havenondemand.com/t5/Blog/Build-a-sentiment-analysis-Slackbot-using-Node-js/ba-p/3202",
+		"domain": "community.havenondemand.com",
+		"image": ""
+	},
+	{
+		"curated_id": "WuGqsJ0123tYpPMHbsFl19123rJFiLTrzQ46mrZdegHJG9yHegSXlojLP1O8svB1llnSgLS59p40akzT2PzS63RoCw117117",
+		"item_date": "2016-09-21 00:00:00",
+		"title": "American Express Adds Its Bot to the Party",
+		"url": "http://bankinnovation.net/2016/09/american-express-adds-its-bot-to-the-party/",
+		"domain": "bankinnovation.net",
+		"image": ""
+	},
+	{
+		"curated_id": "P8LvA8123zcr8Ebctmff4L1o7aEvBTMDUDnfF49cPBgYwzYsXnfKXca90R5mfXVM7ZHVwsx4PuqSOlCqlJUkgB6w117117",
+		"item_date": "2016-09-21 00:00:00",
+		"title": "Troops a Slackbot for sales raises 7 million",
+		"url": "https://techcrunch.com/2016/09/21/troops-a-slackbot-for-sales-launches-with-7-million/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ovdR8Mb9w3n14qFoYPnewuh9cF116fKuT5H1V123D06DrGlgEkCYAXlg1236rEn8ywj2QogGhCI5QJf3KyPibkhd33rg117117",
+		"item_date": "2016-09-19 12:53:34",
+		"title": "Shopifys Michael Perry on bots and automation We are on the cusp of some massive sht",
+		"url": "http://venturebeat.com/2016/09/19/shopifys-michael-perry-on-bots-and-automation-we-are-on-the-cusp-of-some-massive-sht/",
+		"domain": "venturebeat.com",
+		"image": ""
+	},
+	{
+		"curated_id": "qnhxXSFeraVJtCZGr5lqBU1B7d6123KnqmWaOqVYPsSui116fFqGVPL03FdjtXOHGM5O6J8BIXe1AzIaOVDy1yJKUw117117",
+		"item_date": "2016-09-19 00:00:00",
+		"title": "Googles new acquisition makes building chatbots easier",
+		"url": "http://www.pcworld.com/article/3121956/googles-new-acquisition-makes-building-chatbots-easier.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "TkdXnD0s6uKlitvFzN8kpPzvVc3IyVQzWT0fNhc123FWsWCiEwz5hCIsmEUUDPR1qemupOgRMA1ZXhmqkhPUkCeQ117117",
+		"item_date": "2016-09-19 00:00:00",
+		"title": "Making Conversational Interfaces Easier to Build",
+		"url": "https://developers.googleblog.com/2016/09/making-conversational-interfaces-easier-to-build.html",
+		"domain": "developers.googleblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "mdBRZiqunZ71rAGmSCGNJVjSP1VmJ3WTyWJez5qhY1160ip41164LllGXdgyG5stwkOWde8123F123G06CgUOiJWms4Qog117117",
+		"item_date": "2016-09-19 00:00:00",
+		"title": "Whats The Risk 3 Things To Know About Chatbots  Cybersecurity",
+		"url": "http://www.darkreading.com/vulnerabilities---threats/whats-the-risk-3-things-to-know-about-chatbots-and-cybersecurity/a/d-id/1326912",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "rhbbNaSqKQ5SuAOzGJFqGM0ex8jGa1qErY6rqTiHSNaSqreRJsKg2ErvZbbroytwlOsHCaBeDPMVgY123nWdDQvw117117",
+		"item_date": "2016-09-18 00:00:00",
+		"title": "Hack This Programming with the Twitter Firehose",
+		"url": "http://motherboard.vice.com/read/hack-this-automate-your-twitter-in-10-lines",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "0123Ow2EoZeMaMfeNpaJMjfV9P97pN5oPaYIAtRzzy71233KLMrwHofiWg61op11663AxCkd123V39uMmVyz123hh2hwVjMA117117",
+		"item_date": "2016-09-12 05:00:38",
+		"title": "If there are no APIs there are no chatbots",
+		"url": "http://venturebeat.com/2016/08/30/if-there-are-no-apis-there-are-no-chatbots/",
+		"domain": "venturebeat.com",
+		"image": ""
+	},
+	{
+		"curated_id": "uoH123boZG8LDpLgfpcKyMcupNHITouLfPIMwd0XkDAORGlUKquKExZfbo6LmcZXgTwp7IAL123NHIDMMNa5B116YPNw117117",
+		"item_date": "2016-09-17 00:00:00",
+		"title": "Building a Slack Bot with Nodejs and Chuck Norris Super Powers",
+		"url": "https://scotch.io/tutorials/building-a-slack-bot-with-node-js-and-chuck-norris-super-powers",
+		"domain": "scotch.io",
+		"image": ""
+	},
+	{
+		"curated_id": "WS8hOhRtvmlLZoL116jYxeUK01Pv1CBk4jVNCvyf116BtYrkD8iIIksegRpyzlgU116ONv2EDwPvulNNmkwjcP9oLYAg117117",
+		"item_date": "2016-09-15 00:00:00",
+		"title": "Interview with teen botmaster whose lawyerbots are saving people millions",
+		"url": "http://boingboing.net/2016/09/15/interview-with-teen-botmaster.html",
+		"domain": "boingboing.net",
+		"image": ""
+	},
+	{
+		"curated_id": "1230nK123L5fujLryA4YTK8f9xUnbO721chAddu4gP2YNVwGISVFHkoiQq239K123JIC3ZtRg6S1S552DHDlR8q8g9Jw117117",
+		"item_date": "2016-09-15 00:00:00",
+		"title": "Dominos rolls out pizza ordering via new Facebook Messenger bot",
+		"url": "http://www.marketingdive.com/news/dominos-rolls-out-pizza-ordering-via-new-facebook-messenger-bot/426435/",
+		"domain": "www.marketingdive.com",
+		"image": ""
+	},
+	{
+		"curated_id": "QDII6PFN0cXOJFnhHAb3kmjeupnQAFIBB0a7PLEx62L9j3NV59nenhonDqXxA6a123yWdIpBIfiLb6me7fNutARA117117",
+		"item_date": "2016-09-15 00:00:00",
+		"title": "This Bot Tries to Empathise With Your Emotional Tweets",
+		"url": "http://motherboard.vice.com/read/this-bot-tries-to-empathise-with-your-emotional-tweets",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Iz393U9ZGaW0qh67a2Vz6123uTmU9123hK0ozRwA0WVBi0agyWZntUNyTAyAFxDGjspuejRHb52jSsPBf2mDjbFlBw117117",
+		"item_date": "2016-09-12 00:00:00",
+		"title": "Facebook Messenger Bots Now Take Plastic",
+		"url": "http://www.pcmag.com/news/347803/facebook-messenger-bots-now-take-plastic",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "v116ouuPp039ov3kirV0qva7HEak6u123CuXjUAZjGmWR8DrnVUzyZZJmdYfcprm116iWRWVn6F56F4123bdNdBvL116nUzw117117",
+		"item_date": "2016-09-12 00:00:00",
+		"title": "Bots Are Everywhere But Are They Ready for Banking",
+		"url": "http://bankinnovation.net/2016/09/bots-are-everywhere-but-are-they-ready-for-banking/",
+		"domain": "bankinnovation.net",
+		"image": ""
+	},
+	{
+		"curated_id": "LyTS4qNehwmG123pvT9dhq5XzuW5NzBGs10U1GyrKSp1UhWjakzN8HZRmr1x123pHD1163fU0jtomjddGhESAN4RP2123Q117117",
+		"item_date": "2016-09-12 00:00:00",
+		"title": "You can now buy things from Facebook bots",
+		"url": "http://www.pcworld.com/article/3119114/you-can-now-buy-things-from-facebook-bots.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "fk5vxSPm2J10RxTdxCSAwbl22GUEPT2W1KsmTj4xjK3yMU87w1ocgMaSd2MJ116qomvYv7LtInpS9ZZiaw123LUdmw117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "Bots BaaS and the Death of Apps",
+		"url": "http://blog.backand.com/bots-baas-and-a-post-apps-world/",
+		"domain": "blog.backand.com",
+		"image": ""
+	},
+	{
+		"curated_id": "WTt75otxT4fTZ82xyVkOAd0H116wfwyEGgk55Ogp5VWAp224srn9MqwpwAsKV6f0Qn8x9dDaJfe6ksJtJgErB1gQ117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "How Chatbots Can Be A Game Changer For Businesses",
+		"url": "http://www.cxotoday.com/story/how-bot-apps-are-changing-businesses/",
+		"domain": "www.cxotoday.com",
+		"image": ""
+	},
+	{
+		"curated_id": "NWKyYZX9KAes89RKEly1238JyCbM0S8dU2OkuDwY3123Kshg1noc4N5UFLMg9HCO1231NcqZnpbvMJ59q8QXphUBN9RA117117",
+		"item_date": "2016-09-14 00:00:00",
+		"title": "Build a Serverless Slack Bot with Webtaskio",
+		"url": "https://auth0.com/blog/build-a-serverless-slack-bot-with-webtask/",
+		"domain": "auth0.com",
+		"image": ""
+	},
+	{
+		"curated_id": "0ER3wEGWs1uEUXbkvPiFqiC1h31w644kS7cGm5mnDV116uhnJS7LfGQ4OkUxBMLABRru8123g3zxmsq7HLWdQ116OsVg117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "Chatbots Take One Small Step Forward to True AI with Personetics Clinc",
+		"url": "http://bankinnovation.net/2016/09/chatbots-take-one-small-step-forward-to-true-ai-with-personetics-clinc/",
+		"domain": "bankinnovation.net",
+		"image": ""
+	},
+	{
+		"curated_id": "Azg0zVDJcFX9xrrc3pWe3jwJnNJc3F116jkpirL9gIt6KFzuGTM116bkS72UGDs2ZhIyVPLbkXq7123Z4GpLvlQ62slg117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "Using Chatbots to Improve User Engagement",
+		"url": "https://dzone.com/articles/using-chatbots-to-improve-user-engagement",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "qZXag3rGgleVlOnjTn6UGXYqrp4CVCpi5JpfCR116vNb6Pqe35wVgtukc2ekp116fZk85KRsuujkUwEEmZzZYirfdg117117",
+		"item_date": "2016-09-11 00:00:00",
+		"title": "TMYGRL AI Messenger Bot  Promoting Tommy Hilfigers supermodel Gigi Hadid",
+		"url": "http://www.m.me/unsupportedbrowser",
+		"domain": "www.m.me",
+		"image": ""
+	},
+	{
+		"curated_id": "rhtzm62gB089njIu986n0zStn9Y0LZbId123clNcvnnOjTeMYKz3N6O116Ev123htc9AL116DQN5SZrLBiJgPC6k8gYOrA117117",
+		"item_date": "2016-09-10 00:00:00",
+		"title": "Finovate Day Two Bots Bonds and a Bit of Blockchain",
+		"url": "http://bankinnovation.net/2016/09/finovate-day-two-bots-bonds-and-a-bit-of-blockchain/",
+		"domain": "bankinnovation.net",
+		"image": ""
+	},
+	{
+		"curated_id": "IGM2L9S116kngZ4ByxEllNwBL8iXINopkzw5uYVFEyMJxbvuNhAKNEpQ7qZTCkkX2zYSElmlH9lu3Ec6vN0KzRsw117117",
+		"item_date": "2016-09-10 00:00:00",
+		"title": "Evabot for Slack  Send coffeebeer as an appreciation gift to colleagues",
+		"url": "https://slack.evabot.ai/",
+		"domain": "slack.evabot.ai",
+		"image": ""
+	},
+	{
+		"curated_id": "IhEZGQF123WQEjPRwmNNudb5NRlgkeOb12353Dq8Jn1iVs22xendaR116nbZjaQtQ123FCWVcgixm116QqnQ9228FQfVj88A117117",
+		"item_date": "2016-09-10 00:00:00",
+		"title": "Graphic Design Bot  A Messenger bot that helps you with simple design tasks",
+		"url": "http://designcrew.co/",
+		"domain": "designcrew.co",
+		"image": ""
+	},
+	{
+		"curated_id": "WTwAP0ZtC1R4MQnClmHh7gsf116StSsOBwUNZOz2zZYgHFk116hqyQvtuzwDbZd2OuywM123LKsRfP0bhGKenCKZ8f123g117117",
+		"item_date": "2016-09-06 00:00:00",
+		"title": "Dominos Botnets and a little LSTM",
+		"url": "https://blog.opendns.com/2016/09/06/dominos-botnets-little-lstm/",
+		"domain": "blog.opendns.com",
+		"image": ""
+	},
+	{
+		"curated_id": "DODSg2AgeGoSYYPv123IETaVdgyjN0n9AYgDXIKB2avhe7cS9Wrf7HaqoBNOsGt2a8a4ihvio6123b9Wb0aoYDrXAg117117",
+		"item_date": "2016-09-08 14:20:03",
+		"title": "Porn Chatbot Tricks Argentinians Into Thinking Theyre Chatting With President",
+		"url": "http://motherboard.vice.com/read/porn-chatbot-tricks-thousands-into-believing-theyre-chatting-with-president",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "tOlD4i123DKI6FihOoWNS3CSJZHVmRdigEC123fwuu5y3Ba3cQX2VCze116puzETq123116jMQkbMP51167gYTOwm7jb0X483w117117",
+		"item_date": "2016-09-08 00:00:00",
+		"title": "Pegg  Messenger  Slack bot for tracking your income and expenses",
+		"url": "https://hellopegg.io/",
+		"domain": "hellopegg.io",
+		"image": ""
+	},
+	{
+		"curated_id": "qZQPBC77QJDFlnHkum4ISf1zJQ1231UN1ZhC76IE4x3UNHm3hDUr3BkRrtUq19wl2zYKvcBXZoBa2pFsMKOPDWnA117117",
+		"item_date": "2016-09-09 00:00:00",
+		"title": "Xero launches accounting chatbot",
+		"url": "https://ibsintelligence.com/ibs-journal/ibs-news/xero-launches-accounting-chatbot/",
+		"domain": "ibsintelligence.com",
+		"image": ""
+	},
+	{
+		"curated_id": "bB4hnFBcm11239UcNtI048ssac1Yo1tbKOHRhdljtse123yQ123JOunh0JjsbHF1162N0hPKiun9dE4zUVDEIfXN7KA0gg117117",
+		"item_date": "2016-09-09 00:00:00",
+		"title": "Building a weather bot just got easier with ConverseAI Chatflow system",
+		"url": "https://medium.com/m/global-identity",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
+		"curated_id": "EpFR0tLqP123WZbwY661eKCROiBBVq26K4Fl0K123MTGOK5m7xW1otGoW4dUnGK5IEgrbArgX54Lf2MvFoeRdlk8uQ117117",
+		"item_date": "2016-09-09 00:00:00",
+		"title": "Bot Sale For WooCommerce WooCommerce",
+		"url": "https://codecanyon.net/item/bot-sale-for-woocommerce/17779096",
+		"domain": "codecanyon.net",
+		"image": ""
+	},
+	{
+		"curated_id": "NoyMsHzwQOv4dl5E3kCZLygrl123WYOqCNCRS1gOm051166wsyl9KVfNadB9afZcq0WskYkaQKrQnjWvS4eWCNqjqg117117",
+		"item_date": "2016-09-08 00:00:00",
+		"title": "OReilly Bots  4  Cathy Pearl on voice user interfaces for bots  The basics of VUI design",
+		"url": "https://www.oreilly.com/ideas/cathy-pearl-on-voice-user-interfaces-for-bots",
+		"domain": "www.oreilly.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Su9YPecOaG7C4w5123XwHNNksCghfbUTzCVSriK7mtux78LVS9zRNOjsog68wU0CUtZC7xDQIS2qKglcSWhib9qg117117",
+		"item_date": "2016-09-08 00:00:00",
+		"title": "IoT Botnets Is Your Website at Risk",
+		"url": "https://dzone.com/articles/iot-botnets-is-your-website-at-risk",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YPAUazFjBL1165fAESt7E1d5Nm116zZrT4IdD2MauP0yumLeMS8UpIN0B22AIQjZdoBlpFhsjuhYOMspOCgeQ8o116gg117117",
+		"item_date": "2016-09-08 00:00:00",
+		"title": "Building a weather bot just got easier with ConverseAI Chatflow system",
+		"url": "https://medium.com/m/global-identity",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
+		"curated_id": "275IEF1MsHqOYVxBMVU7ytV3IClnrSgoep8d44mHjeY2clQCzinA116CpMmsEaKIEBfNZ3tKVuppRurrh8HLNt1w117117",
+		"item_date": "2016-09-07 00:00:00",
+		"title": "Smartlyai  Allinone platform for voice and chatbots",
+		"url": "http://smartly.ai",
+		"domain": "smartly.ai",
+		"image": ""
+	},
+	{
+		"curated_id": "dCI8S8qK8nQ4G0rj123KWZ1MCvnKUkOP123cE123Whh60BBdqbHh7WAaCN116hbvP5zS3oBNRN123WQbSjrniXb123G0z9NOKQ117117",
+		"item_date": "2016-09-07 00:00:00",
+		"title": "Reminders  Friendly Facebook Messenger bot to help set reminders",
+		"url": "https://www.messenger.com/unsupportedbrowser",
+		"domain": "www.messenger.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ZviBnj0xDIVVuBaYlV123WfO0TNOxlUlUYm76123fNus75VO1DWFKP9HgK116y2HgEHXex5BwQuW6q1B8UANRXxvwC0A117117",
+		"item_date": "2016-09-02 00:00:00",
+		"title": "Painter Bot  Twitter bot to convert an imageGIF into art",
+		"url": "https://twitter.com/neuralpainter",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "updFNAn7Ji3AVkbLzvoXnYdrgvm0dlyXeU6wrdmIhYeB34AHeVFJtDFjpPJPeoXKtexEi1niic123XStU8GR123Low117117",
+		"item_date": "2016-09-02 00:00:00",
+		"title": "OReilly Bots  3  Dennis Yang on Bot Analytics  Aspects of the web that do and dont translate to bots",
+		"url": "https://www.oreilly.com/ideas/dennis-yang-on-bot-analytics",
+		"domain": "www.oreilly.com",
+		"image": ""
+	},
+	{
+		"curated_id": "4nkTJDEJlHeA3XDJ2W4zgXxJOTSZcR116KjYbM0E376UzBoR6rWDeZ8t2QiVhhvXH0WJvt55eqv5POEb8116a0Jtkg117117",
+		"item_date": "2016-08-31 00:00:00",
+		"title": "Home Automation Playing With IoT Temperature Sensors Fans and Telegram Bots",
+		"url": "https://dzone.com/articles/home-automation-playing-with-iot-temperature-senso",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "6KyRbehYhkkoCpWGzNKRz116U096JQvPxbMZq952zq0j9e5yVliHY9QoG5gXAaBew3IPaTJTSn8yElBIVWxksgnQ117117",
+		"item_date": "2016-09-01 00:00:00",
+		"title": "Why making bots slower might be a good idea",
+		"url": "https://medium.com/m/global-identity",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
+		"curated_id": "m2i7pAwG9HbCxaB123URrn0KyUCnqnfyw3EVE9cJYfoegRnm3UfdySu7fsCoDoC3qDLWlZckFVoGAmV1162123hP123t4Q117117",
+		"item_date": "2016-09-01 00:32:06",
+		"title": "Virtual Assistants Harness Third Party Developer Power",
+		"url": "http://nordicapis.com/virtual-assistants-harness-third-party-developer-power/",
+		"domain": "nordicapis.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ld123xOluWJoE2cATX9UeYWOH8IEix11PKBcJ123agivndei9VQAJqBW9j1162GoAl1W3wo8F2EOSssqTuGaefCkZSBw117117",
+		"item_date": "2016-08-31 00:00:00",
+		"title": "Why Most Banks Should Not Yet Roll Out Bots",
+		"url": "http://blogs.forrester.com/peter_wannemacher/16-08-31-why_most_banks_should_not_yet_roll_out_bots",
+		"domain": "blogs.forrester.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Q8AYDLPxgPr8acZMV8GUNTyILs8GJlbKNZiESwnNbH1KXnd91239mFlem3Mm116Lf8LvB6efsxtnkVRXJAl4TG123UHA117117",
+		"item_date": "2016-08-29 00:00:00",
+		"title": "How We Developed the Official Chatbot for SFs Outside Lands Music Festival",
+		"url": "https://dzone.com/articles/how-we-developed-the-official-chatbot-for-sfs-outs",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YMlLPhZ23d6OdF1lExLinyKmHltc3bPnenXbAMr9BFjQCCgkxKw9KzNt08CmDexHuYrz23oDbrSZ45PRBxCCGw117117",
+		"item_date": "2016-08-29 00:00:00",
+		"title": "TravelBuddy  Your smart travel concierge on Facebook Messenger",
+		"url": "https://travelbuddy.ai/",
+		"domain": "travelbuddy.ai",
+		"image": ""
+	},
+	{
+		"curated_id": "ZM1235lpaf6RzY53Cjyt2J826123gs4YL8QKeRZ9ZmK7n123rY193b123pL9zEzJvLn9sYVQoMgOB7EGfVWCRPlZ7fvQSw117117",
+		"item_date": "2016-08-29 00:00:00",
+		"title": "Mica the Hipster Cat Bot on Telegram  Find hip places worldwide",
+		"url": "https://telegram.me/hipstercatbot",
+		"domain": "telegram.me",
+		"image": ""
+	},
+	{
+		"curated_id": "d9bUHIoutrFfQsG1231vVdchIzWrNi80RYrLt1232U838InqrKy4OcCnNWsIXNnIS13F5DJkkuXORoBhOHcHPSU8Bw117117",
+		"item_date": "2016-08-28 00:00:00",
+		"title": "Finding an apartment in San Francisco is so hard a programmer built a software bot to help him",
+		"url": "http://www.businessinsider.com/programmer-builds-bot-to-find-san-francisco-apartment-2016-8",
+		"domain": "www.businessinsider.com",
+		"image": ""
+	},
+	{
+		"curated_id": "qSXIPNU7UUzSUes3iG5SBSWk116ogD9Qt8vSnJTXBgkBtJoQBr7xtmW4gJ26BYoublbMghrwY6XrDwq123KTJgGIDw117117",
+		"item_date": "2016-08-27 00:00:00",
+		"title": "SuitApp  An AI assistant that helps you decide which clothes to wear",
+		"url": "http://suitapp.my/",
+		"domain": "suitapp.my",
+		"image": ""
+	},
+	{
+		"curated_id": "v35bDhptaj8C3IHVEFmM22wwhv5CIfUJf60uIpZ116Atf116vA116FMdR123ca7UOevipasnUspDbPFITa6KP0Cofdt6tQ117117",
+		"item_date": "2016-08-25 08:48:15",
+		"title": "Introducing the Bots Landscape 170 companies 4 billion in funding thousands of bots",
+		"url": "http://venturebeat.com/2016/08/11/introducing-the-bots-landscape-170-companies-4-billion-in-funding-thousands-of-bots/",
+		"domain": "venturebeat.com",
+		"image": ""
+	},
+	{
 		"curated_id": "i43L24VQZ4GCHUauD116B4IXpVnihUslKFDMZEExBfSc0LBEATn1xdZkwZQBnXnOA6JEkhSh5vfWT7FxDsEP6eiQ117117",
 		"item_date": "2016-08-26 00:00:00",
 		"title": "SelenaBot  An AIpowered chatbot of Selena Gomez",
-		"url": "https://www.producthunt.com/r/2895c8528f1a87/74008?app_id=339",
-		"domain": "www.producthunt.com",
+		"url": "http://joshbocanegra.com/selenabot.html",
+		"domain": "joshbocanegra.com",
 		"image": ""
 	},
 	{
 		"curated_id": "0N2mtNk123PMVTK3wv8S6WagcG2R123JpEhCnriuNQII116o2I123ZyWWR6omRuhFHDGtB116ax9Gn0gX1QCi5I123NMUUAtcA117117",
 		"item_date": "2016-08-26 00:00:00",
 		"title": "DOit bot  An easy way to set reminders",
-		"url": "https://www.producthunt.com/r/5b5f0c1927df8a/74003?app_id=339",
-		"domain": "www.producthunt.com",
+		"url": "https://hub.zenbot.org/doitbot",
+		"domain": "hub.zenbot.org",
 		"image": ""
 	},
 	{
