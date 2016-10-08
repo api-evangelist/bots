@@ -1,5 +1,53 @@
 [
 	{
+		"curated_id": "KmYxTCagMY7ZfT8P5P6rB0kalRPzz2SYykhjzKAWwcUVYSfGEqB1kDliGe1236WXIe123uBLmmUIh5dwbL1161g4C8xA117117",
+		"item_date": "2016-10-07 00:00:00",
+		"title": "The internets altright are mistakenly arguing with a bot",
+		"url": "http://www.theverge.com/2016/10/7/13202794/arguetron-twitter-bot-alt-right-internet-bigots-4chan-sarah-nyberg",
+		"domain": "www.theverge.com",
+		"image": ""
+	},
+	{
+		"curated_id": "EREbcJWCZMp6iI116L01Dm98w3wKvmIzGIyRaH0VsaeYnQCU3UoVtQXLeI123fwgMPaJqvVvXCNZQPIt4fbvhg0tcg117117",
+		"item_date": "2016-10-07 00:00:00",
+		"title": "Analyzing the Mirai Botnet with Splunk",
+		"url": "http://blogs.splunk.com/2016/10/07/analyzing-the-mirai-botnet-with-splunk/",
+		"domain": "blogs.splunk.com",
+		"image": ""
+	},
+	{
+		"curated_id": "VNnA93mtt8uq2123sA1HQI5Z5CI0M7SXbaQKIpT9sLqz1163c1NwjM1qrbkK6Eq4nnOOHgQ7Rv1aptkh84116v1ISUpA117117",
+		"item_date": "2016-10-06 00:00:00",
+		"title": "Salesforce takes another swing at Microsoft with chatbot building tools",
+		"url": "http://www.pcworld.com/article/3128965/salesforce-takes-another-swing-at-microsoft-with-chatbot-building-tools.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "iuJ6fhis12305WYOdLfTT123ohMJ1BAnheYn2sGFwD1PlP7llwG74ZeQ1167pyHyEm7PZ4zR4Pfa9fsbEowXiRrxK116ZQ117117",
+		"item_date": "2016-10-06 00:00:00",
+		"title": "Google Assistant Platform Will Open to Developers by end of 2016",
+		"url": "http://www.programmableweb.com/news/google-assistant-platform-will-open-to-developers-end-2016/brief/2016/10/06",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Cw4dHnciA0nyNVxJXqQU1DYDwQNIsEWbszyRggGhWgsNWQjj0UTaYE5JztANE0XzoeZ4utaeu9TPg9pGK0YfAw117117",
+		"item_date": "2016-10-06 00:00:00",
+		"title": "Zombies and Bots Have More in Common than You Think",
+		"url": "http://www.kony.com/resources/blog/zombies-and-iot-have-more-common-you-think",
+		"domain": "www.kony.com",
+		"image": ""
+	},
+	{
+		"curated_id": "1168xoUlY1c1J35YDSEaRCoCue116X3gcLasKcACDAeqeh8x4pHRf5vzeQgH33DGuYs1236q7LqzMQuFcdIC123ttzNIEA117117",
+		"item_date": "2016-10-06 00:00:00",
+		"title": "Duolingos new language tutors might be the first chatbots that dont suck",
+		"url": "http://thenextweb.com/apps/2016/10/06/duolingos-new-language-tutors-might-first-chatbots-dont-suck/",
+		"domain": "thenextweb.com",
+		"image": ""
+	},
+	{
 		"curated_id": "LF8FobKGly0dy5JrW9nju32p1hDf35YjJIByGaxEq6iXJGmZlwfh6ISrkhlL2bl5gFODG5tBXCX5PsuCiBj00g117117",
 		"item_date": "2016-10-04 00:00:00",
 		"title": "Google plots Embedded Google Assistant SDK tools for developers",
@@ -21,6 +69,22 @@
 		"title": "Google Assistant will open up to developers in December with Actions on Google",
 		"url": "http://www.theverge.com/2016/10/4/13164882/google-assistant-actions-on-google-developer-sdk",
 		"domain": "www.theverge.com",
+		"image": ""
+	},
+	{
+		"curated_id": "hjeqFq8sUJ03WiV3Oapa7zTuTwoa3116J8LPEJnwNaCwiddUmiAiV4Zp2oCg8123lwzIIQr0OH116Yk5CCX3QY6VB116bQ117117",
+		"item_date": "2016-10-03 00:00:00",
+		"title": "Telegram brings botpowered games to its messaging app",
+		"url": "http://thenextweb.com/apps/2016/10/04/telegram-brings-bot-powered-games-to-its-messaging-app/",
+		"domain": "thenextweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "quu2GzVFYNsVUP95NyK3YAyy7VMU5TCcTmb95t71iHvevz1hoaCEoiwziOg8WAtL7yWvIYwM61TQ8imjpGAatw117117",
+		"item_date": "2016-10-03 00:00:00",
+		"title": "New APIs Expand Line039s Third Party Integration and Chatbot Capabilities",
+		"url": "http://www.programmableweb.com/news/new-apis-expand-lines-third-party-integration-and-chatbot-capabilities/brief/2016/10/03",
+		"domain": "www.programmableweb.com",
 		"image": ""
 	},
 	{
