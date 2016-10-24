@@ -1,5 +1,77 @@
 [
 	{
+		"curated_id": "JyjAER5SpfOla4Rv8RUqvEYSbPa1ZtcYkoa5U2bsdvjnkwp3nZnifroddxoM9PA5NtBkWlQY7fPPKaFQViVkNQ117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "Microsoft Adds Cognitive Services Speech and Image Search APIs to Bot Framework",
+		"url": "http://www.programmableweb.com/news/microsoft-adds-cognitive-services-speech-and-image-search-apis-to-bot-framework/brief/2016/10/21",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "tajhoi0POlMqN3PIrHE9wSanqgVetFeAz8VjYRvwvcf9H3123K6JvUWfKoHiAOkPJTiB89mMBRGPS0438Vj2M3Rw117117",
+		"item_date": "2016-10-23 00:00:00",
+		"title": "Hello Bots  FitGeekGirl",
+		"url": "https://fitgeekgirl.com/2016/10/23/hello-bots/",
+		"domain": "fitgeekgirl.com",
+		"image": ""
+	},
+	{
+		"curated_id": "V7um2CQlrWHzE3vOBG8LfsOySGwqICF1L2ZPXGRBmmDM5wts8kvlkyqmaRTVm4YGdX7Sn116D3O1en5DOhwrHAug117117",
+		"item_date": "2016-10-18 00:00:00",
+		"title": "Hackers create more IoT botnets with Mirai source code",
+		"url": "http://www.pcworld.com/article/3132571/hackers-create-more-iot-botnets-with-mirai-source-code.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ZvVaENB035rlyNGp57116123mTGW116ALeedeldOlIUka2BcBtsZlRupSgMIofd9aa5TF0123p28sBAZKpoNucCozyeWQg117117",
+		"item_date": "2016-10-19 00:00:00",
+		"title": "Get meaningful insights from your chatbot with MixPanel and ConverseAI",
+		"url": "https://medium.com/m/global-identity",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
+		"curated_id": "VjKRpXo6COfUmAKS4zLl967NcRIiyXiom3DNtAOP938DyLDEiGZQo0SAjKnes4Z29ddcPN116uyIaXCTSKWhZ116123A117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "How to develop a bot",
+		"url": "http://willowtreeapps.com/blog/how-to-develop-a-bot/",
+		"domain": "willowtreeapps.com",
+		"image": ""
+	},
+	{
+		"curated_id": "41TPWcGrT4Z5Lj1DvTvXlDPYsbNBi8608HCqemYW0BV123hLduQmbZeidu6aTVnXHzxUD9KombDxI9XsUdGaPqag117117",
+		"item_date": "2016-10-18 00:00:00",
+		"title": "Dyre malware resurfaces as TrickBot targets Australian banks",
+		"url": "http://www.itsecurityguru.org/2016/10/18/dyre-malware-re-surfaces-as-trickbot-targets-australian-banks/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "vZ2ggel1168o2KL8SPif87bmkCZoF9ayOpgzfGJjH5MvGPVxhE5fGmYtsyLj1hukKE1YlKeTEUWAh2A8116fpfJAPw117117",
+		"item_date": "2016-10-17 00:00:00",
+		"title": "White House Open Sources Facebook Bot",
+		"url": "http://www.pcmag.com/news/348736/white-house-open-sources-facebook-bot",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "BXSowQndH2mTFb7Wshimr9AmOSsJruQhwHHjUY1Bmf2w116Gg2Rl1PDS4m4rLTBxNvMTE48Gm4KNfg123UGjL3Ek7A117117",
+		"item_date": "2016-10-18 00:00:00",
+		"title": "Conversational Intelligence for Bots",
+		"url": "http://blog.gupshup.io/index.php/2016/10/18/conversational-intelligence-for-bots/",
+		"domain": "blog.gupshup.io",
+		"image": ""
+	},
+	{
+		"curated_id": "mSoI4Hg85jYwKsFLsFYgc4tVemGunbZI2hGzLrvCEVo33fFksxxq1E8pCB5DlC7116FLJqyyxFm4CU3EStI3HqKQ117117",
+		"item_date": "2016-10-17 00:00:00",
+		"title": "This hilarious tool creates a Twitter bot that talks just like you kind of",
+		"url": "http://thenextweb.com/twitter/2016/10/17/twitter-bot-alter-ego/",
+		"domain": "thenextweb.com",
+		"image": ""
+	},
+	{
 		"curated_id": "7xFbbTGi6TkvpM116G1mBwbVmvZEJmf647C318UofmiC6aCZJusCPyXoQ9cKWLskhqiIo116k2Cf6R123UuI123MuK568g117117",
 		"item_date": "2016-10-10 00:00:00",
 		"title": "These chatbots want to help you manage your money",
