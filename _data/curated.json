@@ -1,5 +1,69 @@
 [
 	{
+		"curated_id": "4mZBblv7xLtRPoiMm6GaSn4ZOS123vbqpJHz2DT3GmmM0RN3zmAdZhNZecVzMCghJ116W98ZYBNGzXdzBGkgeQl1234A117117",
+		"item_date": "2016-10-31 00:00:00",
+		"title": "Year of Chatbots The Supportive",
+		"url": "https://www.helpscout.net/supportive/chatbots/",
+		"domain": "www.helpscout.net",
+		"image": ""
+	},
+	{
+		"curated_id": "CyTby116Br2o1Wurw4sj8Xf2XeA3NdCjI6vES1fX5SWR79S5iobRD116HpaKO4BBozs1CddL5FEUPDAxFAQXdEXnEA117117",
+		"item_date": "2016-10-31 00:00:00",
+		"title": "Bot Framework  Solving Business Problems with the Microsoft Bot",
+		"url": "https://msdn.microsoft.com/magazine/mt788623",
+		"domain": "msdn.microsoft.com",
+		"image": ""
+	},
+	{
+		"curated_id": "VIJt1XUWd2pLdVylWFluTCH1yH95oVHGwUWv12385RCDZYVa88QCAfymmNzI9116HKZojGKh2u116uqPKajQAsuQOW123w117117",
+		"item_date": "2016-11-01 00:00:00",
+		"title": "IBM buys Watsonbased personal shopper platform XPS from Fluid",
+		"url": "http://www.zdnet.com/article/ibm-buys-watson-based-personal-shopper-platform-xps-from-fluid/",
+		"domain": "www.zdnet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "5WQrzueKdlmTEfabiDS9yaltXuaU6ddTS09EkYPMWj3PNznD0IfwjRI4IBTZeyTcPhrnLYcm4G75AFAq0FWChw117117",
+		"item_date": "2016-11-01 00:00:00",
+		"title": "IBM buys Expert Personal Shopper from Fluid to build out Watsons conversation skills",
+		"url": "https://techcrunch.com/2016/11/01/ibm-buys-expert-personal-shopper-from-fluid-to-build-out-watsons-conversation-skills/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "6gUnW5DQwUEk116S8116dZ7MKYpMnsOPMQbXf1169Y49rQOVgwETBsddGvccwEgCAPPBGBycBrhEbQc49tqVQcGV5D7g117117",
+		"item_date": "2016-11-01 00:00:00",
+		"title": "API Plug ile Nasl Chatbot Oluturulur",
+		"url": "https://apiplug.com/blog/api-plug-ile-nasil-chatbot-olusturulur/",
+		"domain": "apiplug.com",
+		"image": ""
+	},
+	{
+		"curated_id": "2wi6t96RVXmDLVikDoeYk5eoBCkdURawsnefT4hqdYa1xl116UecKn100mVgYyd3grnUnhNGRWG6JepMigOZA89g117117",
+		"item_date": "2016-11-03 00:00:00",
+		"title": "Twitter has introduced a chatbot to Direct Messages TWTR",
+		"url": "http://www.businessinsider.com/twitter-has-introduced-a-chatbot-to-direct-messages-2016-11",
+		"domain": "www.businessinsider.com",
+		"image": ""
+	},
+	{
+		"curated_id": "WJPPOqM3nZZI3y4Ue4i7Ho4y3dDHqfICgkg6PwTqinmxa9Qk7dt57ke06y116ojwTaIPAUBAJl367GfB123K27P7xQ117117",
+		"item_date": "2016-11-04 00:00:00",
+		"title": "Human Enough",
+		"url": "https://www.wired.com/2016/11/gadget-lab-podcast-294/",
+		"domain": "www.wired.com",
+		"image": ""
+	},
+	{
+		"curated_id": "123MXjI3g90CgZIj7YplwOrsWOI00UzriTBWPvkaDK9vbUaXD52sDs0NH6VzQL4rcDBfnY4APjb2BI9EIEJd62BQ117117",
+		"item_date": "2016-10-31 00:00:00",
+		"title": "Recent Botnet Attacks Highlight Importance of Automated Testing to Harden Defenses",
+		"url": "https://dzone.com/articles/recent-botnet-attacks-highlight-importance-of-auto",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "JyjAER5SpfOla4Rv8RUqvEYSbPa1ZtcYkoa5U2bsdvjnkwp3nZnifroddxoM9PA5NtBkWlQY7fPPKaFQViVkNQ117117",
 		"item_date": "2016-10-21 00:00:00",
 		"title": "Microsoft Adds Cognitive Services Speech and Image Search APIs to Bot Framework",
