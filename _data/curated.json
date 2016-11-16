@@ -51,8 +51,8 @@
 		"curated_id": "6TR6UUSFKK04597Q2z1162LFNH116121qr123gBwMYVTD7LO9wMSQGPYNT6116P8jWIUAm7ouBTdEyFEs0Xkm42H8ac3Wg117117",
 		"item_date": "2016-11-07 00:00:00",
 		"title": "OCR And Messenger Bots With Scale API",
-		"url": "https://medium.com/m/global-identity",
-		"domain": "medium.com",
+		"url": "https://blog.scaleapi.com/ocr-and-messenger-bots-with-scale-e9e6c7d6a17c#.tddckqbnd",
+		"domain": "blog.scaleapi.com",
 		"image": ""
 	},
 	{
@@ -277,14 +277,6 @@
 		"title": "The Rise of the Bots  Enabled by APIs",
 		"url": "https://www.axway.com/en/blog/2016/10/rise-bots-enabled-apis",
 		"domain": "www.axway.com",
-		"image": ""
-	},
-	{
-		"curated_id": "ReMQCWQaiW54oWSSNB7ajA3EeSDkLzvQIZ210v0Ws123tqFzMHE7JKU883bh4K123E2mLM3HgAw1237NXFC1hYKR3x4g117117",
-		"item_date": "2016-10-11 08:37:19",
-		"title": "Twitter",
-		"url": "https://twitter.com/ptonge/status/785866880850485250/photo/1",
-		"domain": "twitter.com",
 		"image": ""
 	},
 	{
@@ -1450,7 +1442,7 @@
 	{
 		"curated_id": "Ln1jISkpe2SKc3XFujbMNhup9n7EtR1237qW25srCsYTR123kriM0AfY0glOAaxIJB116ZaR0gJr2123BsVYvgsBnEd18w117117",
 		"item_date": "2016-07-21 00:00:00",
-		"title": "Botinfluencers are the programmatic future of conversational advertising",
+		"title": "",
 		"url": "https://techcrunch.com/2016/07/21/bot-influencers-the-programmatic-future-of-conversational-advertising/",
 		"domain": "techcrunch.com",
 		"image": ""
@@ -3982,21 +3974,5 @@
 		"url": "http://blog.iron.io/2015/03/super-easy-serverless-slack-bots.html",
 		"domain": "blog.iron.io",
 		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-iron-io201503super-easy-serverless-slack-bots-html.png"
-	},
-	{
-		"curated_id": "oVZTHW0hJ116CPXLyRlRONDCWbjJrLdRZcnj123123slgqfwH2IoeoicC7ZiVAXRW116cLKRA53MWQRh12IDuNBmdFLYGw117117",
-		"item_date": "2014-05-26 00:00:00",
-		"title": "Bots were responsible for bitcoins stratospheric ascent anonymous report claims",
-		"url": "https://gigaom.com/2014/05/26/bots-were-responsible-for-bitcoins-stratospheric-ascent-anonymous-report-claims/",
-		"domain": "gigaom.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/gigaom-com20140526bots-were-responsible-for-bitcoins-stratospheric-ascent-anonymous-report-claims.png"
-	},
-	{
-		"curated_id": "j1fFILTE0zNVDw9mcA1tvLkUQr116N3mYVCrwsMr116AUqKKlnrUvKWeVI123pDT8nm8116gbUm0z2PTW5116P123Px9d4ew4A117117",
-		"item_date": "2013-11-15 18:03:54",
-		"title": "The Rise of Twitter Bots  The New Yorker",
-		"url": "http://www.newyorker.com/tech/elements/the-rise-of-twitter-bots",
-		"domain": "www.newyorker.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/www-newyorker-comonlineblogselements201311the-rise-of-twitter-bots-html.png"
 	}
 ]
