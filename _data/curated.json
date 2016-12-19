@@ -1,5 +1,29 @@
 [
 	{
+		"curated_id": "SJ0FPqjUl9U1YwGurdFqVlg2uI123RgRWwDY8iGSXztadpDBuzeTlkBvrOq37HD3XlKWUT7r8M6LWtd4BepCBk7w117117",
+		"item_date": "2016-12-17 00:00:00",
+		"title": "New Microsoft bot still learning",
+		"url": "http://planetgeniusmagazine.com/technology/new-microsoft-bot-still-learning/",
+		"domain": "planetgeniusmagazine.com",
+		"image": ""
+	},
+	{
+		"curated_id": "pANQSgTvD8uSj9J5FqTTzQZcwf116dP21Yh1234IbSkRN01d6fNFRJPIyZY3uqw4jXSyZjxK0ed7FnTbD1i5tJq116AA117117",
+		"item_date": "2016-12-16 00:00:00",
+		"title": "Pornhubs Chatbot Offers SFW News About NSFW Content",
+		"url": "http://www.pcmag.com/news/350379/pornhubs-chatbot-offers-sfw-news-about-nsfw-content?source=SectionArticles",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "doakeF1J7YJpvAL4KSkxDpPuOa5dMo3aI2CVkqq7l54xNfwa9TH01123tfyNdaweQ2fTJoz5bCXnXzvmQpJraqbQ117117",
+		"item_date": "2016-12-15 00:00:00",
+		"title": "Bootstrap your bot with QnA Maker Service",
+		"url": "https://blogs.msdn.microsoft.com/bingdevcenter/2016/12/15/bootstrap-your-bot-with-qna-maker-service/",
+		"domain": "blogs.msdn.microsoft.com",
+		"image": ""
+	},
+	{
 		"curated_id": "HUPUOOAwNj116VBIHpP2uKFmeJJ7L5ux33NcNQUyvsnxckLeLKCXP0nUVy3orncDxvdFQOgQt5PnAqPxjuR0116OIA117117",
 		"item_date": "2016-11-08 00:00:00",
 		"title": "Genie in a Bot Support over Chat",
