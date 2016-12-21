@@ -3,8 +3,40 @@
 		"curated_id": "5kMlKgYSD2gaBj8MF52DG3uCDphmQVQCkW268116RU9j8pNpbSgYo9gYg2Frjpohsgl2DqcbIfRM51dXO27NPt3w117117",
 		"item_date": "2016-12-19 00:00:00",
 		"title": "Telemedicine Chatbots and the Future of Healthcare",
-		"url": "http://www.pcmag.com/article/350369/telemedicine-chatbots-and-the-future-of-healthcare?source=SectionArticles",
+		"url": "http://www.pcmag.com/article/350369/telemedicine-chatbots-and-the-future-of-healthcare",
 		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "j6s4eZLsUJIDL116fl7VWl1M1Rjw19hczD6EZfUUoSvpmIPVEk4wFMtX2Du3OFf9kJXZfBB5UVuQv1SjpS5Y3MgQ117117",
+		"item_date": "2016-12-13 00:00:00",
+		"title": "Bot developers Now its easier to create smart bots with new QnA",
+		"url": "http://blogs.microsoft.com/firehose/2016/12/13/bot-developers-now-its-easier-to-create-smart-bots-with-new-qna-maker-service-bing-location-control/",
+		"domain": "blogs.microsoft.com",
+		"image": ""
+	},
+	{
+		"curated_id": "8xKNT5W3r64a2uryxNl8cphGQb5eZtTxWgCLwx7e6ey2K7O4kkyPhpOgH9CPykvZ0VM96aXkMtvMcNrNMEOc4g117117",
+		"item_date": "2016-12-13 00:00:00",
+		"title": "Microsoft introduces two new services to help developers create smart bots",
+		"url": "https://mspoweruser.com/microsoft-introduces-two-new-services-help-developers-create-smart-bots/",
+		"domain": "mspoweruser.com",
+		"image": ""
+	},
+	{
+		"curated_id": "kFMJmsuyrNSHnoOgWhNWXDJLcdjdiPr9tIDcDtC116rZoT9q76IzAUzydJd2eFWg56dzpRwHOHFitUcGo116WQTh3A117117",
+		"item_date": "2016-12-13 00:00:00",
+		"title": "Fueling Growbot",
+		"url": "https://medium.com/slack-developer-blog/fueling-growbot-ea5fd21ccdd8",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
+		"curated_id": "y116Dy60qGgsnuT4ihtdn12LNUkKuVqlU9KorlNsEGX9Yeoy495SWmXHjJJlXanhrQTFZydq3R123aPXXFQu1L8xqQ117117",
+		"item_date": "2016-12-13 00:00:00",
+		"title": "Microsoft Introduces New Social Chatbot Zo and Smart Bot Developing",
+		"url": "http://www.ditii.com/2016/12/14/microsoft-introduces-new-social-chatbot-zo-and-smart-bot-developing-framework/",
+		"domain": "www.ditii.com",
 		"image": ""
 	},
 	{
@@ -24,11 +56,35 @@
 		"image": ""
 	},
 	{
+		"curated_id": "lY5Brv5jSF0SXTOR2FyEcU0MikMdckdgkOPv123mmglVh123Xk8EsqpdtPMfUKblKsKwIuYsZmPtaeGPGl6UbIBMRQ117117",
+		"item_date": "2016-12-15 00:00:00",
+		"title": "President Obama Signs AntiScalping Legislation Banning Ticket Bots",
+		"url": "http://blog.peekyou.com/president-obama-signs-anti-scalping-legislation-banning-ticket-bots/",
+		"domain": "blog.peekyou.com",
+		"image": ""
+	},
+	{
 		"curated_id": "doakeF1J7YJpvAL4KSkxDpPuOa5dMo3aI2CVkqq7l54xNfwa9TH01123tfyNdaweQ2fTJoz5bCXnXzvmQpJraqbQ117117",
 		"item_date": "2016-12-15 00:00:00",
 		"title": "Bootstrap your bot with QnA Maker Service",
 		"url": "https://blogs.msdn.microsoft.com/bingdevcenter/2016/12/15/bootstrap-your-bot-with-qna-maker-service/",
 		"domain": "blogs.msdn.microsoft.com",
+		"image": ""
+	},
+	{
+		"curated_id": "XqX8tkJxo116cqyYKDQivQLYRXvYbJuv2Fhn97kCk5YPZnLfBVPOLqdm7v0L9QNm116H4pP2tqZWC65d4FUECRQ9dg117117",
+		"item_date": "2016-12-14 08:03:02",
+		"title": "THE YEAR OF THE FACTCHECKING BOT",
+		"url": "http://www.niemanlab.org/2016/12/the-year-of-the-fact-checking-bot/",
+		"domain": "www.niemanlab.org",
+		"image": ""
+	},
+	{
+		"curated_id": "ONt0GcxtLcdTW1162BLkjjYdeXvbKLDHnxDgNQ60umQTMI8fuUkGvjOM8UeefaLKyVlMy1163c2SLFShIhPu37tWJA117117",
+		"item_date": "2016-12-13 00:00:00",
+		"title": "Saleforce brings bot conversations SMS Facebook Messenger to Service Cloud",
+		"url": "http://www.zdnet.com/article/saleforce-brings-bot-conversations-sms-facebook-messenger-to-service-cloud/",
+		"domain": "www.zdnet.com",
 		"image": ""
 	},
 	{
