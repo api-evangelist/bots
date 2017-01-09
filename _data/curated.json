@@ -1,5 +1,53 @@
 [
 	{
+		"curated_id": "123cGCym0GLcCfZZO9lUHjh123rqdTP76Irsl8jgjN2iQwkQc5W123tjXOgGHnHCgFkernkL6APkWwYXU0Je1kTh9GVA117117",
+		"item_date": "2017-01-04 18:45:57",
+		"title": "Eleven bots for better work in the new year",
+		"url": "https://medium.com/m/global-identity",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Otl4KKMpAOhTlROi116QWqb116crQP467Ce116E123oPGQNJ123J1s8EPBY116AmBUDiwClP10odDCOZMTEYJOfEiPse6cshOw117117",
+		"item_date": "2017-01-07 15:59:52",
+		"title": "Love Your Bot But Know Its Always Listening",
+		"url": "https://singularityhub.com/2017/01/07/love-your-bot-but-know-its-always-listening/#.WHGAm0UlvV8.twitter",
+		"domain": "singularityhub.com",
+		"image": ""
+	},
+	{
+		"curated_id": "myzD1yyEj8oxozLWSiCMqgAg0ZbLydI123vVwSruRmWDlPM74HIi77yM123nyVgq0EHgkNQL4116Qkt6WqK9DN619bZw117117",
+		"item_date": "2017-01-07 17:50:19",
+		"title": "Common Bot Misconceptions  Slack Platform Blog",
+		"url": "https://medium.com/slack-developer-blog/common-bot-misconceptions-ad499444058a#.ddl7sy291",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
+		"curated_id": "W4nsjkf0LFsRx3sRF8lYT17Ui0e123LUcc7oiY116tWxV2tY11690123vfkmmWrbU123dmc5XnwJ1Tn8CZqR4VO4PcWqFNFw117117",
+		"item_date": "2017-01-04 18:45:57",
+		"title": "Eleven bots for better work in the new year",
+		"url": "https://medium.com/m/global-identity",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
+		"curated_id": "erl3ubcsy8boNHlivMvsvKb1236YzKTw6WIEid90ULBPcUEohA64123iaSyOQ116Ea9WcOXntR8GwB8uldF1163E2JKu2w117117",
+		"item_date": "2017-01-04 00:00:00",
+		"title": "Eleven bots for better work in the new year",
+		"url": "https://medium.com/m/global-identity",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
+		"curated_id": "5IG45Uzq1b6B1seaNLDBYr4RvtTgrDLi116wdqAdqxnBq8YLe4w0b0aFgbU1xbUnSYt1WxAcgIthpDo3P3aI5B4A117117",
+		"item_date": "2017-01-03 00:00:00",
+		"title": "Botkit is better with Slacks Events API",
+		"url": "https://medium.com/slack-developer-blog/botkit-is-better-with-slacks-events-api-f9a27e051591",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
 		"curated_id": "5kMlKgYSD2gaBj8MF52DG3uCDphmQVQCkW268116RU9j8pNpbSgYo9gYg2Frjpohsgl2DqcbIfRM51dXO27NPt3w117117",
 		"item_date": "2016-12-19 00:00:00",
 		"title": "Telemedicine Chatbots and the Future of Healthcare",
