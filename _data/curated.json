@@ -1,5 +1,29 @@
 [
 	{
+		"curated_id": "GJKbB9b1XCXnqdHZalRENruoUsVgQC9kpUjhFbJrzAc7261VpfaCuIWIkdi6123uZ2vztTfhXGPzJ01sxsPRKCrQ117117",
+		"item_date": "2017-01-16 00:00:00",
+		"title": "London startup launches chatbot to help renters exercise their rights",
+		"url": "https://techcrunch.com/2017/01/16/london-startup-launches-chatbot-to-help-renters-exercise-their-rights/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "jXuuJzSsPkMjPMjWx2sFQzJ1QqGAqTcE8mcohQjBl0ieTnYXCCI4OMrffRRPARr5KlFMnAW6TkmfVsUtKrGPjw117117",
+		"item_date": "2017-01-16 00:00:00",
+		"title": "Building A Chatbot Using Azure Bot Services",
+		"url": "http://www.c-sharpcorner.com/article/building-a-chatbot-using-azure-bot-services/",
+		"domain": "www.c-sharpcorner.com",
+		"image": ""
+	},
+	{
+		"curated_id": "AAVzBoWRgsNpKfZTA2ukm7xW123UZWWloA27CsqUQXcTL1237bY4TWry1mvW1a116QhiNZmMItIlpRQ6SDcpBIBCCD3A117117",
+		"item_date": "2017-01-17 00:00:00",
+		"title": "Lets Chat About the Right Platform for Your Bot",
+		"url": "https://medium.com/m/global-identity",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
 		"curated_id": "IVs3iSCfz0VgAB0YpnqXI6511633mDBmRra9YuA6mktWpcNOPRQumlRDFMWJxCRK7D123JcUBxxkuMuOPMHDK5ZIyA117117",
 		"item_date": "2017-01-19 00:00:00",
 		"title": "Everything you need to know to get started with chatbots",
@@ -29,6 +53,22 @@
 		"title": "Will Bots Replace Humans in the Contact Centre",
 		"url": "http://blog.8x8.com/2017/01/will-bots-replace-humans-in-the-contact-centre/",
 		"domain": "blog.8x8.com",
+		"image": ""
+	},
+	{
+		"curated_id": "orXtDGOK5QnDjB9ELDJGih7G6vZsPJ116u78TE12310hgmACSVRXXbPWj2IQFlKru6r0crhcyUwRi4JSyqMd116klqUg117117",
+		"item_date": "2017-01-18 00:00:00",
+		"title": "Analysis of a spam bot",
+		"url": "http://resources.infosecinstitute.com/analysis-of-a-spam-bot/",
+		"domain": "resources.infosecinstitute.com",
+		"image": ""
+	},
+	{
+		"curated_id": "vbUT116Mbqjew2aoUcXKINr1WcdXO12360LekxQcX1acLKYEPuiX58Q5Nh05iIfX4qpEh9DmblBiXfFU6Juz116pg2ZA117117",
+		"item_date": "2017-01-18 00:00:00",
+		"title": "Bringing your bot into threaded messages",
+		"url": "https://medium.com/slack-developer-blog/bringing-your-bot-into-threaded-messages-cd272a42924f",
+		"domain": "medium.com",
 		"image": ""
 	},
 	{
