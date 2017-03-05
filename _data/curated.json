@@ -1,9 +1,41 @@
 [
 	{
+		"curated_id": "OOinw0ZcpONrWU1116Qkhkzz8JnF5s3cK9R7CmStXjPsDNMV1qbqGQU0IcG116EPDUEvq9FopwmkvMfAqmPYovzsGQ117117",
+		"item_date": "2017-03-01 00:00:00",
+		"title": "Battle of the Snow Bots",
+		"url": "https://motherboard.vice.com/en_us/video/battle-of-the-snow-bots/NaN",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "MupKCpvKvxicQQJ116l1235z7R8116gjAfjt5UqpzF7FueGoGY116Da94IQpBW5bbEouwkIWqikHeL3llfMEMhxEI123JIbQ117117",
+		"item_date": "2017-03-01 00:00:00",
+		"title": "Why branch bankers shouldnt fear bots",
+		"url": "https://www.americanbanker.com/news/why-branch-bankers-shouldnt-fear-bots",
+		"domain": "www.americanbanker.com",
+		"image": ""
+	},
+	{
+		"curated_id": "lu3aSvnu0g123nh123SDKvZQQPttPTzehMJneiE2c0Ob0mR59mVXA116ammINWK1BH2LQdor7yhpWbXsjOBr6CW7yoPg117117",
+		"item_date": "2017-03-03 00:00:00",
+		"title": "BABB is Using AI Chatbots and Blockchain to Bring Back Social Banking",
+		"url": "http://bankinnovation.net/2017/03/babb-is-using-ai-chatbots-and-blockchain-to-bring-back-social-banking/",
+		"domain": "bankinnovation.net",
+		"image": ""
+	},
+	{
+		"curated_id": "8tYNU3bJ30EHxrYekrrotG1167DKraeNCOjK9l06KdGrhWkcZrIMtsG290D0n116I2qV5L9cWB8JwBcdOF2fsp123kjw117117",
+		"item_date": "2017-03-02 00:00:00",
+		"title": "Connecting the Dots Between Firebase and Microsoft Bot Framework",
+		"url": "https://dzone.com/articles/firebase-azure-functions-azure-service-bus-microso",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "V0hmCGXcTtDpcI5BpWe7524yqddrHvJDR4IfCJ1EkohYExooE4SW3K1168sn1Etl6ttfE10fKcOzU55tXEe0e116ag117117",
 		"item_date": "2017-03-01 13:12:09",
-		"title": "Build Incredible Chatbots  Udemy",
-		"url": "https://www.udemy.com/build-incredible-chatbots/?siteID=Fh5UMknfYAU-HQtqujFbGEFUcqYd_q8k1g&LSNPUBID=Fh5UMknfYAU",
+		"title": "Build Incredible Chatbots",
+		"url": "https://www.udemy.com/build-incredible-chatbots/",
 		"domain": "www.udemy.com",
 		"image": ""
 	},
@@ -13,6 +45,22 @@
 		"title": "Twitter",
 		"url": "https://twitter.com/BotStash/status/837047833823961088/photo/1",
 		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "rj123X6LrMkLiBw4iedosCw07ZWqINkIKuF1QYQZP0o4F3E93ReNox7xFm4WizhCUE1Ajcei123jPgmSOHs3d1R7NQ117117",
+		"item_date": "2017-03-02 00:00:00",
+		"title": "Texas Holdem AI Bot Taps Deep Learning to Demolish Humans",
+		"url": "http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/texas-holdem-ai-bot-taps-deep-learning-to-demolish-humans",
+		"domain": "spectrum.ieee.org",
+		"image": ""
+	},
+	{
+		"curated_id": "VptgsLUiL6a1LJyd6OwwjJtVJiKeNzGBV2aa1235tF5vMS6ul2valsu123nE8YzUBPxRSwDda67Q9hYP5aVR2qfceQ117117",
+		"item_date": "2017-02-27 00:00:00",
+		"title": "ESET researchers uncover new Android banking botnet",
+		"url": "http://www.itsecurityguru.org/2017/02/27/eset-researchers-uncover-new-android-banking-botnet/",
+		"domain": "www.itsecurityguru.org",
 		"image": ""
 	},
 	{
