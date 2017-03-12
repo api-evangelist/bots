@@ -1,8 +1,48 @@
 [
 	{
+		"curated_id": "uiTlU7WgSzdnIA9KB6R2desRaxpps0sxL7bVx0AWV64Yp2UUzJPwLTbTqNu2123123yihSHgcInLYvw123Rbzov16DvA117117",
+		"item_date": "2017-03-06 09:02:03",
+		"title": "Researcher Breaks ReCAPTCHA Using Googles Speech Recognition API",
+		"url": "https://it.slashdot.org/story/17/03/01/2145230/researcher-breaks-recaptcha-using-googles-speech-recognition-api",
+		"domain": "it.slashdot.org",
+		"image": ""
+	},
+	{
+		"curated_id": "Fas123J5AFy123rHa123S4CzNlCQVFe3ujlsfYVk7prjmbayFrhH1VtDuuN3G8dTzWzQYx123RJUSx3lpYxNFvu3JBYKTA117117",
+		"item_date": "2017-03-06 00:00:00",
+		"title": "Yahoos new chatbot will nag your family for you",
+		"url": "http://www.theverge.com/2017/3/6/14832822/yahoo-captain-chat-digital-assistant-text-ai",
+		"domain": "www.theverge.com",
+		"image": ""
+	},
+	{
+		"curated_id": "UqAz4xqcowc7aCi7m8Du116Q1yFG2Qy0At4Sa116Qtps123cL0iWLUTvQTTzuFr7JbwAGY0RmNv5kCYSy46paRT123YTpg117117",
+		"item_date": "2017-03-10 00:00:00",
+		"title": "Capital One launches Eno genderneutral virtual assistant",
+		"url": "http://www.reuters.com/article/us-capital-one-fin-chatbot-idUSKBN16H1Q8",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "1234r4z9UGt3DLGa7OHZHUJbWlBqqWGyM9mQZXMt11rJ116LQRbK7D1KkNFXK7mictXkFonGG3jZbBPIDh5H3Gv116DA117117",
+		"item_date": "2017-03-10 00:00:00",
+		"title": "Connecting the Dots Between Firebase and Microsoft Bot Framework Part II",
+		"url": "https://dzone.com/articles/firebase-azure-functions-azure-service-bus-microso-1",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "prROt6pfQU12365KqTojqRnePaYogSOi1OWUkyeR116vEWC2FzZvrAOt7kKWfZW7Ss9CvkeU6EW9LMHHd5c6aY7Q2A117117",
+		"item_date": "2017-03-10 00:00:00",
+		"title": "Proper Use of Chatbots IoT Could Bring Trust Back to FIs",
+		"url": "http://bankinnovation.net/2017/03/proper-use-of-chatbots-iot-could-bring-trust-back-to-fis/",
+		"domain": "bankinnovation.net",
+		"image": ""
+	},
+	{
 		"curated_id": "Bith4V3MOMXCmtmpOM11PQ8Zav4ZOsghdNQfKTle9fx35XgpOW123lF7MXIXLCtX9OfcVYDEHorZgVfQAZFots4w117117",
 		"item_date": "2017-03-06 09:02:03",
-		"title": "Researcher Breaks ReCAPTCHA Using Googles Speech Recognition API  Slashdot",
+		"title": "Researcher Breaks ReCAPTCHA Using Googles Speech Recognition API",
 		"url": "https://it.slashdot.org/story/17/03/01/2145230/researcher-breaks-recaptcha-using-googles-speech-recognition-api",
 		"domain": "it.slashdot.org",
 		"image": ""
@@ -29,6 +69,22 @@
 		"title": "Twitter",
 		"url": "https://twitter.com/hubrixco/status/838796830213353472/photo/1",
 		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "bRTiEjrwdyONaLz5p56LJrIvxuUJYCMzRaokOwTmQ9Uh5W116POZxkfUJGcKNzJSDSc3oSAqwOeODD6ZGfnKBRFQ117117",
+		"item_date": "2017-03-07 00:00:00",
+		"title": "Digital assistants are the latest craze to hit the mobile industry",
+		"url": "https://disruptiveviews.com/digital-assistants-latest-craze-mobile/",
+		"domain": "disruptiveviews.com",
+		"image": ""
+	},
+	{
+		"curated_id": "j6nneeTR5cc8uFaSNP4XLjb4gQ15h2M8Ruie8123tx1vV0GXtaBUMxarSSZlMVhUpX8soVMGQLDi123tJnYvjuUj116w117117",
+		"item_date": "2017-03-06 00:00:00",
+		"title": "A Facebook chatbot that fought 250000 parking fines is helping refugees claim asylum FB",
+		"url": "http://www.businessinsider.com/facebook-chatbot-donotpay-help-refugees-claim-asylum-us-canada-uk-joshua-browder-parking-fines-2017-3",
+		"domain": "www.businessinsider.com",
 		"image": ""
 	},
 	{
