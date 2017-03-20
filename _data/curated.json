@@ -1,5 +1,85 @@
 [
 	{
+		"curated_id": "KslRXt6eim1VbtqQ116uoIdRhw9ww1eTApAmkkB8CUvBpBslckZNAAOa1IaEUs116DCQVP8xZ7ZtJGue0aDkWb7i1w117117",
+		"item_date": "2017-03-19 00:00:00",
+		"title": "Microsoft Bot Framework Forms Dialog and Dynamic Options",
+		"url": "https://dzone.com/articles/microsoft-bot-framework-forms-dialog-and-how-to-ad",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "q7hJo7B41167SeXrN39bK2EOELF9HXtuSch1N0R7djOWYIcLsOzEjdmUNe3Zwh2cRVmvyoNCKTDJ8gGJySQTCNvQ117117",
+		"item_date": "2017-03-13 00:00:00",
+		"title": "Chatbot That Helped Beat 4 Million In Bogus Parking Tickets Now Handling Asylum Applications",
+		"url": "https://www.techdirt.com/articles/20170308/10393436870/chatbot-that-helped-beat-4-million-bogus-parking-tickets-now-handling-asylum-applications.shtml",
+		"domain": "www.techdirt.com",
+		"image": ""
+	},
+	{
+		"curated_id": "q3kBPk58kBmESUpMUUGQDUCyQ8ZNDtNQ9wUjZ4WgY88JC0vOFP6116M6RyROAaKrGvnOZNImO6bKxQybU0H30hJw117117",
+		"item_date": "2017-03-13 00:00:00",
+		"title": "New Machine Learning Framework Uncovers Twitters Vast Bot Population",
+		"url": "https://motherboard.vice.com/en_us/article/new-machine-learning-framework-uncovers-twitters-vast-bot-population",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "72mS9oMrMp02Yiwcvuwe94w3cherg2iS2pMxBppqWDtKeN3f1168Jlh123EC0SoKLs116WtsnSB0xOKOB6Etd6CxqNmA117117",
+		"item_date": "2017-03-13 00:00:00",
+		"title": "Detecting and eliminating Chamois a fraud botnet on Android",
+		"url": "https://security.googleblog.com/2017/03/detecting-and-eliminating-chamois-fraud.html",
+		"domain": "security.googleblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "HjqdcGug1239hen5Dd4xZiQ9isiz0wa3NdW116xaxY7pnQP4TFC243mfS116bDn60o60erabH74DORuAuNnMUbMetJcw117117",
+		"item_date": "2017-03-13 00:00:00",
+		"title": "A Toolkit for Creating and Deploying Bots Inside Salesforce",
+		"url": "https://developer.salesforce.com/blogs/developer-relations/2017/03/bot-toolkit-creating-deploying-bots-inside-salesforce.html",
+		"domain": "developer.salesforce.com",
+		"image": ""
+	},
+	{
+		"curated_id": "hd1Gtt910VRFZVm0IIARCmTJ9116SpBOq2VLJxj0XxA0KuBdxHe3P9GFzH8L3116jcnxbp6ZtIaqFoME5o5B116BdKZw117117",
+		"item_date": "2017-03-14 00:00:00",
+		"title": "Interactive fiction and the origins of the conversational interface",
+		"url": "https://techcrunch.com/2017/03/14/interactive-fiction-and-the-origins-of-the-conversational-interface/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "x2ATwRRK0A116PkKXhfYu1231GBsWvOoMf6G8xTFDEl5hscQrlvD1EK1iMLFFr50Bz1W1M116vuAjnQ2Fh116aW0favlwA117117",
+		"item_date": "2017-03-15 00:00:00",
+		"title": "Google shuts down massive Android ad fraud botnet Chamois",
+		"url": "http://www.itsecurityguru.org/2017/03/15/google-shuts-massive-android-ad-fraud-botnet-chamois/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "QagUG62123nUjuy6yASjD8kHwOC9aD8GKn1PTEB9lz0wfUwLlhvnIxlsX67A0sU4p1237gfOSnNMnEb9a7J9ZILbwg117117",
+		"item_date": "2017-03-15 00:00:00",
+		"title": "Why We Chose Slack as Zoes First Integration",
+		"url": "https://www.totango.com/blog/2017/03/why-we-chose-slack-as-zoes-first-integration/",
+		"domain": "www.totango.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Srh9phDNRa0RrWWSUkfCB4XRi4dbXxmiPVibVGFVP6d9123D8Xvf1KclWsZfwtoEBlhyIzCEv8Yi37p116MeJC4ypQ117117",
+		"item_date": "2017-03-16 00:00:00",
+		"title": "It Begins Bots Are Learning to Chat in Their Own Language",
+		"url": "https://www.wired.com/2017/03/openai-builds-bots-learn-speak-language/",
+		"domain": "www.wired.com",
+		"image": ""
+	},
+	{
+		"curated_id": "UJB50tN5WYb7HJBb9F3QZv7HHcibK4pM6rw0IQ116aOPpDBvtSp3HCGUU6r6bQe123VvWDuwhHlGNCOu1237V1n61164jA117117",
+		"item_date": "2017-03-13 11:15:16",
+		"title": "It Has To Have A Soul How Chatbots Get Their Personalities",
+		"url": "http://www.npr.org/sections/alltechconsidered/2017/03/10/519002884/it-has-to-have-a-soul-how-chatbots-get-their-personalities",
+		"domain": "www.npr.org",
+		"image": ""
+	},
+	{
 		"curated_id": "uiTlU7WgSzdnIA9KB6R2desRaxpps0sxL7bVx0AWV64Yp2UUzJPwLTbTqNu2123123yihSHgcInLYvw123Rbzov16DvA117117",
 		"item_date": "2017-03-06 09:02:03",
 		"title": "Researcher Breaks ReCAPTCHA Using Googles Speech Recognition API",
