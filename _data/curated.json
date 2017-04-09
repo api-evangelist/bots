@@ -1,5 +1,69 @@
 [
 	{
+		"curated_id": "teKVJRCxBDql4csmo7FxCpHmdqCvLeJogRrrXEDNt29PXGE116kpS8DdISVfWFlQARlkYNaR6yLrFsvEwAb8S6nQ117117",
+		"item_date": "2017-04-06 11:58:40",
+		"title": "If you missed my OpenWhisk Pig Latin Twitterbot workshop at IBMInterConnnect I have posted full instructions",
+		"url": "https://twitter.com/emckean/status/850051310661632000",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "BPFRMHGPiy00Fp29WVCLbuj7w09g0Dk9N4MwkWambLyp9QKpkBUiRqdWHNExzoQPp116116FzrNeEWT9noawrcqEwQ117117",
+		"item_date": "2017-04-08 00:00:00",
+		"title": "Shell Script to Detect if the IP Address Is Googlebot",
+		"url": "https://dzone.com/articles/shell-script-to-detect-if-the-ip-address-is-google-1",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "qmVRz3116lGXQJfXg1234StovFlKXPB8LT6zqyX1hlkhaL4MowVR6b123ygvAV16TS4CvS4oIhXTt4FJpwOCavzTHQ0w117117",
+		"item_date": "2017-04-07 00:00:00",
+		"title": "New Bots Seek to Permanently Damage IoT Devices",
+		"url": "https://continuum.cisco.com/2017/04/07/new-bots-seek-to-permanently-damage-iot-devices/",
+		"domain": "continuum.cisco.com",
+		"image": ""
+	},
+	{
+		"curated_id": "K123lApTdOEVN4zEIy123iSDpDi3u3ZjlXh116L6a2613wmfpmUsBzDmnblIJRwDUapmKMlu1162KXXhzy1EcRz0jhtN1w117117",
+		"item_date": "2017-04-07 00:00:00",
+		"title": "Payments are all thats needed for chatbots to deliver on their promise says Kik CEO",
+		"url": "https://techcrunch.com/2017/04/07/chatbots-payments/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Fku8j39oiOmAmL55aUZx15nOPW7116S8PBulIUrpCSANLw0nkl6ReOYFw0VtVQ116cxNvuuYbT3QFov6ePWcvVI9Sg117117",
+		"item_date": "2017-04-05 00:00:00",
+		"title": "How Trumps Shitposters Take Over Twitter Without Bots",
+		"url": "https://motherboard.vice.com/en_us/article/trump-shitposters-twitter-bots",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "PDWRxVzUtHSLkW5MxztFwc0rW116Cto39pS8bL7Isp8grWlojgx56qYVbx6RbPYWtIZal7Cj7m8qMY7cBofhneIA117117",
+		"item_date": "2017-04-04 00:00:00",
+		"title": "Subliminal Images of Pasta Easily Fooled Googles Bots",
+		"url": "https://motherboard.vice.com/en_us/article/subliminal-images-of-pasta-easily-fooled-googles-bots",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "rUrxlxvPDaxxaQN79GibWMxC6uUp1234fRMiRjKZS5WsTMHLQCji3Uoj1Gs4extRH6kVNPNcwdnZ6plyxza36T123g117117",
+		"item_date": "2017-04-04 00:00:00",
+		"title": "Chatbots Overhyped or the Real Thing",
+		"url": "https://dzone.com/articles/chatbots-overhyped-or-the-real-thing",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "8tb3123PJcan2Lvl6qWrtHHdVCpEMjnqFGkSR18z7NHJ0CPp0tNQSM0u2KxPCLafa1UQFK8ISdIse5mWvy1u2kbQ117117",
+		"item_date": "2017-04-03 02:48:21",
+		"title": "Customer Service Chatbots Are About to Become Frighteningly Realistic",
+		"url": "https://www.technologyreview.com/s/603895/customer-service-chatbots-are-about-to-become-frighteningly-realistic/",
+		"domain": "www.technologyreview.com",
+		"image": ""
+	},
+	{
 		"curated_id": "8hcdHnV1123yFkVf123116C3kp0WAXBAbKoxAIhyS6TKavUbHz1P5EX7BFTouDFsj0zWfvzUEfcjJsn29Q2s9cUOY9eA117117",
 		"item_date": "2017-03-29 09:30:40",
 		"title": "How to Build Chat Bots From Beginner to Intermediate  Udemy",
