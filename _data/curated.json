@@ -1,9 +1,81 @@
 [
 	{
+		"curated_id": "kUK1A0dJm1Qf7uKBROt5Y8123BTZpmi63nzV0iG42o8QenfecaUdVr3QZ5eAHrK5VUCXpp0RSAoNMn18du1o6vsg117117",
+		"item_date": "2017-04-25 14:12:03",
+		"title": "Bot Building Basics  Udemy",
+		"url": "https://www.udemy.com/bot-building-basics/",
+		"domain": "www.udemy.com",
+		"image": ""
+	},
+	{
+		"curated_id": "4VO116U8OaiOFGY1En531Q80pqCdr116Ya1ttYecZVjF273Gp0p11672YHv6LCHSWpw97wkQjFRAcBBsrp4123ebMaNSDA117117",
+		"item_date": "2017-04-24 00:00:00",
+		"title": "F8 updates for Bots",
+		"url": "http://blog.gupshup.io/index.php/2017/04/25/f8-updates-for-bots/",
+		"domain": "blog.gupshup.io",
+		"image": ""
+	},
+	{
+		"curated_id": "6h116123HRwCf2z2n9iFSBNdX116U76eeI6KaMWg29iaQhc2KMZ4kbFNYilNH116M72FZ6fK81LRDXWpQEDOHI689Pc2kw117117",
+		"item_date": "2017-04-26 00:00:00",
+		"title": "This is how The New York Times is using bots to create more onetoone experiences with readers",
+		"url": "http://www.niemanlab.org/2017/04/this-is-how-the-new-york-times-is-using-bots-to-create-more-one-to-one-experiences-with-readers/",
+		"domain": "www.niemanlab.org",
+		"image": ""
+	},
+	{
+		"curated_id": "CwLkyKSpO7GdoN9ptNmC15xzHyHOhIyZznCSP1n4npA1ZlmNvq20Q7Zf0uW123iVDTI96s11LtpymjgKENUdTPRg117117",
+		"item_date": "2017-04-27 00:00:00",
+		"title": "Google Assistant SDK lets anyone make an intelligent voicecontrolled",
+		"url": "https://www.aivanet.com/2017/04/google-assistant-sdk-lets-anyone-make-an-intelligent-voice-controlled-device/",
+		"domain": "www.aivanet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "XaybHuUS8EBr123Opx5gskfxlDmEz6zK4cDHwXcNmWvO11665T0ristlTQKJj1231WYsd116rfsUM7NHZn6QUkmSasm9VA117117",
+		"item_date": "2017-04-27 00:00:00",
+		"title": "Google Assistant SDK Offered to ThirdParty Devs",
+		"url": "http://www.pcmag.com/news/353359/google-assistant-sdk-offered-to-third-party-devs",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "0CSvO5A2VPuqZdwtBeuEviE3DfB2bwOwfgfPnhkgooRWvE3heYQEmmPH1iSPnKRSNE7sTEdPj9UNdidA123mPd2g117117",
+		"item_date": "2017-04-27 00:00:00",
+		"title": "Google eyes massive AI expansion with new Assistant SDK",
+		"url": "http://www.pcworld.com/article/3192964/android/google-eyes-massive-ai-expansion-with-new-assistant-sdk.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "V2APg9btxK4d8zABghwLzhfHJ116CJjDD2VaHhQVFFx4tmw7Kie123C9kWCgRMOUkn3u1IHHaktnEiHI1pWwj123dRQw117117",
+		"item_date": "2017-04-27 00:00:00",
+		"title": "Are the wheels falling off the digital assistant bandwagon",
+		"url": "https://disruptiveviews.com/digital-assistant-bandwagon/",
+		"domain": "disruptiveviews.com",
+		"image": ""
+	},
+	{
+		"curated_id": "KEeZYYZYD116123cSJaGkiujxFfe11655CGCTFn1NwRr123qPiGPq7p5D116ECnZqaXxZYtGGMGgj116OsdmD7AaDm24SZ1169SQ117117",
+		"item_date": "2017-04-29 00:00:00",
+		"title": "The Future of Assistive Tech Is Smart",
+		"url": "http://www.pcmag.com/commentary/353201/the-future-of-assistive-tech-is-smart",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "cnBatxzbhB5nN116lTJiZC8v7qZddG1166nLTWLFYwV1Bm0mWcwCzhsMBr123Mj1fG554qHN123UKsHcb3oyDZLnNKMyoQ117117",
+		"item_date": "2017-04-28 00:00:00",
+		"title": "Amazon style assistant divides opinion",
+		"url": "http://www.bbc.co.uk/news/technology-39744293",
+		"domain": "www.bbc.co.uk",
+		"image": ""
+	},
+	{
 		"curated_id": "nIdJIWRYwhTLhf64cijSEd2uqGAoHFKZJPG3Dpk2QmPEm1N4lQqW9Eeo9pufAoSOyF7Z0Hlv8LzzNTLOxGKaUQ117117",
 		"item_date": "2017-04-26 09:30:11",
-		"title": "Build an AI Twitter Bot Powered with IBM Watson No Coding  Udemy",
-		"url": "https://www.udemy.com/artificial-intelligence-w-ibm-watson-twitter-bot/?siteID=Fh5UMknfYAU-YT9ZhMh0ycgtqG76_B1BWQ&LSNPUBID=Fh5UMknfYAU",
+		"title": "Build an AI Twitter Bot Powered with IBM Watson No Coding",
+		"url": "https://www.udemy.com/artificial-intelligence-w-ibm-watson-twitter-bot/",
 		"domain": "www.udemy.com",
 		"image": ""
 	},
@@ -11,7 +83,7 @@
 		"curated_id": "YG5123lbnW0Mk123DpancZ89lwfMk1pCCndl0TRpHM1236tdZi0uDRFgoa123Ogfx9P116zcpwVO81JCElvmIMcxDBWL5cOw117117",
 		"item_date": "2017-04-23 09:30:17",
 		"title": "Build Incredible Chatbots  Udemy",
-		"url": "https://www.udemy.com/build-incredible-chatbots/?siteID=Fh5UMknfYAU-M8951TjyZQbk_KAq8jR5Xw&LSNPUBID=Fh5UMknfYAU",
+		"url": "https://www.udemy.com/build-incredible-chatbots/",
 		"domain": "www.udemy.com",
 		"image": ""
 	},
@@ -19,8 +91,16 @@
 		"curated_id": "3vhkxIidv5tNuO7D9RD8QcNxXJtj123Ipf945i87lS0KFULJjm8TFrayEflFQD24OGtOK123RymBwhMFxPPrrjXVNw117117",
 		"item_date": "2017-04-27 09:30:02",
 		"title": "UPDATE 2017 Build a personal chatbot for Facebook Messenger  Udemy",
-		"url": "https://www.udemy.com/how-to-build-a-personal-chatbot-for-facebook-messenger/?siteID=Fh5UMknfYAU-SlHX8FWP6mLCC.jrlytNyA&LSNPUBID=Fh5UMknfYAU",
+		"url": "https://www.udemy.com/how-to-build-a-personal-chatbot-for-facebook-messenger/",
 		"domain": "www.udemy.com",
+		"image": ""
+	},
+	{
+		"curated_id": "zMgchad116MRmuGanuaDr2dyibvGyJ0SyAXLmmR8aYLJOUyJbnskvctkFeHVMC3gUnmEZr4tjdGFKN2g7JiQZ116Jg117117",
+		"item_date": "2017-04-27 00:00:00",
+		"title": "Google opens up the Google Assistant to developers shows off mocktail mixer to prove it",
+		"url": "https://thenextweb.com/google/2017/04/27/1043688/",
+		"domain": "thenextweb.com",
 		"image": ""
 	},
 	{
@@ -40,22 +120,6 @@
 		"image": ""
 	},
 	{
-		"curated_id": "IpysZdWwTw3TyeCj3V888q123KyG50er123TROhGWnbBzOGSFz5xsN2n0fOOUT0aCRaQEVn1qXLZGSYstMFT8znflg117117",
-		"item_date": "2017-04-27 09:30:02",
-		"title": "UPDATE 2017 Build a personal chatbot for Facebook Messenger  Udemy",
-		"url": "https://www.udemy.com/how-to-build-a-personal-chatbot-for-facebook-messenger/",
-		"domain": "www.udemy.com",
-		"image": ""
-	},
-	{
-		"curated_id": "0jXpyzKKy0FqUXVgPSYK9iRzKMOqyJBLLxkYlrjicdamfgi8QPJFmLRTTPK6PcwO6J1qzwQmoMCtkXlH1166lSXA117117",
-		"item_date": "2017-04-27 09:30:02",
-		"title": "Twitter",
-		"url": "https://twitter.com/BotStash/status/857632942646059010/photo/1",
-		"domain": "twitter.com",
-		"image": ""
-	},
-	{
 		"curated_id": "8rtnTtQJug2wmrJy4kv116o0l4YDNnvt6Pq4fZE94555R1167WMqZX4PvFpiFqQKynb123116B0L78N227jW3OHO2S11236g117117",
 		"item_date": "2017-04-25 14:12:03",
 		"title": "Bot Building Basics  Udemy",
@@ -64,27 +128,11 @@
 		"image": ""
 	},
 	{
-		"curated_id": "HvI116kd0rDjBl1fZN1233qyI8XyQ123zwqKARhduMsZz116emcWXOptXUy6Y116CyTCi0v116erFlHdw1230W6uc1QFe116gtXIPA117117",
-		"item_date": "2017-04-25 14:12:03",
-		"title": "Twitter",
-		"url": "https://twitter.com/i/web/status/856979138405683201",
-		"domain": "twitter.com",
-		"image": ""
-	},
-	{
 		"curated_id": "oFXkoPnJ6TULY2qCYGBpAv116DXcyRXvYYAUtd8axZDC1168lc1jawNz1zlKe3FUsxg37vgC9INC1169yGbB4BUNFb123Q117117",
 		"item_date": "2017-04-26 09:30:11",
 		"title": "Build an AI Twitter Bot Powered with IBM Watson No Coding  Udemy",
 		"url": "https://www.udemy.com/artificial-intelligence-w-ibm-watson-twitter-bot/",
 		"domain": "www.udemy.com",
-		"image": ""
-	},
-	{
-		"curated_id": "K1ot5nDMo116123D0YYBPLTHxsRyijWSa8123d1169KDdoB9ulj0Oj0eAJdGKEPLrNaDF6aMbLYBcQLRzDs4x5fAKaaKBg117117",
-		"item_date": "2017-04-26 09:30:11",
-		"title": "Twitter",
-		"url": "https://twitter.com/BotStash/status/857270591979704320/photo/1",
-		"domain": "twitter.com",
 		"image": ""
 	},
 	{
@@ -125,14 +173,6 @@
 		"title": "Build Incredible Chatbots  Udemy",
 		"url": "https://www.udemy.com/build-incredible-chatbots/",
 		"domain": "www.udemy.com",
-		"image": ""
-	},
-	{
-		"curated_id": "B4UCRgAOwryQ1BGPwT4KtYZXmqxFpezgzkQ6Aop116tZ116608jQ8M135XSmZKWS4U3mfIPpq3hMbObFtVMTGK2x1A117117",
-		"item_date": "2017-04-23 09:30:17",
-		"title": "Twitter",
-		"url": "https://twitter.com/BotStash/status/856183456996478979/photo/1",
-		"domain": "twitter.com",
 		"image": ""
 	},
 	{
@@ -560,30 +600,6 @@
 		"image": ""
 	},
 	{
-		"curated_id": "jRLd5FoF3u3oDTTnFpWxUrbUvWkawCJAciy123sKK2XS349ArjYS2EKdJBJkIjWAzzfy5SemYP123924Fk6V548C0Q117117",
-		"item_date": "2017-03-06 09:02:03",
-		"title": "Researcher Breaks ReCAPTCHA Using Googles Speech Recognition API  Slashdot",
-		"url": "https://it.slashdot.org/story/17/03/01/2145230/researcher-breaks-recaptcha-using-googles-speech-recognition-api",
-		"domain": "it.slashdot.org",
-		"image": ""
-	},
-	{
-		"curated_id": "FZlL0nRjqwr123a0K8HDaYBngGgpxlDnjuvI0a20VIvM9qocUGG123123Q4Cz5g9CcYqq5CfFKCBn26RLPOcMhXMiJEg117117",
-		"item_date": "2017-03-06 09:02:03",
-		"title": "Researcher Breaks ReCAPTCHA Using Googles Speech Recognition API  Slashdot",
-		"url": "https://it.slashdot.org/story/17/03/01/2145230/researcher-breaks-recaptcha-using-googles-speech-recognition-api",
-		"domain": "it.slashdot.org",
-		"image": ""
-	},
-	{
-		"curated_id": "R9wurTGUptBpDu3csoaz1231seE40bWT6LlvgtDK51238N9thARa7xZj4dZqIHu123sSWLlGROlg3svDZxu48GciRytw117117",
-		"item_date": "2017-03-06 09:02:03",
-		"title": "Twitter",
-		"url": "https://twitter.com/hubrixco/status/838796830213353472/photo/1",
-		"domain": "twitter.com",
-		"image": ""
-	},
-	{
 		"curated_id": "bRTiEjrwdyONaLz5p56LJrIvxuUJYCMzRaokOwTmQ9Uh5W116POZxkfUJGcKNzJSDSc3oSAqwOeODD6ZGfnKBRFQ117117",
 		"item_date": "2017-03-07 00:00:00",
 		"title": "Digital assistants are the latest craze to hit the mobile industry",
@@ -645,14 +661,6 @@
 		"title": "Build Incredible Chatbots",
 		"url": "https://www.udemy.com/build-incredible-chatbots/",
 		"domain": "www.udemy.com",
-		"image": ""
-	},
-	{
-		"curated_id": "gWQcAWKSTOrliv1166hIEdjgbABUjWvJDHorgVoIpAYPrW12ngx0gQZZdPbOZ5DwxA7MynIvOg84KCmRxlyRQa4g117117",
-		"item_date": "2017-03-01 13:12:09",
-		"title": "Twitter",
-		"url": "https://twitter.com/BotStash/status/837047833823961088/photo/1",
-		"domain": "twitter.com",
 		"image": ""
 	},
 	{
@@ -2549,14 +2557,6 @@
 		"title": "DINE Bot  Tasting Tables messenger bot knows where you should eat",
 		"url": "http://www.m.me/unsupportedbrowser",
 		"domain": "www.m.me",
-		"image": ""
-	},
-	{
-		"curated_id": "55RG07QdRLeIfAWA40eroCcFnMJpHMvPsMe116o92K9Yi2gIB123Pz3gLAYec6dLDpUVH123mIXLiVt7jceIwofovwAA117117",
-		"item_date": "2016-07-06 10:58:14",
-		"title": "Twitter",
-		"url": "https://twitter.com/dwolla/status/750725502118162432",
-		"domain": "twitter.com",
 		"image": ""
 	},
 	{
