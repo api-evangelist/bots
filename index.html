@@ -140,7 +140,7 @@ title: API Evangelist - Bots
 
 <!-- Tools -->
 <a name="Tools"></a>
-{% assign approved_tags = 'API Specification,Generator,Validator,API Bots Guide,Data Specification,Bots Editor,Bots Notebook,Hypermedia,IDE,Semantics,gRPC' %}
+{% assign approved_tags = 'Bots' %}
 {% assign tool_content = site.data.tool_content.index[0] %}
 <section>
 	<header>
@@ -155,7 +155,7 @@ title: API Evangelist - Bots
 			{% assign tagArray = tags | split: "," %}
 			{% for tag in tagArray %}
 				{% assign tag = tag | strip %}
-				{% if approved_tags contains tag and tag != site.tag %}
+				{% if approved_tags contains tag %}
 					{% if tagslist contains tag %}
 					{% else %}
 						{% if tagslist != '' %}
