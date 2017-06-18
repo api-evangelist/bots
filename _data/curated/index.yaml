@@ -1,17 +1,4 @@
 ---
-- curated_id: d1badb7ad893b64b7915c40e2e2e80bc
-  item_date: "2013-11-15 18:03:54"
-  title: 'The Rise of Twitter Bots : The New Yorker'
-  url: http://www.newyorker.com/tech/elements/the-rise-of-twitter-bots
-  domain: www.newyorker.com
-  image: ""
-- curated_id: a252c20b2cda81e5306bab32fe0226f6
-  item_date: "2014-05-26 00:00:00"
-  title: Bots were responsible for bitcoin?s stratospheric ascent, anonymous report
-    claims
-  url: https://gigaom.com/2014/05/26/bots-were-responsible-for-bitcoins-stratospheric-ascent-anonymous-report-claims/
-  domain: gigaom.com
-  image: ""
 - curated_id: dce3e9a9d46f6276578128cf4f2df89d
   item_date: "2015-03-27 00:00:00"
   title: Super Easy Serverless Slack Bots
@@ -91,17 +78,17 @@
   url: https://medium.com/slack-developer-blog/slack-bot-onboarding-3b4c979de374
   domain: medium.com
   image: ""
-- curated_id: 053078c97e6b54072548a49fab143d42
-  item_date: "2016-02-17 00:00:00"
-  title: Akamai Gives IT Control over Bots
-  url: http://www.itbusinessedge.com/blogs/it-unmasked/akamai-gives-it-control-over-bots.html
-  domain: www.itbusinessedge.com
-  image: ""
 - curated_id: 10f7ef495a59891d05e759769a506bab
   item_date: "2016-02-17 00:00:00"
   title: Akamai Revolutionizes Bot Management
   url: https://www.akamai.com/us/en/about/news/press/2016-press/akamai-revolutionizes-bot-management.jsp
   domain: www.akamai.com
+  image: ""
+- curated_id: 053078c97e6b54072548a49fab143d42
+  item_date: "2016-02-17 00:00:00"
+  title: Akamai Gives IT Control over Bots
+  url: http://www.itbusinessedge.com/blogs/it-unmasked/akamai-gives-it-control-over-bots.html
+  domain: www.itbusinessedge.com
   image: ""
 - curated_id: 38bc75d77e6a951443c6eef6f9af7479
   item_date: "2016-02-21 00:00:00"
@@ -121,18 +108,18 @@
   url: http://breakthroughanalysis.com/2016/02/15/ai-world-have-your-bot-call-mine/
   domain: breakthroughanalysis.com
   image: ""
+- curated_id: 9e8a2f274bf2d59b90baf7093a0032f9
+  item_date: "2016-02-23 00:00:00"
+  title: Gupshup Launches Smart Messaging Portal for Developers
+  url: http://www.streetinsider.com/Press+Releases/Gupshup+Launches+Smart+Messaging+Portal+for+Developers/11350973.html
+  domain: www.streetinsider.com
+  image: ""
 - curated_id: 85474ee4d1522cf75a236ebe8938f2b3
   item_date: "2016-02-23 00:00:00"
   title: The good, bad, and ugly of the world of bots, and the journalistic implications
     of using them
   url: http://www.niemanlab.org/2016/02/the-good-bad-and-ugly-of-the-world-of-bots-and-the-journalistic-implications-of-using-them/
   domain: www.niemanlab.org
-  image: ""
-- curated_id: 9e8a2f274bf2d59b90baf7093a0032f9
-  item_date: "2016-02-23 00:00:00"
-  title: Gupshup Launches Smart Messaging Portal for Developers
-  url: http://www.streetinsider.com/Press+Releases/Gupshup+Launches+Smart+Messaging+Portal+for+Developers/11350973.html
-  domain: www.streetinsider.com
   image: ""
 - curated_id: 015c49dca32cea87a147888e6e5d6eff
   item_date: "2016-02-25 00:00:00"
@@ -202,18 +189,18 @@
   url: https://medium.com/making-meya/the-not-so-obvious-hard-things-about-bots-d25084e336fa
   domain: medium.com
   image: ""
-- curated_id: f8902649c8f2718d586fb720dcb929a5
-  item_date: "2016-03-10 00:00:00"
-  title: 'Easy-Peasy Bots: Beep Boop!'
-  url: https://medium.com/slack-developer-blog/easy-peasy-bots-beep-boop-6240328a0f8d
-  domain: medium.com
-  image: ""
 - curated_id: 806aac62dcab756fa58effe5e411a068
   item_date: "2016-03-10 00:00:00"
   title: Searching the UK Parliament API from Slack Slash Commands Using a Python
     Microservice  via Hook.io Webhooks
   url: http://blog.ouseful.info/2016/03/10/searching-the-uk-parliament-api-from-slack-slash-commands-using-a-python-microservice-via-hook-io-webhooks/
   domain: blog.ouseful.info
+  image: ""
+- curated_id: f8902649c8f2718d586fb720dcb929a5
+  item_date: "2016-03-10 00:00:00"
+  title: 'Easy-Peasy Bots: Beep Boop!'
+  url: https://medium.com/slack-developer-blog/easy-peasy-bots-beep-boop-6240328a0f8d
+  domain: medium.com
   image: ""
 - curated_id: 8525bfda63d54a4ede87189e8d16f294
   item_date: "2016-03-12 00:00:00"
@@ -264,17 +251,17 @@
   url: http://launchany.com/slack-chatbots-and-voice-at-the-intersection-of-humans-and-apis/
   domain: launchany.com
   image: ""
-- curated_id: ee83541eb3d23969e6ddc940ea8b0966
-  item_date: "2016-03-17 00:00:00"
-  title: 'Slack users, meet Lookerbot: a new tool that brings your data into the...'
-  url: http://www.cio.com.au/article/596140/slack-users-meet-lookerbot-new-tool-brings-your-data-into-conversation/
-  domain: www.cio.com.au
-  image: ""
 - curated_id: 8aa31ecc366e7119f29cf390080888da
   item_date: "2016-03-17 00:00:00"
   title: Your Personal Stats Via Kifi BOT
   url: http://blog.kifi.com/personal-stats-via-kifi-bot/
   domain: blog.kifi.com
+  image: ""
+- curated_id: ee83541eb3d23969e6ddc940ea8b0966
+  item_date: "2016-03-17 00:00:00"
+  title: 'Slack users, meet Lookerbot: a new tool that brings your data into the...'
+  url: http://www.cio.com.au/article/596140/slack-users-meet-lookerbot-new-tool-brings-your-data-into-conversation/
+  domain: www.cio.com.au
   image: ""
 - curated_id: a8dde8a04f927d30cccdcd5e60468012
   item_date: "2016-03-18 00:00:00"
@@ -314,18 +301,24 @@
   url: https://medium.com/making-meya/bots-what-are-they-good-for-9d3906ba60c9
   domain: medium.com
   image: ""
+- curated_id: 18964c075fd5afb246b7487e70fa2f64
+  item_date: "2016-03-23 00:00:00"
+  title: Microsoft made a chatbot that tweets like a teen
+  url: http://www.theverge.com/2016/3/23/11290200/tay-ai-chatbot-released-microsoft
+  domain: www.theverge.com
+  image: ""
+- curated_id: b49b9c418cccdb9aa25449f778157503
+  item_date: "2016-03-23 00:00:00"
+  title: Kayak Slack Bot ? Travel search is now literally at your fingertips
+  url: https://www.kayak.com/slack
+  domain: www.kayak.com
+  image: ""
 - curated_id: 9668de121d9697935b55fa95aab8478f
   item_date: "2016-03-23 00:00:00"
   title: 'PAW: Puppies At Work ? Slack-integrated tracking that keeps tabs of dogs
     in work'
   url: https://paw.isl.co/
   domain: paw.isl.co
-  image: ""
-- curated_id: 18964c075fd5afb246b7487e70fa2f64
-  item_date: "2016-03-23 00:00:00"
-  title: Microsoft made a chatbot that tweets like a teen
-  url: http://www.theverge.com/2016/3/23/11290200/tay-ai-chatbot-released-microsoft
-  domain: www.theverge.com
   image: ""
 - curated_id: e17326a935a949315070639d5e73236d
   item_date: "2016-03-23 00:00:00"
@@ -338,12 +331,6 @@
   title: We put Microsofts new teen chatbot to the test ? and the results were hilarious
   url: http://www.businessinsider.com/microsoft-teen-chatbot-twitter-2016-3
   domain: www.businessinsider.com
-  image: ""
-- curated_id: b49b9c418cccdb9aa25449f778157503
-  item_date: "2016-03-23 00:00:00"
-  title: Kayak Slack Bot ? Travel search is now literally at your fingertips
-  url: https://www.kayak.com/slack
-  domain: www.kayak.com
   image: ""
 - curated_id: 2699f117a0caf0b4e274b873bbfced68
   item_date: "2016-03-23 00:00:00"
@@ -363,17 +350,17 @@
   url: http://tenthousandbarnacles.tumblr.com/post/141559821872/meet-tay-microsofts-new-ai-chat-bot-itworld
   domain: tenthousandbarnacles.tumblr.com
   image: ""
-- curated_id: 5193792f2ca25bac1608974edf47aaa2
-  item_date: "2016-03-24 00:00:00"
-  title: Microsoft Chat Bot Goes On Racist, Genocidal Twitter Rampage
-  url: http://www.huffingtonpost.com/entry/microsoft-tay-racist-tweets_us_56f3e678e4b04c4c37615502
-  domain: www.huffingtonpost.com
-  image: ""
 - curated_id: 11174dcfd306703d5f6d195e983d0191
   item_date: "2016-03-24 00:00:00"
   title: Microsoft?s AI chatbot Tay learned how to be racist in less than 24 hours
   url: http://thenextweb.com/insider/2016/03/24/microsoft-pulled-plug-ai-chatbot-became-racist/
   domain: thenextweb.com
+  image: ""
+- curated_id: 5193792f2ca25bac1608974edf47aaa2
+  item_date: "2016-03-24 00:00:00"
+  title: Microsoft Chat Bot Goes On Racist, Genocidal Twitter Rampage
+  url: http://www.huffingtonpost.com/entry/microsoft-tay-racist-tweets_us_56f3e678e4b04c4c37615502
+  domain: www.huffingtonpost.com
   image: ""
 - curated_id: 186f6528e776f405d42fb40cd885ad6e
   item_date: "2016-03-25 00:00:00"
@@ -400,17 +387,17 @@
   url: https://dzone.com/articles/researchers-develop-automated-planners
   domain: dzone.com
   image: ""
-- curated_id: e5127ca4f1ae9afd6e1052e6879eaf59
-  item_date: "2016-03-25 00:00:00"
-  title: Microsoft?s Twitter ?chatbot? gets hobbled
-  url: http://disruptiveviews.com/microsofts-twitter-chatbot-gets-hobbled/
-  domain: disruptiveviews.com
-  image: ""
 - curated_id: b28fbabe6b1a5c3a79aa3b7dae6cc81b
   item_date: "2016-03-25 00:00:00"
   title: The Bot Rulebook
   url: https://medium.com/slack-developer-blog/the-bot-rulebook-a442d9fb21cb
   domain: medium.com
+  image: ""
+- curated_id: e5127ca4f1ae9afd6e1052e6879eaf59
+  item_date: "2016-03-25 00:00:00"
+  title: Microsoft?s Twitter ?chatbot? gets hobbled
+  url: http://disruptiveviews.com/microsofts-twitter-chatbot-gets-hobbled/
+  domain: disruptiveviews.com
   image: ""
 - curated_id: 2a0187c5f137f466da6d3083a0c48237
   item_date: "2016-03-25 15:41:10"
@@ -513,11 +500,11 @@
   url: http://www.businessinsider.com/microsoft-ceo-satya-nadella-on-tay-chatbot-2016-3
   domain: www.businessinsider.com
   image: ""
-- curated_id: 58475527f36be53140cb6149e5d21ce6
+- curated_id: a42fa40112b42ff31baa01d0eda54d51
   item_date: "2016-03-31 00:00:00"
-  title: Abot ? Build your own digital assistant
-  url: https://www.itsabot.org/
-  domain: www.itsabot.org
+  title: Microsoft Launches Bot Framework, Cognitive Services, and Skype Bots
+  url: http://www.programmableweb.com/news/microsoft-launches-bot-framework-cognitive-services-and-skype-bots/brief/2016/03/31
+  domain: www.programmableweb.com
   image: ""
 - curated_id: 7fd1d395fcdfe7a53b8a8f891128155d
   item_date: "2016-03-31 00:00:00"
@@ -525,11 +512,11 @@
   url: http://www.thehindu.com/sci-tech/microsofts-sathya-nadella-introduces-intelligent-bots/article8417725.ece
   domain: www.thehindu.com
   image: ""
-- curated_id: a42fa40112b42ff31baa01d0eda54d51
+- curated_id: 58475527f36be53140cb6149e5d21ce6
   item_date: "2016-03-31 00:00:00"
-  title: Microsoft Launches Bot Framework, Cognitive Services, and Skype Bots
-  url: http://www.programmableweb.com/news/microsoft-launches-bot-framework-cognitive-services-and-skype-bots/brief/2016/03/31
-  domain: www.programmableweb.com
+  title: Abot ? Build your own digital assistant
+  url: https://www.itsabot.org/
+  domain: www.itsabot.org
   image: ""
 - curated_id: d7abb3417102c4b2f65eb1352919d6ca
   item_date: "2016-03-31 00:00:00"
@@ -609,13 +596,6 @@
   url: https://www.tacobell.com/feed/tacobot
   domain: www.tacobell.com
   image: ""
-- curated_id: 1ab617e57be0947ffc13c4b6dca7bd7d
-  item_date: "2016-04-07 00:00:00"
-  title: 'Good Reads : Brands as chatty friends: Are chatbots ?the beginning of a
-    new Internet??'
-  url: http://blog.gupshup.io/index.php/2016/04/07/good-reads-brands-as-chatty-friends-are-chatbots-the-beginning-of-a-new-internet/
-  domain: blog.gupshup.io
-  image: ""
 - curated_id: 1a06ce8e940d749b3f820cab5d77799b
   item_date: "2016-04-07 00:00:00"
   title: Taco Bell is using a chat bot to completely change how you order food (YUM)
@@ -629,11 +609,12 @@
   url: http://www.businessinsider.com/xai-raises-23-million-in-series-b-2016-4
   domain: www.businessinsider.com
   image: ""
-- curated_id: e73a2e85e871309f34bae06be0bba9e0
+- curated_id: 1ab617e57be0947ffc13c4b6dca7bd7d
   item_date: "2016-04-07 00:00:00"
-  title: The Meya Bot Platform has launched!
-  url: https://medium.com/making-meya/the-meya-bot-platform-has-launched-45dfed405f1
-  domain: medium.com
+  title: 'Good Reads : Brands as chatty friends: Are chatbots ?the beginning of a
+    new Internet??'
+  url: http://blog.gupshup.io/index.php/2016/04/07/good-reads-brands-as-chatty-friends-are-chatbots-the-beginning-of-a-new-internet/
+  domain: blog.gupshup.io
   image: ""
 - curated_id: 1633155a4346873e81e6562e62ac163f
   item_date: "2016-04-07 00:00:00"
@@ -641,6 +622,12 @@
     fall
   url: http://venturebeat.com/2016/04/07/x-ai-raises-23-million-for-its-ai-personal-assistant-plans-to-launch-this-fall/
   domain: venturebeat.com
+  image: ""
+- curated_id: e73a2e85e871309f34bae06be0bba9e0
+  item_date: "2016-04-07 00:00:00"
+  title: The Meya Bot Platform has launched!
+  url: https://medium.com/making-meya/the-meya-bot-platform-has-launched-45dfed405f1
+  domain: medium.com
   image: ""
 - curated_id: dc2e8dabc6c834d2bb0864cec8d3246a
   item_date: "2016-04-08 00:00:00"
@@ -680,30 +667,11 @@
   url: http://thenextweb.com/shareables/2016/04/11/bot-just-made-perfect-spotify-playlist-itll/
   domain: thenextweb.com
   image: ""
-- curated_id: c10af0fc43c6d61375bd24b2ff23da85
-  item_date: "2016-04-12 00:00:00"
-  title: Facebook Bets on a Bot Resurgence, Chattier Than Ever
-  url: http://rss.nytimes.com/c/34625/f/640387/s/4ee4b445/sc/28/l/0L0Snytimes0N0C20A160C0A40C130Ctechnology0Cfacebook0Ebets0Eon0Ea0Ebot0Eresurgence0Echattier0Ethan0Eever0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm
-  domain: rss.nytimes.com
-  image: ""
 - curated_id: 50f3eb2fc4b88f0f6d9aaf60def1b41c
   item_date: "2016-04-12 00:00:00"
   title: Facebook brings the bots to the next generation of Messenger
   url: http://zdnet.com.feedsportal.com/c/35462/f/675663/s/4ee51f7f/sc/28/l/0L0Szdnet0N0Carticle0Cfacebook0Ebrings0Ethe0Ebots0Eto0Ethe0Enext0Egeneration0Eof0Emessenger0C0Tftag0FRSSbaffb68/story01.htm
   domain: zdnet.com.feedsportal.com
-  image: ""
-- curated_id: 282d833d3cf72035ac8a4a3dc61e8447
-  item_date: "2016-04-12 00:00:00"
-  title: 'CHATBOTS EXPLAINED: Why Facebook and other tech companies think theyre the
-    biggest thing since the iPhone'
-  url: http://www.businessinsider.com/what-are-facebook-chatbots-and-who-is-building-them-2016-4
-  domain: www.businessinsider.com
-  image: ""
-- curated_id: 622ae99c0c08324c007166f1b1ca2635
-  item_date: "2016-04-12 00:00:00"
-  title: 'Bots: The Next Big Thing In Mobile? Not So Fast.'
-  url: http://www.huffingtonpost.com/julie-ask/bots-the-next-big-thing-i_b_9662326.html
-  domain: www.huffingtonpost.com
   image: ""
 - curated_id: c3d7ab6dfdf368eb4435bc4899ab1b53
   item_date: "2016-04-12 00:00:00"
@@ -723,10 +691,41 @@
   url: http://www.businessinsider.com/business-insider-launching-facebook-messenger-bot-2016-4
   domain: www.businessinsider.com
   image: ""
-- curated_id: b9400c4beee38ae1eb5e9ff6f06502a6
+- curated_id: 622ae99c0c08324c007166f1b1ca2635
   item_date: "2016-04-12 00:00:00"
-  title: There will be a bot for everything
-  url: http://www.theverge.com/2016/4/12/11416122/there-will-be-a-bot-for-everything
+  title: 'Bots: The Next Big Thing In Mobile? Not So Fast.'
+  url: http://www.huffingtonpost.com/julie-ask/bots-the-next-big-thing-i_b_9662326.html
+  domain: www.huffingtonpost.com
+  image: ""
+- curated_id: 9ae3838afb013c28405774dad4c29087
+  item_date: "2016-04-12 00:00:00"
+  title: Facebook opens its Messenger platform to chatbots
+  url: http://venturebeat.com/2016/04/12/facebook-opens-its-messenger-platform-to-chatbots/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 282d833d3cf72035ac8a4a3dc61e8447
+  item_date: "2016-04-12 00:00:00"
+  title: 'CHATBOTS EXPLAINED: Why Facebook and other tech companies think theyre the
+    biggest thing since the iPhone'
+  url: http://www.businessinsider.com/what-are-facebook-chatbots-and-who-is-building-them-2016-4
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: c10af0fc43c6d61375bd24b2ff23da85
+  item_date: "2016-04-12 00:00:00"
+  title: Facebook Bets on a Bot Resurgence, Chattier Than Ever
+  url: http://rss.nytimes.com/c/34625/f/640387/s/4ee4b445/sc/28/l/0L0Snytimes0N0C20A160C0A40C130Ctechnology0Cfacebook0Ebets0Eon0Ea0Ebot0Eresurgence0Echattier0Ethan0Eever0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm
+  domain: rss.nytimes.com
+  image: ""
+- curated_id: 078a9c60243df453ca1bf6b371de1443
+  item_date: "2016-04-12 00:00:00"
+  title: The chatbot gold rush is officially here
+  url: http://venturebeat.com/2016/04/12/the-chatbot-gold-rush-is-officially-here/
+  domain: venturebeat.com
+  image: ""
+- curated_id: cbb53a7e7b8d237bd7576d485e0cb065
+  item_date: "2016-04-12 00:00:00"
+  title: Facebooks new Messenger bots are the slowest way to use the internet
+  url: http://www.theverge.com/2016/4/12/11416472/facebook-messenger-ai-bots-slow-f8-conference
   domain: www.theverge.com
   image: ""
 - curated_id: e6e25e1aafcf0005a6454a53db4262e7
@@ -735,23 +734,17 @@
   url: https://telegram.org/blog/bots-2-0
   domain: telegram.org
   image: ""
-- curated_id: 9ae3838afb013c28405774dad4c29087
+- curated_id: b9400c4beee38ae1eb5e9ff6f06502a6
   item_date: "2016-04-12 00:00:00"
-  title: Facebook opens its Messenger platform to chatbots
-  url: http://venturebeat.com/2016/04/12/facebook-opens-its-messenger-platform-to-chatbots/
-  domain: venturebeat.com
+  title: There will be a bot for everything
+  url: http://www.theverge.com/2016/4/12/11416122/there-will-be-a-bot-for-everything
+  domain: www.theverge.com
   image: ""
 - curated_id: 102e9be9277c1a28e6b1b5e29bfaa6b2
   item_date: "2016-04-12 00:00:00"
   title: Partly cloudy with a chance of bots at Facebook?s F8 conference
   url: http://www.niemanlab.org/2016/04/partly-cloudy-with-a-chance-of-bots-at-facebooks-f8-conference/
   domain: www.niemanlab.org
-  image: ""
-- curated_id: 078a9c60243df453ca1bf6b371de1443
-  item_date: "2016-04-12 00:00:00"
-  title: The chatbot gold rush is officially here
-  url: http://venturebeat.com/2016/04/12/the-chatbot-gold-rush-is-officially-here/
-  domain: venturebeat.com
   image: ""
 - curated_id: 7326bf0f807197d9d16e34958869f851
   item_date: "2016-04-12 00:00:00"
@@ -760,11 +753,11 @@
   url: http://thenextweb.com/insider/2016/04/12/messenger-bots/
   domain: thenextweb.com
   image: ""
-- curated_id: cbb53a7e7b8d237bd7576d485e0cb065
-  item_date: "2016-04-12 00:00:00"
-  title: Facebooks new Messenger bots are the slowest way to use the internet
-  url: http://www.theverge.com/2016/4/12/11416472/facebook-messenger-ai-bots-slow-f8-conference
-  domain: www.theverge.com
+- curated_id: 54cfa2881904b6bc57e0e793c21ae1f1
+  item_date: "2016-04-13 00:00:00"
+  title: 'Bits: Bots are Back, and They Might Even Be Welcome'
+  url: http://www.nytimes.com/2016/04/14/technology/bots-are-back-and-they-might-even-be-welcome.html
+  domain: www.nytimes.com
   image: ""
 - curated_id: 8439fe978ebc1a2008604b3ee929319f
   item_date: "2016-04-13 00:00:00"
@@ -772,17 +765,11 @@
   url: http://disruptiveviews.com/chatbots-facebooks-next-frontier/
   domain: disruptiveviews.com
   image: ""
-- curated_id: 54cfa2881904b6bc57e0e793c21ae1f1
+- curated_id: 1b1ca083a9ebd75304b6f30db9b86c39
   item_date: "2016-04-13 00:00:00"
-  title: 'Bits: Bots are Back, and They Might Even Be Welcome'
-  url: http://www.nytimes.com/2016/04/14/technology/bots-are-back-and-they-might-even-be-welcome.html
-  domain: www.nytimes.com
-  image: ""
-- curated_id: 592c062a79d7f836e2f5a840dbcd4e36
-  item_date: "2016-04-13 00:00:00"
-  title: 3 trends driving the chatbot revolution
-  url: http://feeds.venturebeat.com/c/34021/f/670087/s/4eecf0dd/sc/28/l/0Lventurebeat0N0C20A160C0A40C130C30Etrends0Edriving0Ethe0Echatbot0Erevolution0C/story01.htm
-  domain: feeds.venturebeat.com
+  title: 'API Update: New Field in API Responses'
+  url: https://medium.com/slack-developer-blog/api-update-new-field-in-api-responses-d23076ea2ef3
+  domain: medium.com
   image: ""
 - curated_id: 348fb128aa6193226b75a7d194605ba0
   item_date: "2016-04-13 00:00:00"
@@ -790,30 +777,10 @@
   url: http://www.computerweekly.com/blogs/cwdn/2016/04/distil-networks-when-bad-bots-feed-on-api-endpoints.html
   domain: www.computerweekly.com
   image: ""
-- curated_id: 1b1ca083a9ebd75304b6f30db9b86c39
+- curated_id: 592c062a79d7f836e2f5a840dbcd4e36
   item_date: "2016-04-13 00:00:00"
-  title: 'API Update: New Field in API Responses'
-  url: https://medium.com/slack-developer-blog/api-update-new-field-in-api-responses-d23076ea2ef3
-  domain: medium.com
-  image: ""
-- curated_id: 4f7521cd32d723c3bbf2f868bd988021
-  item_date: "2016-04-13 00:00:00"
-  title: From News Bots To Sharing Tools To Solving Freebooting, Facebook F8 2016
-    Should Make Publishers Happy
-  url: http://lighthouseinsights.in/facebook-f8-for-publishers.html/
-  domain: lighthouseinsights.in
-  image: ""
-- curated_id: 3dadc670a0d0e26b58083429b2d4ccce
-  item_date: "2016-04-13 00:00:00"
-  title: Telegram Bot API 2.0 Features New Inline Keyboards, Message Editing, and
-    More
-  url: http://www.programmableweb.com/news/telegram-bot-api-2.0-features-new-inline-keyboards-message-editing-and-more/brief/2016/04/13
-  domain: www.programmableweb.com
-  image: ""
-- curated_id: 32e984f2bce27e89ee46af92aa5f3b4d
-  item_date: "2016-04-13 00:00:00"
-  title: Shopify acquires Kit, the artificially intelligent marketing bot
-  url: http://feeds.venturebeat.com/c/34021/f/670087/s/4ee98959/sc/28/l/0Lventurebeat0N0C20A160C0A40C130Cshopify0Eacquires0Ekit0Ethe0Eartificially0Eintelligent0Emarketing0Ebot0C/story01.htm
+  title: 3 trends driving the chatbot revolution
+  url: http://feeds.venturebeat.com/c/34021/f/670087/s/4eecf0dd/sc/28/l/0Lventurebeat0N0C20A160C0A40C130C30Etrends0Edriving0Ethe0Echatbot0Erevolution0C/story01.htm
   domain: feeds.venturebeat.com
   image: ""
 - curated_id: 5474d96e2f5cd94fa71b24ec1ea30032
@@ -828,12 +795,38 @@
   url: http://disruptiveviews.com/will-chatbots-revolutionise-wreck-customer-service/
   domain: disruptiveviews.com
   image: ""
+- curated_id: 3dadc670a0d0e26b58083429b2d4ccce
+  item_date: "2016-04-13 00:00:00"
+  title: Telegram Bot API 2.0 Features New Inline Keyboards, Message Editing, and
+    More
+  url: http://www.programmableweb.com/news/telegram-bot-api-2.0-features-new-inline-keyboards-message-editing-and-more/brief/2016/04/13
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 4f7521cd32d723c3bbf2f868bd988021
+  item_date: "2016-04-13 00:00:00"
+  title: From News Bots To Sharing Tools To Solving Freebooting, Facebook F8 2016
+    Should Make Publishers Happy
+  url: http://lighthouseinsights.in/facebook-f8-for-publishers.html/
+  domain: lighthouseinsights.in
+  image: ""
+- curated_id: 32e984f2bce27e89ee46af92aa5f3b4d
+  item_date: "2016-04-13 00:00:00"
+  title: Shopify acquires Kit, the artificially intelligent marketing bot
+  url: http://feeds.venturebeat.com/c/34021/f/670087/s/4ee98959/sc/28/l/0Lventurebeat0N0C20A160C0A40C130Cshopify0Eacquires0Ekit0Ethe0Eartificially0Eintelligent0Emarketing0Ebot0C/story01.htm
+  domain: feeds.venturebeat.com
+  image: ""
 - curated_id: deb523f2cfa64d1dd1e97e874fe025f7
   item_date: "2016-04-13 21:33:21"
   title: It Will Be All About Doing Bots, Selling Picks  Shovels, Providing Platforms,
     Or The Anti-Bot Technology
   url: http://kinlane.com/2016/04/13/it-will-be-all-about-doing-bots-selling-picks-shovels-providing-platforms-or-the-antibot-technology
   domain: kinlane.com
+  image: ""
+- curated_id: f652ef82a3d991754fa10fe9c68d57d4
+  item_date: "2016-04-14 00:00:00"
+  title: Facebook Wants to Replace Apps with Bots
+  url: https://www.infoq.com/news/2016/04/facebook-bot-engine
+  domain: www.infoq.com
   image: ""
 - curated_id: 95de889af5180d2fadf04cf0096777a6
   item_date: "2016-04-14 00:00:00"
@@ -842,12 +835,6 @@
   url: http://www.businessinsider.com/microsoft-ai-bot-accurately-captions-photos-2016-4
   domain: www.businessinsider.com
   image: ""
-- curated_id: f652ef82a3d991754fa10fe9c68d57d4
-  item_date: "2016-04-14 00:00:00"
-  title: Facebook Wants to Replace Apps with Bots
-  url: https://www.infoq.com/news/2016/04/facebook-bot-engine
-  domain: www.infoq.com
-  image: ""
 - curated_id: 28ec8b6f1cbb67318d4f43fcb018a8e0
   item_date: "2016-04-14 00:00:00"
   title: Microsofts new AI bot tries to put captions on images, and some of the responses
@@ -855,17 +842,17 @@
   url: http://www.businessinsider.com/microsofts-new-ai-bot-caption-works-of-art-2016-4
   domain: www.businessinsider.com
   image: ""
-- curated_id: d339f48cf99f3b21ece3e284ae5bc890
-  item_date: "2016-04-15 00:00:00"
-  title: A court in Argentina has ordered a crackdown on Ubers operations
-  url: http://www.businessinsider.com/argentina-crackdown-on-uber-2016-4
-  domain: www.businessinsider.com
-  image: ""
 - curated_id: 1932783cf43d8f671c82a92b7a339664
   item_date: "2016-04-15 00:00:00"
   title: A Future Of Chatbots
   url: http://www.platformnation.com/2016/04/15/a-future-of-chatbots/
   domain: www.platformnation.com
+  image: ""
+- curated_id: d339f48cf99f3b21ece3e284ae5bc890
+  item_date: "2016-04-15 00:00:00"
+  title: A court in Argentina has ordered a crackdown on Ubers operations
+  url: http://www.businessinsider.com/argentina-crackdown-on-uber-2016-4
+  domain: www.businessinsider.com
   image: ""
 - curated_id: 5da5e762520283cd6bebb4727787811e
   item_date: "2016-04-16 10:31:49"
@@ -935,13 +922,6 @@
   url: https://www.slashnotes.com
   domain: www.slashnotes.com
   image: ""
-- curated_id: b0bff69f777d1650a7b5a4716426fcf2
-  item_date: "2016-04-20 00:00:00"
-  title: 'The Data Briefing: Chatbots and the Rise of Conversational Commerce and
-    Citizen Experience'
-  url: http://www.digitalgov.gov/2016/04/20/the-data-briefing-chatbots-and-the-rise-of-conversational-commerce-and-citizen-experience/
-  domain: www.digitalgov.gov
-  image: ""
 - curated_id: 51a26f4c49652b620f735a9a7e59b9b9
   item_date: "2016-04-20 00:00:00"
   title: This Google-backed bot steals from your bank account right under your nose
@@ -949,11 +929,12 @@
   url: http://www.businessinsider.com/digit-savings-app-walkthrough-2016-4
   domain: www.businessinsider.com
   image: ""
-- curated_id: d1ab8b44fdb5fe20ce51ce6b3fc3ea25
-  item_date: "2016-04-21 00:00:00"
-  title: Bot Conversations
-  url: http://www.indix.com/blog/product-information/bot-conversations/
-  domain: www.indix.com
+- curated_id: b0bff69f777d1650a7b5a4716426fcf2
+  item_date: "2016-04-20 00:00:00"
+  title: 'The Data Briefing: Chatbots and the Rise of Conversational Commerce and
+    Citizen Experience'
+  url: http://www.digitalgov.gov/2016/04/20/the-data-briefing-chatbots-and-the-rise-of-conversational-commerce-and-citizen-experience/
+  domain: www.digitalgov.gov
   image: ""
 - curated_id: 159cc0be303d5d2f7418571c65297a04
   item_date: "2016-04-21 00:00:00"
@@ -966,6 +947,12 @@
   title: What Chatbots Reveal About Our Own Shortcomings
   url: http://www.nytimes.com/2016/04/24/magazine/what-chatbots-reveal-about-our-own-shortcomings.html
   domain: www.nytimes.com
+  image: ""
+- curated_id: d1ab8b44fdb5fe20ce51ce6b3fc3ea25
+  item_date: "2016-04-21 00:00:00"
+  title: Bot Conversations
+  url: http://www.indix.com/blog/product-information/bot-conversations/
+  domain: www.indix.com
   image: ""
 - curated_id: c6bb30d79985096e89424807b77b5d65
   item_date: "2016-04-22 00:00:00"
@@ -1125,11 +1112,11 @@
   url: http://hackaday.com/2016/05/10/eddie-the-balance-bot/
   domain: hackaday.com
   image: ""
-- curated_id: 48598a4ebb88373c873184e0c15d272f
+- curated_id: c4ad77e39f74f19a1d71529b514418ed
   item_date: "2016-05-11 00:00:00"
-  title: Chatfuel for Messenger ? The intuitive bot builder with AI navigation
-  url: https://chatfuel.com/create-chatbot-for-facebook
-  domain: chatfuel.com
+  title: 'Bots you can count on: meet the developers behind Statsbot'
+  url: https://medium.com/slack-developer-blog/bots-you-can-count-on-meet-the-developers-behind-statsbot-1ddb2961ead0
+  domain: medium.com
   image: ""
 - curated_id: 6bcead65b443e33f1da48cf970977955
   item_date: "2016-05-11 00:00:00"
@@ -1143,17 +1130,23 @@
   url: http://blog.attentive.us/use-slack-search-and-follow-company-news-instantly
   domain: blog.attentive.us
   image: ""
+- curated_id: 48598a4ebb88373c873184e0c15d272f
+  item_date: "2016-05-11 00:00:00"
+  title: Chatfuel for Messenger ? The intuitive bot builder with AI navigation
+  url: https://chatfuel.com/create-chatbot-for-facebook
+  domain: chatfuel.com
+  image: ""
 - curated_id: a3f842e956119ba8fcacb97f2434d0ad
   item_date: "2016-05-11 00:00:00"
   title: Facebooks new chat bot platform is off to a fantastic start (FB)
   url: http://www.businessinsider.com/developers-flock-to-facebook-messenger-platform-for-chatbots-2016-5
   domain: www.businessinsider.com
   image: ""
-- curated_id: c4ad77e39f74f19a1d71529b514418ed
+- curated_id: 4f423a135e3f68927a7386263889569f
   item_date: "2016-05-11 00:00:00"
-  title: 'Bots you can count on: meet the developers behind Statsbot'
-  url: https://medium.com/slack-developer-blog/bots-you-can-count-on-meet-the-developers-behind-statsbot-1ddb2961ead0
-  domain: medium.com
+  title: Statsbot for Mixpanel ? Mixpanel bot for Slack
+  url: https://statsbot.co/mixpanel
+  domain: statsbot.co
   image: ""
 - curated_id: ef8fffa4409edce7de7d0cf1e3991586
   item_date: "2016-05-11 00:00:00"
@@ -1166,12 +1159,6 @@
   title: Investing, Authentication, and a Few Bots Take the Stage at Finovate
   url: http://bankinnovation.net/2016/05/investing-authentication-and-a-few-bots-take-the-stage-at-finovate/
   domain: bankinnovation.net
-  image: ""
-- curated_id: 4f423a135e3f68927a7386263889569f
-  item_date: "2016-05-11 00:00:00"
-  title: Statsbot for Mixpanel ? Mixpanel bot for Slack
-  url: https://statsbot.co/mixpanel
-  domain: statsbot.co
   image: ""
 - curated_id: 508a1dfc5296985d6a0a84fd4d4a9b39
   item_date: "2016-05-11 09:03:38"
@@ -1236,6 +1223,12 @@
   url: https://botarena.co/
   domain: botarena.co
   image: ""
+- curated_id: bbde5e5efc7ba3c47caa5267bd84b0ae
+  item_date: "2016-05-16 00:00:00"
+  title: Jarvis ? Messenger bot to remind you to get stuff done.
+  url: http://lawrencewu.me/jarvis/
+  domain: lawrencewu.me
+  image: ""
 - curated_id: b559bd5b53df524835010799af1a8ca6
   item_date: "2016-05-16 00:00:00"
   title: 'Street Fight Daily: Product Ads Come to Google Image Search, Weighing Bots?
@@ -1243,29 +1236,23 @@
   url: http://streetfightmag.com/2016/05/17/street-fight-daily-google-adds-product-ads-to-images-apple-pay-competitor-flails/
   domain: streetfightmag.com
   image: ""
-- curated_id: bbde5e5efc7ba3c47caa5267bd84b0ae
-  item_date: "2016-05-16 00:00:00"
-  title: Jarvis ? Messenger bot to remind you to get stuff done.
-  url: http://lawrencewu.me/jarvis/
-  domain: lawrencewu.me
-  image: ""
 - curated_id: 78138b8d3ea4786a98df34bb11c870b3
   item_date: "2016-05-16 00:00:00"
   title: The Bot Lifecycle
   url: http://blog.gupshup.io/index.php/2016/05/17/the-bot-lifecycle/
   domain: blog.gupshup.io
   image: ""
-- curated_id: 9e5e38029c2dea71b959c64e434b7c29
-  item_date: "2016-05-17 00:00:00"
-  title: Obie.ai ? Bite-sized training and knowledge delivered to Slack
-  url: http://obie.ai
-  domain: obie.ai
-  image: ""
 - curated_id: ca800aca340cc9e9cc4657a404a1bf4b
   item_date: "2016-05-17 00:00:00"
   title: Polly ? A learning bot that collects feedback from your Slack team
   url: https://www.polly.ai
   domain: www.polly.ai
+  image: ""
+- curated_id: 9e5e38029c2dea71b959c64e434b7c29
+  item_date: "2016-05-17 00:00:00"
+  title: Obie.ai ? Bite-sized training and knowledge delivered to Slack
+  url: http://obie.ai
+  domain: obie.ai
   image: ""
 - curated_id: 4999f1cb56051968f1a7b19c58d7709c
   item_date: "2016-05-17 00:00:00"
@@ -1279,17 +1266,17 @@
   url: http://emojify.montoyaindustries.com
   domain: emojify.montoyaindustries.com
   image: ""
-- curated_id: eb9dee928814ed720e86526989513d81
-  item_date: "2016-05-19 00:00:00"
-  title: How to Develop an IM Bot for Facebook Messenger
-  url: https://dzone.com/articles/how-to-develop-an-im-bot-for-facebook-messenger
-  domain: dzone.com
-  image: ""
 - curated_id: 851941f9837503c3e213d8f49959547f
   item_date: "2016-05-19 00:00:00"
   title: Google developed a processor to power its AI bots
   url: http://thenextweb.com/google/2016/05/19/google-developed-processor-power-ai-bots/
   domain: thenextweb.com
+  image: ""
+- curated_id: eb9dee928814ed720e86526989513d81
+  item_date: "2016-05-19 00:00:00"
+  title: How to Develop an IM Bot for Facebook Messenger
+  url: https://dzone.com/articles/how-to-develop-an-im-bot-for-facebook-messenger
+  domain: dzone.com
   image: ""
 - curated_id: 45441713768281b72479a21cad3c593a
   item_date: "2016-05-23 00:00:00"
@@ -1335,17 +1322,17 @@
   url: http://blog.gupshup.io/index.php/2016/05/31/why-the-future-of-bots-will-be-multi-platform/
   domain: blog.gupshup.io
   image: ""
-- curated_id: fb42956c92e7801c513c3156b3bf8560
-  item_date: "2016-06-01 00:00:00"
-  title: Integrate Apteligent into your Slack channel
-  url: https://www.apteligent.com/2016/06/integrate-apteligent-slack-channel/
-  domain: www.apteligent.com
-  image: ""
 - curated_id: 5b718e1fffedb31ed3fb3c005fc1c70a
   item_date: "2016-06-01 00:00:00"
   title: Eva ? Everyones personal gifting assistant bot
   url: https://www.vizzi.io/
   domain: www.vizzi.io
+  image: ""
+- curated_id: fb42956c92e7801c513c3156b3bf8560
+  item_date: "2016-06-01 00:00:00"
+  title: Integrate Apteligent into your Slack channel
+  url: https://www.apteligent.com/2016/06/integrate-apteligent-slack-channel/
+  domain: www.apteligent.com
   image: ""
 - curated_id: 1e8905b1816d5adcb7cd147676beb2be
   item_date: "2016-06-01 00:00:00"
@@ -1359,6 +1346,12 @@
   url: http://blogs.ca.com/2016/06/03/good-bots-vs-bad-bots/
   domain: blogs.ca.com
   image: ""
+- curated_id: fb625b36fa90e006d4debff75b0c360d
+  item_date: "2016-06-06 00:00:00"
+  title: Bot Explorer ? A bot to search and explore bots for Messenger, Slack  more
+  url: http://www.botexplorer.co/
+  domain: www.botexplorer.co
+  image: ""
 - curated_id: 5ac0097dcae73aa1e8a5696dddc3ff3d
   item_date: "2016-06-06 00:00:00"
   title: The hipster cat bot on Skype ? Skype version of the hipster cat ??
@@ -1370,12 +1363,6 @@
   title: Wechat?s Former Growth Lead on the Future of Messaging  Bots
   url: https://dzone.com/articles/interview-wechats-former-growth-lead-on-the-future
   domain: dzone.com
-  image: ""
-- curated_id: fb625b36fa90e006d4debff75b0c360d
-  item_date: "2016-06-06 00:00:00"
-  title: Bot Explorer ? A bot to search and explore bots for Messenger, Slack  more
-  url: http://www.botexplorer.co/
-  domain: www.botexplorer.co
   image: ""
 - curated_id: 8c572da69ba3f816a652d0d660f45451
   item_date: "2016-06-07 00:00:00"
@@ -1419,18 +1406,18 @@
   url: https://dzone.com/articles/just-because-you-can-build-a-bot-doesnt-mean-you-s
   domain: dzone.com
   image: ""
-- curated_id: f7fd0556dae58dee0fa731d81a4e9572
-  item_date: "2016-06-14 00:00:00"
-  title: Facebook Messenger has a message for banks
-  url: http://www.laffertynews.com/newsletters/retail-banking-intelligence/free/facebook-messenger-has-message-for-banks.html
-  domain: www.laffertynews.com
-  image: ""
 - curated_id: 92a9155e6ade69e963866c7ed2f89dd7
   item_date: "2016-06-14 00:00:00"
   title: DataFox for Slack ? Competitive intelligence and alerts right in your Slack
     ??
   url: http://www.datafox.com/tour/slack/
   domain: www.datafox.com
+  image: ""
+- curated_id: f7fd0556dae58dee0fa731d81a4e9572
+  item_date: "2016-06-14 00:00:00"
+  title: Facebook Messenger has a message for banks
+  url: http://www.laffertynews.com/newsletters/retail-banking-intelligence/free/facebook-messenger-has-message-for-banks.html
+  domain: www.laffertynews.com
   image: ""
 - curated_id: 54ff0da2cb11d0bafa4f274dd4015dc1
   item_date: "2016-06-14 00:00:00"
@@ -1450,12 +1437,6 @@
   url: http://funnybots.lol/
   domain: funnybots.lol
   image: ""
-- curated_id: cc2725611c7d8f7aab2d576797dd2e28
-  item_date: "2016-06-17 00:00:00"
-  title: 5 Scenarios for How Humans and Bots Work Together.
-  url: https://medium.com/slack-developer-blog/5-scenarios-for-how-humans-and-bots-work-together-a0e636053ef4
-  domain: medium.com
-  image: ""
 - curated_id: 896767457fd3460417769b931607bef5
   item_date: "2016-06-17 00:00:00"
   title: 'Massively ? Create and deploy polished chat bots '
@@ -1467,6 +1448,12 @@
   title: Slack, Bots, Coffeescript, DoD, and SMS
   url: http://www.infobip.com/en/engineering/randomizing-testing-with-slack-bots-coffeescript-and-sms
   domain: www.infobip.com
+  image: ""
+- curated_id: cc2725611c7d8f7aab2d576797dd2e28
+  item_date: "2016-06-17 00:00:00"
+  title: 5 Scenarios for How Humans and Bots Work Together.
+  url: https://medium.com/slack-developer-blog/5-scenarios-for-how-humans-and-bots-work-together-a0e636053ef4
+  domain: medium.com
   image: ""
 - curated_id: d974f9e706aade0c0b489eb9ec0f51b3
   item_date: "2016-06-18 09:53:32"
@@ -1493,23 +1480,11 @@
   url: http://www.theverge.com/2016/6/20/11978626/new-york-ticket-bots-criminal-penalties-lin-manuel-miranda-hamilton
   domain: www.theverge.com
   image: ""
-- curated_id: 7a6c13b98edece5ac4939499738de4fc
-  item_date: "2016-06-21 00:00:00"
-  title: Ghostbot from Burner lets you blow off that weirdo from Tinder really easily
-  url: http://thenextweb.com/apps/2016/06/21/ghostbot-burner/
-  domain: thenextweb.com
-  image: ""
 - curated_id: 847d1c4e6e3263187ed1ef9eccc7adc5
   item_date: "2016-06-21 00:00:00"
   title: Quizdom? for Slack ? Slack integration to play quiz games against your team
   url: http://slack.quizdom.com
   domain: slack.quizdom.com
-  image: ""
-- curated_id: a07ba6ec8f20ffaaa7001de5aafd0d16
-  item_date: "2016-06-21 00:00:00"
-  title: 'VB Engage - 007: Bryan Kramer, staying human, and the rise of the chatbots'
-  url: http://venturebeat.com/2016/06/21/bryan-kramer-staying-human-and-the-rise-of-the-chatbots-vb-engage/
-  domain: venturebeat.com
   image: ""
 - curated_id: 8176ebddf686427450c54b35f09b08bb
   item_date: "2016-06-21 00:00:00"
@@ -1517,17 +1492,23 @@
   url: https://talklifeconnect.com/teams
   domain: talklifeconnect.com
   image: ""
+- curated_id: 7a6c13b98edece5ac4939499738de4fc
+  item_date: "2016-06-21 00:00:00"
+  title: Ghostbot from Burner lets you blow off that weirdo from Tinder really easily
+  url: http://thenextweb.com/apps/2016/06/21/ghostbot-burner/
+  domain: thenextweb.com
+  image: ""
+- curated_id: a07ba6ec8f20ffaaa7001de5aafd0d16
+  item_date: "2016-06-21 00:00:00"
+  title: 'VB Engage - 007: Bryan Kramer, staying human, and the rise of the chatbots'
+  url: http://venturebeat.com/2016/06/21/bryan-kramer-staying-human-and-the-rise-of-the-chatbots-vb-engage/
+  domain: venturebeat.com
+  image: ""
 - curated_id: 358ac0aa1279c9ec7fc10035d58e7baf
   item_date: "2016-06-22 00:00:00"
   title: Mealou ? Restaurant recommendation bot
   url: https://www.mealou.co/
   domain: www.mealou.co
-  image: ""
-- curated_id: e349da785fce26b15b845a77a2e48cbf
-  item_date: "2016-06-23 00:00:00"
-  title: Are Chatbots the Future of Banking?
-  url: https://dzone.com/articles/are-chatbots-the-future-of-banking
-  domain: dzone.com
   image: ""
 - curated_id: eff5107e7e3202c3de593d10525a2ae6
   item_date: "2016-06-23 00:00:00"
@@ -1535,6 +1516,12 @@
     info
   url: https://www.facebook.com/unsupportedbrowser
   domain: www.facebook.com
+  image: ""
+- curated_id: e349da785fce26b15b845a77a2e48cbf
+  item_date: "2016-06-23 00:00:00"
+  title: Are Chatbots the Future of Banking?
+  url: https://dzone.com/articles/are-chatbots-the-future-of-banking
+  domain: dzone.com
   image: ""
 - curated_id: 3266b5298db4e6f995e2fb999ce245f9
   item_date: "2016-06-24 00:00:00"
@@ -1673,18 +1660,18 @@
   url: http://blog.gupshup.io/index.php/2016/07/14/bots-promise-to-make-enterprise-software-invisible/
   domain: blog.gupshup.io
   image: ""
+- curated_id: cf722980ef11f50d1230d75fab4f2828
+  item_date: "2016-07-13 00:00:00"
+  title: 'Understanding Chain Hacking: A Guide to Botnets'
+  url: http://www.huffingtonpost.com/harold-stark/understanding-chain-hacki_b_10904734.html
+  domain: www.huffingtonpost.com
+  image: ""
 - curated_id: 13e6b00bef75afabe015820c372c83b6
   item_date: "2016-07-13 00:00:00"
   title: Zendesk?s ?Automatic Answers? taps machine learning, AI to generate bot-style
     email responses
   url: https://techcrunch.com/2016/07/13/zendesks-automatic-answers-taps-machine-learning-ai-to-generate-bot-style-email-responses/
   domain: techcrunch.com
-  image: ""
-- curated_id: cf722980ef11f50d1230d75fab4f2828
-  item_date: "2016-07-13 00:00:00"
-  title: 'Understanding Chain Hacking: A Guide to Botnets'
-  url: http://www.huffingtonpost.com/harold-stark/understanding-chain-hacki_b_10904734.html
-  domain: www.huffingtonpost.com
   image: ""
 - curated_id: 1af0f40cae727b5f7502cddb0f729f8d
   item_date: "2016-07-15 00:00:00"
@@ -1705,13 +1692,6 @@
   url: http://www.appcelerator.com/blog/2016/07/developer-debate-to-bot-or-not-to-bot/
   domain: www.appcelerator.com
   image: ""
-- curated_id: 1290956b7ea9041d7a4e4880c74e23ce
-  item_date: "2016-07-20 00:00:00"
-  title: The Chatbots Magazine Botcast Ep 1 - Chatbots bubble, Slack fund invests,
-    and Cisco makes moves ? We discuss the secret lives of chatbots.
-  url: https://soundcloud.com/chatbotsmagazine/the-chatbots-magazine-botcast-ep-1-chatbots-bubble-slack-funds-invests-and-cisco-makes-moves
-  domain: soundcloud.com
-  image: ""
 - curated_id: 5665b1f1b580c0b046d64515c27ee821
   item_date: "2016-07-20 00:00:00"
   title: 'Skype 6.20 for iOS: Find bots, improved notifications and chat'
@@ -1724,23 +1704,12 @@
   url: https://techcrunch.com/2016/07/20/why-and-how-chatbots-will-dominate-social-media/
   domain: techcrunch.com
   image: ""
-- curated_id: 987a47da3809cae9011ec894a2f7b12f
-  item_date: "2016-07-21 00:00:00"
-  title: How Will Banks Secure the New Channels ? Messaging, Video, Chatbots?
-  url: http://bankinnovation.net/2016/07/how-will-banks-secure-the-new-channels-messaging-video-chatbots/
-  domain: bankinnovation.net
-  image: ""
-- curated_id: 5abb0591b3c409976f6ac7a5d90ef065
-  item_date: "2016-07-21 00:00:00"
-  title: Mimic ? A bot that learns to impersonate folks in your Slack
-  url: http://mimic.chat/
-  domain: mimic.chat
-  image: ""
-- curated_id: e705a276a8271211b38ef44fe529194d
-  item_date: "2016-07-21 00:00:00"
-  title: Cody bot for Slack - Finally brings visual discussions to Slack (by Codesign.io)
-  url: http://www.codesign.io/slack
-  domain: www.codesign.io
+- curated_id: 1290956b7ea9041d7a4e4880c74e23ce
+  item_date: "2016-07-20 00:00:00"
+  title: The Chatbots Magazine Botcast Ep 1 - Chatbots bubble, Slack fund invests,
+    and Cisco makes moves ? We discuss the secret lives of chatbots.
+  url: https://soundcloud.com/chatbotsmagazine/the-chatbots-magazine-botcast-ep-1-chatbots-bubble-slack-funds-invests-and-cisco-makes-moves
+  domain: soundcloud.com
   image: ""
 - curated_id: 557cdb6d4c99b015aac2630e384c4e28
   item_date: "2016-07-21 00:00:00"
@@ -1748,11 +1717,23 @@
   url: https://techcrunch.com/2016/07/21/bot-influencers-the-programmatic-future-of-conversational-advertising/
   domain: techcrunch.com
   image: ""
-- curated_id: c9d28d8ed227ba43bca6da85d51b3fca
-  item_date: "2016-07-22 00:00:00"
-  title: Instalocate ? Facebook Messenger bot to track flights
-  url: https://www.instalocate.com/
-  domain: www.instalocate.com
+- curated_id: 5abb0591b3c409976f6ac7a5d90ef065
+  item_date: "2016-07-21 00:00:00"
+  title: Mimic ? A bot that learns to impersonate folks in your Slack
+  url: http://mimic.chat/
+  domain: mimic.chat
+  image: ""
+- curated_id: 987a47da3809cae9011ec894a2f7b12f
+  item_date: "2016-07-21 00:00:00"
+  title: How Will Banks Secure the New Channels ? Messaging, Video, Chatbots?
+  url: http://bankinnovation.net/2016/07/how-will-banks-secure-the-new-channels-messaging-video-chatbots/
+  domain: bankinnovation.net
+  image: ""
+- curated_id: e705a276a8271211b38ef44fe529194d
+  item_date: "2016-07-21 00:00:00"
+  title: Cody bot for Slack - Finally brings visual discussions to Slack (by Codesign.io)
+  url: http://www.codesign.io/slack
+  domain: www.codesign.io
   image: ""
 - curated_id: b5dd0ff80fb15ef358b19ebf9ee6b6df
   item_date: "2016-07-22 00:00:00"
@@ -1760,11 +1741,11 @@
   url: https://www.mybillhero.com/2016/07/06/billhero-announces-first-ever-facebook-messenger-bot-to-pay-bills/
   domain: www.mybillhero.com
   image: ""
-- curated_id: 34a5e924d90e5111c611e803a9625017
-  item_date: "2016-07-26 00:00:00"
-  title: Bot Platforms? ? Easy and quick way to build advanced bots
-  url: http://blog.gupshup.io/index.php/2016/07/26/bot-platforms%e2%80%8a-easy-and-quick-way-to-build-advanced-bots/
-  domain: blog.gupshup.io
+- curated_id: c9d28d8ed227ba43bca6da85d51b3fca
+  item_date: "2016-07-22 00:00:00"
+  title: Instalocate ? Facebook Messenger bot to track flights
+  url: https://www.instalocate.com/
+  domain: www.instalocate.com
   image: ""
 - curated_id: b1b93b6edf60508b315dcf95d51de266
   item_date: "2016-07-26 00:00:00"
@@ -1778,6 +1759,12 @@
     insights on the bots and messaging space'
   url: http://hacktostart.com/esther-crawford/
   domain: hacktostart.com
+  image: ""
+- curated_id: 34a5e924d90e5111c611e803a9625017
+  item_date: "2016-07-26 00:00:00"
+  title: Bot Platforms? ? Easy and quick way to build advanced bots
+  url: http://blog.gupshup.io/index.php/2016/07/26/bot-platforms%e2%80%8a-easy-and-quick-way-to-build-advanced-bots/
+  domain: blog.gupshup.io
   image: ""
 - curated_id: 21077b16e94b27863d25bdd69105aabc
   item_date: "2016-07-29 00:00:00"
@@ -1797,29 +1784,29 @@
   url: http://www.nytimes.com/2016/07/30/upshot/to-learn-about-hamilton-ticket-bots-we-wrote-our-own-bot.html
   domain: www.nytimes.com
   image: ""
-- curated_id: eb0242e15c115e0e5317e52c2eb60ae2
-  item_date: "2016-07-30 00:00:00"
-  title: SayWhat.LOL Slack Bot ? Make EVERYTHING you say sound funny on slack
-  url: http://saywhat.lol/slackbot
-  domain: saywhat.lol
-  image: ""
 - curated_id: 50ed3038a18a678d3e81783ad69ccf1f
   item_date: "2016-07-30 00:00:00"
   title: The human role in a bot-dominated future
   url: https://techcrunch.com/2016/07/30/the-human-role-in-a-bot-dominated-future/
   domain: techcrunch.com
   image: ""
-- curated_id: 17032095a3ac2536314b27efaf6dce52
-  item_date: "2016-08-01 00:00:00"
-  title: What Bots Can (and Cant) Do for Your Online Store
-  url: https://www.shopify.com/blogs/blog/why-conversational-commerce-isn-t-all-about-bots
-  domain: www.shopify.com
+- curated_id: eb0242e15c115e0e5317e52c2eb60ae2
+  item_date: "2016-07-30 00:00:00"
+  title: SayWhat.LOL Slack Bot ? Make EVERYTHING you say sound funny on slack
+  url: http://saywhat.lol/slackbot
+  domain: saywhat.lol
   image: ""
 - curated_id: 14eac45416097feb4a83017376774d1c
   item_date: "2016-08-01 00:00:00"
   title: ChatBots in Consumer Banking
   url: http://bankinnovation.net/2016/08/chatbots-in-consumer-banking/
   domain: bankinnovation.net
+  image: ""
+- curated_id: 17032095a3ac2536314b27efaf6dce52
+  item_date: "2016-08-01 00:00:00"
+  title: What Bots Can (and Cant) Do for Your Online Store
+  url: https://www.shopify.com/blogs/blog/why-conversational-commerce-isn-t-all-about-bots
+  domain: www.shopify.com
   image: ""
 - curated_id: def99b96d15f9386e3edf36c856d92d7
   item_date: "2016-08-01 00:00:00"
@@ -1828,23 +1815,17 @@
   url: https://www.shopify.com/blogs/blog/120434821-kit-chatbot-founder-story
   domain: www.shopify.com
   image: ""
-- curated_id: 0a128e6609a7710ff74a6fd919a3b29e
-  item_date: "2016-08-02 00:00:00"
-  title: Chatbot Support ? Build, maintain and optimize chatbots
-  url: http://chatbotsupport.com/
-  domain: chatbotsupport.com
-  image: ""
 - curated_id: b35fac5d2419907acf1f2c7bb4ea0ea1
   item_date: "2016-08-02 00:00:00"
   title: Bot Analytics ? Conversational analytics for bots
   url: http://botanalytics.co/
   domain: botanalytics.co
   image: ""
-- curated_id: 079d9c37ded39b668dc63599079e2f91
+- curated_id: 0a128e6609a7710ff74a6fd919a3b29e
   item_date: "2016-08-02 00:00:00"
-  title: Distil scores $21 million Series C to crush bad bots
-  url: https://techcrunch.com/2016/08/02/distil-shoots-for-profitability-after-21-million-series-c-raise/
-  domain: techcrunch.com
+  title: Chatbot Support ? Build, maintain and optimize chatbots
+  url: http://chatbotsupport.com/
+  domain: chatbotsupport.com
   image: ""
 - curated_id: e031cbcdd78f80c1ad8862e2597ed1cb
   item_date: "2016-08-02 00:00:00"
@@ -1852,18 +1833,17 @@
   url: https://dzone.com/articles/make-slack-bots-in-java-in-minutes
   domain: dzone.com
   image: ""
-- curated_id: 3d83227d0a2ce30482900fa971e4ff42
-  item_date: "2016-08-03 00:00:00"
-  title: 'Chatbots: Thank you, Roger Wilco!'
-  url: https://medium.com/dexter-blog/chatbots-thank-you-roger-wilco-5afe3b409a86
-  domain: medium.com
-  image: ""
-- curated_id: 5b2b94e1144139dc92a7f4fe686a3b15
-  item_date: "2016-08-03 00:00:00"
-  title: Kik users have exchanged over 1.8 billion messages with the platform?s 20,000
-    chatbots
-  url: https://techcrunch.com/2016/08/03/kik-users-have-exchanged-over-1-8-billion-messages-with-the-platforms-20000-chatbots/
+- curated_id: 079d9c37ded39b668dc63599079e2f91
+  item_date: "2016-08-02 00:00:00"
+  title: Distil scores $21 million Series C to crush bad bots
+  url: https://techcrunch.com/2016/08/02/distil-shoots-for-profitability-after-21-million-series-c-raise/
   domain: techcrunch.com
+  image: ""
+- curated_id: 6d9ba1402783d8b3e6106a6627cdf69b
+  item_date: "2016-08-03 00:00:00"
+  title: 'Hello chatbot '
+  url: http://www.bbc.co.uk/news/technology-36225980
+  domain: www.bbc.co.uk
   image: ""
 - curated_id: 89d136524d531a85029673cc2aa03421
   item_date: "2016-08-03 00:00:00"
@@ -1872,11 +1852,18 @@
   url: http://www.niemanlab.org/2016/08/buzzfeed-releases-its-buzzbot-software-on-github-opening-possibilities-for-bot-aided-reporting/
   domain: www.niemanlab.org
   image: ""
-- curated_id: 6d9ba1402783d8b3e6106a6627cdf69b
+- curated_id: 5b2b94e1144139dc92a7f4fe686a3b15
   item_date: "2016-08-03 00:00:00"
-  title: 'Hello chatbot '
-  url: http://www.bbc.co.uk/news/technology-36225980
-  domain: www.bbc.co.uk
+  title: Kik users have exchanged over 1.8 billion messages with the platform?s 20,000
+    chatbots
+  url: https://techcrunch.com/2016/08/03/kik-users-have-exchanged-over-1-8-billion-messages-with-the-platforms-20000-chatbots/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 3d83227d0a2ce30482900fa971e4ff42
+  item_date: "2016-08-03 00:00:00"
+  title: 'Chatbots: Thank you, Roger Wilco!'
+  url: https://medium.com/dexter-blog/chatbots-thank-you-roger-wilco-5afe3b409a86
+  domain: medium.com
   image: ""
 - curated_id: 0eca40a698673147656697ec29420401
   item_date: "2016-08-03 00:00:00"
@@ -1896,17 +1883,17 @@
   url: http://thenextweb.com/insider/2016/08/03/skype-gets-smarter-with-five-new-conversational-bots-including-skyscanner/
   domain: thenextweb.com
   image: ""
-- curated_id: a0352b3ea6e868fc61fa23066d847976
-  item_date: "2016-08-04 00:00:00"
-  title: How to break a chatbot
-  url: http://boingboing.net/2016/08/04/how-to-break-a-chatbot.html
-  domain: boingboing.net
-  image: ""
 - curated_id: 960b4b837916aa6db92cb9ebd0867972
   item_date: "2016-08-04 00:00:00"
   title: Here?s why Facebook Messenger rolled out bots before they were ready
   url: http://thenextweb.com/insider/2016/08/04/heres-why-facebook-messenger-rolled-out-bots-before-they-were-ready/
   domain: thenextweb.com
+  image: ""
+- curated_id: a0352b3ea6e868fc61fa23066d847976
+  item_date: "2016-08-04 00:00:00"
+  title: How to break a chatbot
+  url: http://boingboing.net/2016/08/04/how-to-break-a-chatbot.html
+  domain: boingboing.net
   image: ""
 - curated_id: 6739cf83ac064dd0531a35d29b475ebf
   item_date: "2016-08-05 00:00:00"
@@ -1919,12 +1906,6 @@
   title: Using Chatbots in Customer Service
   url: http://blog.gupshup.io/index.php/2016/08/09/using-chatbots-in-customer-service/
   domain: blog.gupshup.io
-  image: ""
-- curated_id: 4666fcbb1ef4b9cd7a9d73a923d78984
-  item_date: "2016-08-09 00:00:00"
-  title: Introbot for Slack ? Your networking assistant inside Slack
-  url: http://introhq.com/intro-for-slack
-  domain: introhq.com
   image: ""
 - curated_id: e69b805e89f49940f68447e03420beac
   item_date: "2016-08-09 00:00:00"
@@ -1939,6 +1920,12 @@
   url: https://pingpad.io/
   domain: pingpad.io
   image: ""
+- curated_id: 4666fcbb1ef4b9cd7a9d73a923d78984
+  item_date: "2016-08-09 00:00:00"
+  title: Introbot for Slack ? Your networking assistant inside Slack
+  url: http://introhq.com/intro-for-slack
+  domain: introhq.com
+  image: ""
 - curated_id: 492a187ad82e10d972e545f6c3e2f172
   item_date: "2016-08-13 00:00:00"
   title: "Could a Bot Replace a Journalist? Not Without Some Problems\r\n"
@@ -1951,17 +1938,17 @@
   url: http://boingboing.net/2016/08/15/parking-ticket-bot-will-now-he.html
   domain: boingboing.net
   image: ""
-- curated_id: 386d92b467c806675a68da64205b4db4
-  item_date: "2016-08-16 00:00:00"
-  title: O Slack API, How Do I Love Thee
-  url: https://medium.com/slack-developer-blog/o-slack-api-how-do-i-love-thee-126aa7345cb0
-  domain: medium.com
-  image: ""
 - curated_id: b430adad81732726c60e96e27b46d040
   item_date: "2016-08-16 00:00:00"
   title: A Short History of Chatbots + Artificial Intelligence
   url: https://insights.newscred.com/a-short-history-of-chatbots-artificial-intelligence/
   domain: insights.newscred.com
+  image: ""
+- curated_id: 386d92b467c806675a68da64205b4db4
+  item_date: "2016-08-16 00:00:00"
+  title: O Slack API, How Do I Love Thee
+  url: https://medium.com/slack-developer-blog/o-slack-api-how-do-i-love-thee-126aa7345cb0
+  domain: medium.com
   image: ""
 - curated_id: 7389d2ef9267c6220242f5dd254eb4fc
   item_date: "2016-08-16 00:00:00"
@@ -1974,6 +1961,12 @@
   title: Pokedex Quiz Bot ? Facebook messenger based Pokemon quiz bot
   url: https://www.m.me/unsupportedbrowser
   domain: www.m.me
+  image: ""
+- curated_id: 3ba16276251983226393a4bcb63b8c82
+  item_date: "2016-08-17 00:00:00"
+  title: AttendanceBot ? Super simple leave tracking inside Slack
+  url: https://www.attendancebot.com/
+  domain: www.attendancebot.com
   image: ""
 - curated_id: f89409b36ce63cfdd3f05de6de099b77
   item_date: "2016-08-17 00:00:00"
@@ -1994,29 +1987,23 @@
   url: http://www.reuters.com/article/us-china-wealth-roboadvisors-idUSKCN10S2GT
   domain: www.reuters.com
   image: ""
-- curated_id: 3ba16276251983226393a4bcb63b8c82
-  item_date: "2016-08-17 00:00:00"
-  title: AttendanceBot ? Super simple leave tracking inside Slack
-  url: https://www.attendancebot.com/
-  domain: www.attendancebot.com
-  image: ""
 - curated_id: 2078ae930591f13642c0274765fc694d
   item_date: "2016-08-17 15:37:35"
   title: Bots are Better Without Conversation
   url: https://medium.com/@tedlivingston/bots-are-better-without-conversation-fcf9e7634fc4#.ebxbwa2t3
   domain: medium.com
   image: ""
-- curated_id: f841ceb30d9d51a6f10cd555293fbc23
-  item_date: "2016-08-18 00:00:00"
-  title: Building with the Microsoft Bot Framework with Dan Driscoll
-  url: http://www.hanselminutes.com/541/building-with-the-microsoft-bot-framework-with-dan-driscoll
-  domain: www.hanselminutes.com
-  image: ""
 - curated_id: 0b66fa2a8815da834ce4af5fb36be090
   item_date: "2016-08-18 00:00:00"
   title: BUILD BOT with Microsoft Bot Framework Rest Api
   url: https://blogs.msdn.microsoft.com/tsmatsuz/2016/08/19/build-skype-bot-with-microsoft-bot-framework-oauth-and-rest-api/
   domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: f841ceb30d9d51a6f10cd555293fbc23
+  item_date: "2016-08-18 00:00:00"
+  title: Building with the Microsoft Bot Framework with Dan Driscoll
+  url: http://www.hanselminutes.com/541/building-with-the-microsoft-bot-framework-with-dan-driscoll
+  domain: www.hanselminutes.com
   image: ""
 - curated_id: a8a399f5686d1e4cb8860757672ac5d7
   item_date: "2016-08-18 00:00:00"
@@ -2030,17 +2017,17 @@
   url: http://www.flightstats.com/company/travel-chatbots-and-flightstats-data-the-new-digital-gateway/
   domain: www.flightstats.com
   image: ""
-- curated_id: d73c9e2247087798178f9e3942844c51
-  item_date: "2016-08-22 00:00:00"
-  title: Building Bots Using Webhooks
-  url: http://blog.gupshup.io/index.php/2016/08/22/building-bots-using-webhooks/
-  domain: blog.gupshup.io
-  image: ""
 - curated_id: 82c35e6d1ea690e26a0127e1ce601084
   item_date: "2016-08-22 00:00:00"
   title: Slack Birthday Bot ? Slack bot for celebrating birthdays
   url: https://github.com/jeKnowledge/slack-birthday-bot
   domain: github.com
+  image: ""
+- curated_id: d73c9e2247087798178f9e3942844c51
+  item_date: "2016-08-22 00:00:00"
+  title: Building Bots Using Webhooks
+  url: http://blog.gupshup.io/index.php/2016/08/22/building-bots-using-webhooks/
+  domain: blog.gupshup.io
   image: ""
 - curated_id: c408039a7c69dbf839b04d85e1ed3a83
   item_date: "2016-08-23 00:00:00"
@@ -2048,17 +2035,17 @@
   url: http://www.donut.ai/
   domain: www.donut.ai
   image: ""
-- curated_id: ade022f915415c559b76a33e75eed593
-  item_date: "2016-08-23 00:00:00"
-  title: Running an IRC Bot in Ruby on OpenShift V3
-  url: https://blog.openshift.com/running-irc-bot-ruby-openshift-v3/
-  domain: blog.openshift.com
-  image: ""
 - curated_id: 50fa539a119099402544e6ccad6644ff
   item_date: "2016-08-23 00:00:00"
   title: Lighthouse ? Real-time monitoring and alerts for Slack administrators
   url: https://www.lighthousebot.com
   domain: www.lighthousebot.com
+  image: ""
+- curated_id: ade022f915415c559b76a33e75eed593
+  item_date: "2016-08-23 00:00:00"
+  title: Running an IRC Bot in Ruby on OpenShift V3
+  url: https://blog.openshift.com/running-irc-bot-ruby-openshift-v3/
+  domain: blog.openshift.com
   image: ""
 - curated_id: 251ceee8ace62edf0a798d177108e8f5
   item_date: "2016-08-23 00:00:00"
@@ -2072,11 +2059,11 @@
   url: https://slakster.com
   domain: slakster.com
   image: ""
-- curated_id: ee0f7c8c1375b92c3726bfbe6f88a9bd
+- curated_id: 029754da549d6d800fac4e32e8e3a6f4
   item_date: "2016-08-25 00:00:00"
-  title: Create a Chatbot for Telegram in Python to Summarize Text
-  url: http://blog.algorithmia.com/create-a-chatbot-telegram-python-summarize-text/
-  domain: blog.algorithmia.com
+  title: BotFunded by botlist ? Track which chatbots are getting the most funding
+  url: https://botfunded.com/
+  domain: botfunded.com
   image: ""
 - curated_id: 660d058e82ff9c0181e521a1350e7a1c
   item_date: "2016-08-25 00:00:00"
@@ -2084,11 +2071,11 @@
   url: https://www.messenger.com/t/546239338912463
   domain: www.messenger.com
   image: ""
-- curated_id: 029754da549d6d800fac4e32e8e3a6f4
+- curated_id: ee0f7c8c1375b92c3726bfbe6f88a9bd
   item_date: "2016-08-25 00:00:00"
-  title: BotFunded by botlist ? Track which chatbots are getting the most funding
-  url: https://botfunded.com/
-  domain: botfunded.com
+  title: Create a Chatbot for Telegram in Python to Summarize Text
+  url: http://blog.algorithmia.com/create-a-chatbot-telegram-python-summarize-text/
+  domain: blog.algorithmia.com
   image: ""
 - curated_id: 0d391c820b3493a19d8fce973fdc0c91
   item_date: "2016-08-25 00:00:00"
@@ -2103,17 +2090,17 @@
   url: http://venturebeat.com/2016/08/11/introducing-the-bots-landscape-170-companies-4-billion-in-funding-thousands-of-bots/
   domain: venturebeat.com
   image: ""
-- curated_id: 0e528b2c7bec9d3bf598a5e63fde03c3
-  item_date: "2016-08-26 00:00:00"
-  title: DOit bot ? An easy way to set reminders
-  url: https://hub.zenbot.org/doitbot
-  domain: hub.zenbot.org
-  image: ""
 - curated_id: fd48a22189007d013590fb2244cd72c2
   item_date: "2016-08-26 00:00:00"
   title: SelenaBot ? An AI-powered chatbot of Selena Gomez
   url: http://joshbocanegra.com/selenabot.html
   domain: joshbocanegra.com
+  image: ""
+- curated_id: 0e528b2c7bec9d3bf598a5e63fde03c3
+  item_date: "2016-08-26 00:00:00"
+  title: DOit bot ? An easy way to set reminders
+  url: https://hub.zenbot.org/doitbot
+  domain: hub.zenbot.org
   image: ""
 - curated_id: c7024499b9dfe6cf758f98f87543667a
   item_date: "2016-08-27 00:00:00"
@@ -2146,18 +2133,18 @@
   url: https://travelbuddy.ai/
   domain: travelbuddy.ai
   image: ""
-- curated_id: 8800e550601fc445aeda6d2745a886ae
-  item_date: "2016-08-31 00:00:00"
-  title: Why Most Banks Should Not (Yet) Roll Out Bots
-  url: http://blogs.forrester.com/peter_wannemacher/16-08-31-why_most_banks_should_not_yet_roll_out_bots
-  domain: blogs.forrester.com
-  image: ""
 - curated_id: f290c83f2d5690d0288603844aaaf2de
   item_date: "2016-08-31 00:00:00"
   title: 'Home Automation: Playing With IoT, Temperature Sensors, Fans, and Telegram
     Bots'
   url: https://dzone.com/articles/home-automation-playing-with-iot-temperature-senso
   domain: dzone.com
+  image: ""
+- curated_id: 8800e550601fc445aeda6d2745a886ae
+  item_date: "2016-08-31 00:00:00"
+  title: Why Most Banks Should Not (Yet) Roll Out Bots
+  url: http://blogs.forrester.com/peter_wannemacher/16-08-31-why_most_banks_should_not_yet_roll_out_bots
+  domain: blogs.forrester.com
   image: ""
 - curated_id: c844f816900a3109a07694c50e76266f
   item_date: "2016-09-01 00:32:06"
@@ -2196,6 +2183,12 @@
   url: http://smartly.ai
   domain: smartly.ai
   image: ""
+- curated_id: 4115cad0cc71981fce65bc88d5bc0b1f
+  item_date: "2016-09-08 00:00:00"
+  title: 'IoT Botnets: Is Your Website at Risk?'
+  url: https://dzone.com/articles/iot-botnets-is-your-website-at-risk
+  domain: dzone.com
+  image: ""
 - curated_id: 8fe68f5ccf6cc56439a7e4d3fea0b191
   item_date: "2016-09-08 00:00:00"
   title: 'OReilly Bots - #4 - Cathy Pearl on voice user interfaces for bots ? The
@@ -2209,23 +2202,11 @@
   url: https://hellopegg.io/
   domain: hellopegg.io
   image: ""
-- curated_id: 4115cad0cc71981fce65bc88d5bc0b1f
-  item_date: "2016-09-08 00:00:00"
-  title: 'IoT Botnets: Is Your Website at Risk?'
-  url: https://dzone.com/articles/iot-botnets-is-your-website-at-risk
-  domain: dzone.com
-  image: ""
 - curated_id: 60345a910dac7ff98b98977f6bef6a6f
   item_date: "2016-09-08 14:20:03"
   title: Porn Chatbot Tricks Argentinians Into Thinking They?re Chatting With President
   url: http://motherboard.vice.com/read/porn-chatbot-tricks-thousands-into-believing-theyre-chatting-with-president
   domain: motherboard.vice.com
-  image: ""
-- curated_id: 03a3fb536e5690806ee01a1bca501071
-  item_date: "2016-09-09 00:00:00"
-  title: Bot Sale For WooCommerce (WooCommerce)
-  url: https://codecanyon.net/item/bot-sale-for-woocommerce/17779096
-  domain: codecanyon.net
   image: ""
 - curated_id: e6be704bd023dda1eec03cdb2f83f8fe
   item_date: "2016-09-09 00:00:00"
@@ -2233,17 +2214,23 @@
   url: https://ibsintelligence.com/ibs-journal/ibs-news/xero-launches-accounting-chatbot/
   domain: ibsintelligence.com
   image: ""
-- curated_id: fbc01afb44748ffd15d6b3839dff17e1
-  item_date: "2016-09-10 00:00:00"
-  title: 'Finovate Day Two: Bots, Bonds, and a Bit of Blockchain'
-  url: http://bankinnovation.net/2016/09/finovate-day-two-bots-bonds-and-a-bit-of-blockchain/
-  domain: bankinnovation.net
+- curated_id: 03a3fb536e5690806ee01a1bca501071
+  item_date: "2016-09-09 00:00:00"
+  title: Bot Sale For WooCommerce (WooCommerce)
+  url: https://codecanyon.net/item/bot-sale-for-woocommerce/17779096
+  domain: codecanyon.net
   image: ""
 - curated_id: 0de4b2d0ad6dfb0a370c982bfffa5abc
   item_date: "2016-09-10 00:00:00"
   title: Evabot for Slack ? Send coffee/beer as an appreciation gift to colleagues
   url: https://slack.evabot.ai/
   domain: slack.evabot.ai
+  image: ""
+- curated_id: fbc01afb44748ffd15d6b3839dff17e1
+  item_date: "2016-09-10 00:00:00"
+  title: 'Finovate Day Two: Bots, Bonds, and a Bit of Blockchain'
+  url: http://bankinnovation.net/2016/09/finovate-day-two-bots-bonds-and-a-bit-of-blockchain/
+  domain: bankinnovation.net
   image: ""
 - curated_id: e194d3bc887f7d64e03023d92b50c668
   item_date: "2016-09-10 00:00:00"
@@ -2275,6 +2262,12 @@
   url: http://venturebeat.com/2016/08/30/if-there-are-no-apis-there-are-no-chatbots/
   domain: venturebeat.com
   image: ""
+- curated_id: bdeb3876b3b44275ffa2769a1035d810
+  item_date: "2016-09-13 00:00:00"
+  title: Bots, BaaS and the Death of Apps
+  url: http://blog.backand.com/bots-baas-and-a-post-apps-world/
+  domain: blog.backand.com
+  image: ""
 - curated_id: 9cea28ac9ffbba9ea3a25297cfb0988e
   item_date: "2016-09-13 00:00:00"
   title: Chatbots Take One Small Step Forward to True AI with Personetics, Clinc
@@ -2286,12 +2279,6 @@
   title: How Chatbots Can Be A Game Changer For Businesses
   url: http://www.cxotoday.com/story/how-bot-apps-are-changing-businesses/
   domain: www.cxotoday.com
-  image: ""
-- curated_id: bdeb3876b3b44275ffa2769a1035d810
-  item_date: "2016-09-13 00:00:00"
-  title: Bots, BaaS and the Death of Apps
-  url: http://blog.backand.com/bots-baas-and-a-post-apps-world/
-  domain: blog.backand.com
   image: ""
 - curated_id: cde97d54e2025aafeef6e588647d4b8a
   item_date: "2016-09-13 00:00:00"
@@ -2347,17 +2334,17 @@
   url: http://thenextweb.com/twitter/2016/09/19/twitter-bot-swap-face-emoji/
   domain: thenextweb.com
   image: ""
-- curated_id: f014ed29e473b1a5d09c11dc5b6c9531
-  item_date: "2016-09-19 00:00:00"
-  title: Googles new acquisition makes building chatbots easier
-  url: http://www.pcworld.com/article/3121956/googles-new-acquisition-makes-building-chatbots-easier.html#tk.rss_all
-  domain: www.pcworld.com
-  image: ""
 - curated_id: c47a21632f756d8f60ce9ebb74f838a3
   item_date: "2016-09-19 00:00:00"
   title: Whats The Risk? 3 Things To Know About Chatbots  Cybersecurity
   url: http://www.darkreading.com/vulnerabilities---threats/whats-the-risk-3-things-to-know-about-chatbots-and-cybersecurity/a/d-id/1326912
   domain: www.darkreading.com
+  image: ""
+- curated_id: f014ed29e473b1a5d09c11dc5b6c9531
+  item_date: "2016-09-19 00:00:00"
+  title: Googles new acquisition makes building chatbots easier
+  url: http://www.pcworld.com/article/3121956/googles-new-acquisition-makes-building-chatbots-easier.html#tk.rss_all
+  domain: www.pcworld.com
   image: ""
 - curated_id: 6656366d0dfb51c42f0080b7ed34b529
   item_date: "2016-09-19 12:53:34"
@@ -2378,11 +2365,11 @@
   url: http://blog.backand.com/how-to-build-a-facebook-messenger-chatbot-in-10-minutes/
   domain: blog.backand.com
   image: ""
-- curated_id: 152f5790f25eb10894ff1374dee761ca
+- curated_id: 2b6f96e5d1f0aa2e91daf6ead8fdd908
   item_date: "2016-09-21 00:00:00"
-  title: "A Frustrating Conversation About Privacy With Googles New Allo Chatbot\r\n"
-  url: http://motherboard.vice.com/read/allo-chatbot-privacy
-  domain: motherboard.vice.com
+  title: American Express Adds Its Bot to the Party
+  url: http://bankinnovation.net/2016/09/american-express-adds-its-bot-to-the-party/
+  domain: bankinnovation.net
   image: ""
 - curated_id: fce48d3306901208670ca100949cc50f
   item_date: "2016-09-21 00:00:00"
@@ -2390,17 +2377,11 @@
   url: https://techcrunch.com/2016/09/21/bots-are-waging-passive-aggressive-war-on-wikipedia/
   domain: techcrunch.com
   image: ""
-- curated_id: 2b6f96e5d1f0aa2e91daf6ead8fdd908
+- curated_id: 152f5790f25eb10894ff1374dee761ca
   item_date: "2016-09-21 00:00:00"
-  title: American Express Adds Its Bot to the Party
-  url: http://bankinnovation.net/2016/09/american-express-adds-its-bot-to-the-party/
-  domain: bankinnovation.net
-  image: ""
-- curated_id: afb4c63f68fabdbab8e8ecfc84d729ab
-  item_date: "2016-09-21 00:00:00"
-  title: Troops, a Slackbot for sales, raises $7 million
-  url: https://techcrunch.com/2016/09/21/troops-a-slackbot-for-sales-launches-with-7-million/
-  domain: techcrunch.com
+  title: "A Frustrating Conversation About Privacy With Googles New Allo Chatbot\r\n"
+  url: http://motherboard.vice.com/read/allo-chatbot-privacy
+  domain: motherboard.vice.com
   image: ""
 - curated_id: f84246f7203c109c5019473547c18951
   item_date: "2016-09-21 00:00:00"
@@ -2408,18 +2389,24 @@
   url: https://community.havenondemand.com/t5/Blog/Build-a-sentiment-analysis-Slackbot-using-Node-js/ba-p/3202
   domain: community.havenondemand.com
   image: ""
-- curated_id: b6adbebe011abbc89ba6959a5dba4ec4
-  item_date: "2016-09-22 00:00:00"
-  title: 'CHATBOTS EXPLAINED: Why businesses should be paying attention to the chatbot
-    revolution (FB, AAPL, GOOG)'
-  url: http://www.businessinsider.com/2016-10-2-a-chatbots-explained-why-businesses-should-be-paying-attention-to-the-chatbot-revolution-2016-9
-  domain: www.businessinsider.com
+- curated_id: afb4c63f68fabdbab8e8ecfc84d729ab
+  item_date: "2016-09-21 00:00:00"
+  title: Troops, a Slackbot for sales, raises $7 million
+  url: https://techcrunch.com/2016/09/21/troops-a-slackbot-for-sales-launches-with-7-million/
+  domain: techcrunch.com
   image: ""
 - curated_id: e81666b004300e454d0a1779e8b7208e
   item_date: "2016-09-22 00:00:00"
   title: LinkedIn unveils smarter messaging with bots
   url: http://www.zdnet.com/article/linkedin-unveils-smarter-messaging-with-bots/
   domain: www.zdnet.com
+  image: ""
+- curated_id: b6adbebe011abbc89ba6959a5dba4ec4
+  item_date: "2016-09-22 00:00:00"
+  title: 'CHATBOTS EXPLAINED: Why businesses should be paying attention to the chatbot
+    revolution (FB, AAPL, GOOG)'
+  url: http://www.businessinsider.com/2016-10-2-a-chatbots-explained-why-businesses-should-be-paying-attention-to-the-chatbot-revolution-2016-9
+  domain: www.businessinsider.com
   image: ""
 - curated_id: 0c53a2ca29a90babaee52d4bea123e22
   item_date: "2016-09-22 10:53:27"
@@ -2441,6 +2428,12 @@
   url: https://www.infoq.com/news/2016/09/bot-framework-api-ai
   domain: www.infoq.com
   image: ""
+- curated_id: 99569fd58b68c49f5754305ab28f391e
+  item_date: "2016-09-26 00:00:00"
+  title: 'New in Basecamp 3: Chatbots!'
+  url: https://m.signalvnoise.com/new-in-basecamp-3-chatbots-8526618c0c7d#.pi3c2h72b
+  domain: m.signalvnoise.com
+  image: ""
 - curated_id: 67df731e3ac6d6f3511715ff79507a58
   item_date: "2016-09-26 00:00:00"
   title: Twitter bot scans ?deplorables? at Trump rallies looking for signs of intelligent
@@ -2448,24 +2441,18 @@
   url: http://thenextweb.com/artificial-intelligence/2016/09/26/twitter-bot-scans-deplorables-at-trump-rallies-looking-for-signs-of-intelligent-life/
   domain: thenextweb.com
   image: ""
-- curated_id: 99569fd58b68c49f5754305ab28f391e
-  item_date: "2016-09-26 00:00:00"
-  title: 'New in Basecamp 3: Chatbots!'
-  url: https://m.signalvnoise.com/new-in-basecamp-3-chatbots-8526618c0c7d#.pi3c2h72b
-  domain: m.signalvnoise.com
-  image: ""
-- curated_id: 00ff09f3f43de508ddd18272a8fc56e6
-  item_date: "2016-09-27 00:00:00"
-  title: Bots are a compliment to apps--not a replacement
-  url: http://www.kony.com/resources/blog/bots-are-compliment-apps-not-replacement
-  domain: www.kony.com
-  image: ""
 - curated_id: ab3b596b6f46987c46ab5d44a1f4ff5b
   item_date: "2016-09-27 00:00:00"
   title: Hate spam emails? This man built a bot to annoy spammers until they give
     up
   url: http://www.itsecurityguru.org/2016/09/27/hate-spam-emails-this-man-built-a-bot-to-annoy-spammers-until-they-give-up/
   domain: www.itsecurityguru.org
+  image: ""
+- curated_id: 00ff09f3f43de508ddd18272a8fc56e6
+  item_date: "2016-09-27 00:00:00"
+  title: Bots are a compliment to apps--not a replacement
+  url: http://www.kony.com/resources/blog/bots-are-compliment-apps-not-replacement
+  domain: www.kony.com
   image: ""
 - curated_id: a5fa58def0a33652a9850611a72c43a3
   item_date: "2016-09-28 00:00:00"
@@ -2485,17 +2472,17 @@
   url: http://thenextweb.com/apps/2016/10/04/telegram-brings-bot-powered-games-to-its-messaging-app/
   domain: thenextweb.com
   image: ""
-- curated_id: 57ec5f6d8740e79093d8a35f0b8ce028
-  item_date: "2016-10-04 00:00:00"
-  title: ?Google plots Embedded Google Assistant SDK, tools for developers
-  url: http://www.zdnet.com/article/google-plots-embedded-google-assistant-sdk-tools-for-developers/
-  domain: www.zdnet.com
-  image: ""
 - curated_id: cb4759dc1d16488c1b2b752efd94832c
   item_date: "2016-10-04 00:00:00"
   title: Google Assistant will open up to developers in December with Actions on Google
   url: http://www.theverge.com/2016/10/4/13164882/google-assistant-actions-on-google-developer-sdk
   domain: www.theverge.com
+  image: ""
+- curated_id: 57ec5f6d8740e79093d8a35f0b8ce028
+  item_date: "2016-10-04 00:00:00"
+  title: ?Google plots Embedded Google Assistant SDK, tools for developers
+  url: http://www.zdnet.com/article/google-plots-embedded-google-assistant-sdk-tools-for-developers/
+  domain: www.zdnet.com
   image: ""
 - curated_id: bbdd095f1074db7962f24489714612e7
   item_date: "2016-10-05 00:00:00"
@@ -2527,23 +2514,29 @@
   url: http://www.kony.com/resources/blog/zombies-and-iot-have-more-common-you-think
   domain: www.kony.com
   image: ""
-- curated_id: c5dea0d4aeb67bcca7249504812e7662
-  item_date: "2016-10-07 00:00:00"
-  title: Analyzing the Mirai Botnet with Splunk
-  url: http://blogs.splunk.com/2016/10/07/analyzing-the-mirai-botnet-with-splunk/
-  domain: blogs.splunk.com
-  image: ""
 - curated_id: 1eb9557a8e6cb9d06b93257553f4dda1
   item_date: "2016-10-07 00:00:00"
   title: The internet?s alt-right are mistakenly arguing with a bot
   url: http://www.theverge.com/2016/10/7/13202794/arguetron-twitter-bot-alt-right-internet-bigots-4chan-sarah-nyberg
   domain: www.theverge.com
   image: ""
+- curated_id: c5dea0d4aeb67bcca7249504812e7662
+  item_date: "2016-10-07 00:00:00"
+  title: Analyzing the Mirai Botnet with Splunk
+  url: http://blogs.splunk.com/2016/10/07/analyzing-the-mirai-botnet-with-splunk/
+  domain: blogs.splunk.com
+  image: ""
 - curated_id: b2dd16d5ce1961889f0a4bf109d535b3
   item_date: "2016-10-07 00:00:00"
   title: '?Arguetron? is a bot with a simple mission: Slaying Twitter blowhards'
   url: http://thenextweb.com/artificial-intelligence/2016/10/07/argueton-bot-simple-mission-slaying-twitter-blowhards/
   domain: thenextweb.com
+  image: ""
+- curated_id: 4a79eae58e54cdeda4a36444afde4dca
+  item_date: "2016-10-10 00:00:00"
+  title: Alt Right trolls argue for hours with Twitter bot
+  url: http://boingboing.net/2016/10/10/alt-right-trolls-argue-for-hou.html
+  domain: boingboing.net
   image: ""
 - curated_id: e4a210cc0edbc78d9ae57aca3cb43654
   item_date: "2016-10-10 00:00:00"
@@ -2556,12 +2549,6 @@
   title: These chatbots want to help you manage your money
   url: https://techcrunch.com/2016/10/10/these-chatbots-want-to-help-you-manage-your-money/
   domain: techcrunch.com
-  image: ""
-- curated_id: 4a79eae58e54cdeda4a36444afde4dca
-  item_date: "2016-10-10 00:00:00"
-  title: Alt Right trolls argue for hours with Twitter bot
-  url: http://boingboing.net/2016/10/10/alt-right-trolls-argue-for-hou.html
-  domain: boingboing.net
   image: ""
 - curated_id: 95775afd96e03fc047d299d829448126
   item_date: "2016-10-10 17:21:21"
@@ -2630,17 +2617,17 @@
   url: http://www.pcmag.com/news/348736/white-house-open-sources-facebook-bot
   domain: www.pcmag.com
   image: ""
-- curated_id: 73dfa684843d5c6f30154c13d604861e
-  item_date: "2016-10-18 00:00:00"
-  title: ?Dyre? malware re-surfaces as ?TrickBot?, targets Australian banks
-  url: http://www.itsecurityguru.org/2016/10/18/dyre-malware-re-surfaces-as-trickbot-targets-australian-banks/
-  domain: www.itsecurityguru.org
-  image: ""
 - curated_id: 8980d4e4d1cd0c9bfd563028ee30c07f
   item_date: "2016-10-18 00:00:00"
   title: Conversational Intelligence for Bots
   url: http://blog.gupshup.io/index.php/2016/10/18/conversational-intelligence-for-bots/
   domain: blog.gupshup.io
+  image: ""
+- curated_id: 73dfa684843d5c6f30154c13d604861e
+  item_date: "2016-10-18 00:00:00"
+  title: ?Dyre? malware re-surfaces as ?TrickBot?, targets Australian banks
+  url: http://www.itsecurityguru.org/2016/10/18/dyre-malware-re-surfaces-as-trickbot-targets-australian-banks/
+  domain: www.itsecurityguru.org
   image: ""
 - curated_id: 015639599913da1b04d0f13d658a2d3e
   item_date: "2016-10-18 00:00:00"
@@ -2685,18 +2672,18 @@
   url: https://www.helpscout.net/supportive/chatbots/
   domain: www.helpscout.net
   image: ""
+- curated_id: b1db9c0667ff11d945dba102bcb253a6
+  item_date: "2016-11-01 00:00:00"
+  title: API Plug ile Nas?l Chatbot Olu?turulur?
+  url: https://apiplug.com/blog/api-plug-ile-nasil-chatbot-olusturulur/
+  domain: apiplug.com
+  image: ""
 - curated_id: 76a7a280a971c23f78126716a49cc842
   item_date: "2016-11-01 00:00:00"
   title: IBM buys Expert Personal Shopper from Fluid to build out Watson?s conversation
     skills
   url: https://techcrunch.com/2016/11/01/ibm-buys-expert-personal-shopper-from-fluid-to-build-out-watsons-conversation-skills/
   domain: techcrunch.com
-  image: ""
-- curated_id: b1db9c0667ff11d945dba102bcb253a6
-  item_date: "2016-11-01 00:00:00"
-  title: API Plug ile Nas?l Chatbot Olu?turulur?
-  url: https://apiplug.com/blog/api-plug-ile-nasil-chatbot-olusturulur/
-  domain: apiplug.com
   image: ""
 - curated_id: 1a528076c010f4a7fd42860bb89cd5eb
   item_date: "2016-11-01 00:00:00"
@@ -2734,22 +2721,711 @@
   url: http://streetfightmag.com/2016/11/07/just-how-big-a-deal-are-voice-search-and-chatbots-for-local/
   domain: streetfightmag.com
   image: ""
+- curated_id: d6e489846b7fa8ee59627ae94a91e793
+  item_date: "2016-11-07 00:00:00"
+  title: OCR And Messenger Bots With Scale API
+  url: https://blog.scaleapi.com/ocr-and-messenger-bots-with-scale-e9e6c7d6a17c#.tddckqbnd
+  domain: blog.scaleapi.com
+  image: ""
 - curated_id: 1c8250fa4de7831bb7bdf39a0fa3208f
   item_date: "2016-11-08 00:00:00"
   title: 'Genie in a Bot: Support over Chat'
   url: http://blog.freshdesk.com/chatbots-in-support/
   domain: blog.freshdesk.com
   image: ""
-- curated_id: a00c793e8810c04d01781edeb54c1c5a
-  item_date: "2016-11-09 00:00:00"
-  title: Getting started with Converse.AI
-  url: https://medium.com/m/global-identity
-  domain: medium.com
-  image: ""
 - curated_id: 1442721dc956bb974f19add7425144aa
   item_date: "2016-11-10 00:00:00"
   title: Kitt.ai?s ChartFlow helps you build better chatbots
   url: https://techcrunch.com/2016/11/10/kitt-ais-chartflow-helps-you-build-better-chatbots/
   domain: techcrunch.com
+  image: ""
+- curated_id: b64a5f3fdeae6cebc016d0ef7d30e966
+  item_date: "2016-12-13 00:00:00"
+  title: Fueling Growbot
+  url: https://medium.com/slack-developer-blog/fueling-growbot-ea5fd21ccdd8
+  domain: medium.com
+  image: ""
+- curated_id: e704e6e31dcb6f515d2c99bcb3959621
+  item_date: "2016-12-13 00:00:00"
+  title: "Microsoft Introduces New Social Chatbot \u2018Zo\u2019 and Smart Bot Developing..."
+  url: http://www.ditii.com/2016/12/14/microsoft-introduces-new-social-chatbot-zo-and-smart-bot-developing-framework/
+  domain: www.ditii.com
+  image: ""
+- curated_id: 88c6f5bce59f9256e77f03301b2e19cc
+  item_date: "2016-12-13 00:00:00"
+  title: Microsoft introduces two new services to help developers create smart bots
+  url: https://mspoweruser.com/microsoft-introduces-two-new-services-help-developers-create-smart-bots/
+  domain: mspoweruser.com
+  image: ""
+- curated_id: dd4277bde0dd246dba21f575c7e4a632
+  item_date: "2016-12-13 00:00:00"
+  title: Saleforce brings bot conversations, SMS, Facebook Messenger to Service Cloud
+  url: http://www.zdnet.com/article/saleforce-brings-bot-conversations-sms-facebook-messenger-to-service-cloud/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: f789daa84b0927bdcd2d013c3d995bd3
+  item_date: "2016-12-13 00:00:00"
+  title: "Bot developers: Now it\u2019s easier to create smart bots with new QnA..."
+  url: http://blogs.microsoft.com/firehose/2016/12/13/bot-developers-now-its-easier-to-create-smart-bots-with-new-qna-maker-service-bing-location-control/
+  domain: blogs.microsoft.com
+  image: ""
+- curated_id: d67d9db1f07e2f237dc8acd33131d246
+  item_date: "2016-12-14 08:03:02"
+  title: THE YEAR OF THE FACT-CHECKING BOT
+  url: http://www.niemanlab.org/2016/12/the-year-of-the-fact-checking-bot/
+  domain: www.niemanlab.org
+  image: ""
+- curated_id: 6a15180996f58d546ab9cd28ab6e1eb5
+  item_date: "2016-12-15 00:00:00"
+  title: President Obama Signs Anti-Scalping Legislation Banning Ticket Bots
+  url: http://blog.peekyou.com/president-obama-signs-anti-scalping-legislation-banning-ticket-bots/
+  domain: blog.peekyou.com
+  image: ""
+- curated_id: 601009a4eac18eb7a57e854e9301ac40
+  item_date: "2016-12-15 00:00:00"
+  title: Bootstrap your bot with QnA Maker Service
+  url: https://blogs.msdn.microsoft.com/bingdevcenter/2016/12/15/bootstrap-your-bot-with-qna-maker-service/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: 535d9a5092f0d399e76ac98af93fbf07
+  item_date: "2016-12-16 00:00:00"
+  title: Pornhubs Chatbot Offers SFW News About NSFW Content
+  url: http://www.pcmag.com/news/350379/pornhubs-chatbot-offers-sfw-news-about-nsfw-content
+  domain: www.pcmag.com
+  image: ""
+- curated_id: 3586cc5108106a2179fa2507fdb6c5b9
+  item_date: "2016-12-17 00:00:00"
+  title: New Microsoft bot still learning
+  url: http://planetgeniusmagazine.com/technology/new-microsoft-bot-still-learning/
+  domain: planetgeniusmagazine.com
+  image: ""
+- curated_id: f3f1ca1d9687b9fa17296408a4670e46
+  item_date: "2016-12-19 00:00:00"
+  title: Telemedicine, Chatbots, and the Future of Healthcare
+  url: http://www.pcmag.com/article/350369/telemedicine-chatbots-and-the-future-of-healthcare
+  domain: www.pcmag.com
+  image: ""
+- curated_id: d535480d4e4946fc806d6ac1c9f8e310
+  item_date: "2017-01-03 00:00:00"
+  title: "Botkit is better with Slack\u2019s Events API"
+  url: https://medium.com/slack-developer-blog/botkit-is-better-with-slacks-events-api-f9a27e051591
+  domain: medium.com
+  image: ""
+- curated_id: d5a96e3d3657df4852ffd421db1afaa3
+  item_date: "2017-01-07 15:59:52"
+  title: Love Your Bot, But Know Its Always Listening
+  url: https://singularityhub.com/2017/01/07/love-your-bot-but-know-its-always-listening/#.WHGAm0UlvV8.twitter
+  domain: singularityhub.com
+  image: ""
+- curated_id: 05c747345f1173f2ff2bbab58fb53d69
+  item_date: "2017-01-07 17:50:19"
+  title: "Common Bot Misconceptions \u2013 Slack Platform Blog"
+  url: https://medium.com/slack-developer-blog/common-bot-misconceptions-ad499444058a#.ddl7sy291
+  domain: medium.com
+  image: ""
+- curated_id: ae231bfe21e0fce34f93de2de6f260ac
+  item_date: "2017-01-10 00:00:00"
+  title: Slack Invests in Finance Bot Startup Sway Finance
+  url: http://bankinnovation.net/2017/01/slack-invests-in-finance-bot-startup-sway-finance/
+  domain: bankinnovation.net
+  image: ""
+- curated_id: 8076ff848cb24c3690bec5aa06f00535
+  item_date: "2017-01-11 00:00:00"
+  title: "What\u2019s the big journalism trend for 2017? Fear (oh, and voice news
+    bots)"
+  url: http://www.niemanlab.org/2017/01/whats-the-big-journalism-trend-for-2017-fear-oh-and-voice-news-bots/
+  domain: www.niemanlab.org
+  image: ""
+- curated_id: 6a5f2e1c9a5966acdb54a677b4ff2f59
+  item_date: "2017-01-11 00:00:00"
+  title: Developing chatbots for Facebook messenger platform
+  url: https://www.codeproject.com/Articles/1165098/Developing-chatbots-for-Facebook-messenger-platfor
+  domain: www.codeproject.com
+  image: ""
+- curated_id: f2f816d2bab3cdbb6b006055444e24fc
+  item_date: "2017-01-16 00:00:00"
+  title: London startup launches chatbot to help renters exercise their rights
+  url: https://techcrunch.com/2017/01/16/london-startup-launches-chatbot-to-help-renters-exercise-their-rights/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 8f0cfe714495a0a47ac546be171fdefb
+  item_date: "2017-01-16 00:00:00"
+  title: Building A Chatbot Using Azure Bot Services
+  url: http://www.c-sharpcorner.com/article/building-a-chatbot-using-azure-bot-services/
+  domain: www.c-sharpcorner.com
+  image: ""
+- curated_id: 92fdfb12c04341f81decd8476d6695a2
+  item_date: "2017-01-18 00:00:00"
+  title: Analysis of a spam bot
+  url: http://resources.infosecinstitute.com/analysis-of-a-spam-bot/
+  domain: resources.infosecinstitute.com
+  image: ""
+- curated_id: 9ee6bfb4ecf4b7a21b86ff576edec47c
+  item_date: "2017-01-18 00:00:00"
+  title: Bringing your bot into threaded messages
+  url: https://medium.com/slack-developer-blog/bringing-your-bot-into-threaded-messages-cd272a42924f
+  domain: medium.com
+  image: ""
+- curated_id: 8d73b08719bb871ed93dd54502295170
+  item_date: "2017-01-19 00:00:00"
+  title: Everything you need to know to get started with chatbots
+  url: http://blog.gupshup.io/index.php/2017/01/19/everything-you-need-to-know-to-get-started-with-chatbots/
+  domain: blog.gupshup.io
+  image: ""
+- curated_id: eec96be398e8da0670cfa786c39ef197
+  item_date: "2017-01-19 00:00:00"
+  title: 'New Slack integration for Halo: Don-Bot'
+  url: https://blog.cloudpassage.com/2017/01/19/slack-don-bot/
+  domain: blog.cloudpassage.com
+  image: ""
+- curated_id: 43cf1c679f7a1ee20868f90f57f48eaf
+  item_date: "2017-01-19 00:00:00"
+  title: Will Bots Replace Humans in the Contact Centre?
+  url: http://blog.8x8.com/2017/01/will-bots-replace-humans-in-the-contact-centre/
+  domain: blog.8x8.com
+  image: ""
+- curated_id: b0e920edb239dbbabdc23687486aabd8
+  item_date: "2017-01-21 00:00:00"
+  title: "Deplorable Trump Bots Are Now Hawking Obama Merch\r\n"
+  url: http://motherboard.vice.com/read/deplorable-trump-bots-are-now-hawking-obama-merch-twitter
+  domain: motherboard.vice.com
+  image: ""
+- curated_id: f049a96121b7435f41ff734162ce56f4
+  item_date: "2017-01-30 00:00:00"
+  title: "People aren\u2019t comfortable using virtual assistants like Siri and Alexa
+    in public"
+  url: http://www.businessinsider.com/how-people-use-virtual-assistants-siri-alexa-chart-2017-1
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: 09d7a672aa371229b96709cf8ec1913f
+  item_date: "2017-01-31 00:00:00"
+  title: Tact brings intelligent sales assistant to new Slack enterprise edition
+  url: https://techcrunch.com/2017/01/31/tact-brings-intelligent-sales-assistant-to-new-slack-enterprise-edition/
+  domain: techcrunch.com
+  image: ""
+- curated_id: b20abd26e86b3951b9b3af36df9bb465
+  item_date: "2017-02-03 00:00:00"
+  title: "I\u2019m BatBot"
+  url: http://hackaday.com/2017/02/03/im-batbot/
+  domain: hackaday.com
+  image: ""
+- curated_id: 13db00a80e4c6a422865c2cdefecf28b
+  item_date: "2017-02-06 06:14:58"
+  title: As a conservative Twitter user sleeps, his account is hard at work
+  url: https://www.washingtonpost.com/business/economy/as-a-conservative-twitter-user-sleeps-his-account-is-hard-at-work/2017/02/05/18d5a532-df31-11e6-918c-99ede3c8cafa_story.html
+  domain: www.washingtonpost.com
+  image: ""
+- curated_id: 39111ff003ee382032bc20cb7cef6652
+  item_date: "2017-02-06 14:52:08"
+  title: 'Bots, billions and breaches: Cybersecurity by the numbers'
+  url: http://www.ciodive.com/news/bots-billions-and-breaches-cybersecurity-by-the-numbers/435182/
+  domain: www.ciodive.com
+  image: ""
+- curated_id: c809df961576aa80f64493bb6539a4ef
+  item_date: "2017-02-08 00:00:00"
+  title: Revolut launches current accounts and a chatbot
+  url: https://techcrunch.com/2017/02/08/revolut-launches-current-accounts-and-a-chatbot/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 837704691d0476a3feed59f4aabf7966
+  item_date: "2017-02-09 00:00:00"
+  title: As chatbots take hold, banks have their pick of styles
+  url: https://www.americanbanker.com/news/as-chatbots-take-hold-banks-have-their-pick-of-styles
+  domain: www.americanbanker.com
+  image: ""
+- curated_id: cd47adfaf653323597dfed82f7fdb32e
+  item_date: "2017-02-10 00:00:00"
+  title: "What\u2019s the Future of Chatbots? Listen to Experts"
+  url: http://bankinnovation.net/2017/02/whats-the-future-of-chatbots-listen-to-experts/
+  domain: bankinnovation.net
+  image: ""
+- curated_id: bcbc36fb4eec2e09877648e41e1c0dc6
+  item_date: "2017-02-10 10:15:03"
+  title: 'Check out watchbot, a library for data processing on ECS, from our friends
+    @mapbox. https://t.co/0TDkNEh7rJ #docker https://t.co/d4WBq8AR6U'
+  url: https://twitter.com/awscloud/statuses/830117895375958017
+  domain: twitter.com
+  image: ""
+- curated_id: b972510dc51fd0e79b81820de2a6292e
+  item_date: "2017-02-11 00:00:00"
+  title: Statsbot helps businesses pull their data into Slack
+  url: https://techcrunch.com/2017/02/11/statsbot/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 6db94bc478a8f6496bb93afa3e166e82
+  item_date: "2017-02-22 00:00:00"
+  title: How to Create Your First Chatbot Using Azure Bot Services
+  url: https://dzone.com/articles/how-easy-to-create-your-first-chat-bot-using-azure
+  domain: dzone.com
+  image: ""
+- curated_id: 527d4f272257bdd96f7a54b8f92789dd
+  item_date: "2017-02-23 00:00:00"
+  title: Police arrest man suspected of building million-router German botnet
+  url: http://www.pcworld.com/article/3173280/security/police-arrest-man-suspected-of-building-million-router-german-botnet.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: 12f3a3c3176159d8c3ce7252dd2341f9
+  item_date: "2017-02-23 00:00:00"
+  title: Computer bots are more like humans than you might think, having fights...
+  url: https://engineeringevil.com/2017/02/24/computer-bots-are-more-like-humans-than-you-might-think-having-fights-lasting-years/
+  domain: engineeringevil.com
+  image: ""
+- curated_id: abfd3c99694f86d59cd20677bb2e2e95
+  item_date: "2017-02-27 00:00:00"
+  title: ESET researchers uncover new Android banking botnet
+  url: http://www.itsecurityguru.org/2017/02/27/eset-researchers-uncover-new-android-banking-botnet/
+  domain: www.itsecurityguru.org
+  image: ""
+- curated_id: aa3e934a7b6e1035400ca7596d7be5ab
+  item_date: "2017-03-01 00:00:00"
+  title: Why branch bankers shouldnt fear bots
+  url: https://www.americanbanker.com/news/why-branch-bankers-shouldnt-fear-bots
+  domain: www.americanbanker.com
+  image: ""
+- curated_id: be56cdf5543440af4171e664fc897591
+  item_date: "2017-03-01 00:00:00"
+  title: Battle of the Snow Bots
+  url: https://motherboard.vice.com/en_us/video/battle-of-the-snow-bots/NaN
+  domain: motherboard.vice.com
+  image: ""
+- curated_id: ff6fd0519c34206cbdca1662a95df219
+  item_date: "2017-03-01 13:12:09"
+  title: Build Incredible Chatbots
+  url: https://www.udemy.com/build-incredible-chatbots/
+  domain: www.udemy.com
+  image: ""
+- curated_id: cccc9b70acce1ec23a43d786b395d47a
+  item_date: "2017-03-02 00:00:00"
+  title: Texas Holdem AI Bot Taps Deep Learning to Demolish Humans
+  url: http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/texas-holdem-ai-bot-taps-deep-learning-to-demolish-humans
+  domain: spectrum.ieee.org
+  image: ""
+- curated_id: 36af7ae0b226d443de48450ee137d483
+  item_date: "2017-03-02 00:00:00"
+  title: Connecting the Dots Between Firebase and Microsoft Bot Framework
+  url: https://dzone.com/articles/firebase-azure-functions-azure-service-bus-microso
+  domain: dzone.com
+  image: ""
+- curated_id: 540b5a9de881650f6f01cd3634062bd9
+  item_date: "2017-03-03 00:00:00"
+  title: BABB is Using AI, Chatbots and Blockchain to Bring Back Social Banking
+  url: http://bankinnovation.net/2017/03/babb-is-using-ai-chatbots-and-blockchain-to-bring-back-social-banking/
+  domain: bankinnovation.net
+  image: ""
+- curated_id: a97a54c403cb5f3fae0d597c4a565e1f
+  item_date: "2017-03-06 00:00:00"
+  title: A Facebook chatbot that fought 250,000 parking fines is helping refugees
+    claim asylum (FB)
+  url: http://www.businessinsider.com/facebook-chatbot-donotpay-help-refugees-claim-asylum-us-canada-uk-joshua-browder-parking-fines-2017-3
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: 373f0c6be8c89612b8415b4174642cf4
+  item_date: "2017-03-06 00:00:00"
+  title: Yahoos new chatbot will nag your family for you
+  url: http://www.theverge.com/2017/3/6/14832822/yahoo-captain-chat-digital-assistant-text-ai
+  domain: www.theverge.com
+  image: ""
+- curated_id: 43102bdf26ec3d8e5c5214d955ff55f8
+  item_date: "2017-03-06 09:02:03"
+  title: Researcher Breaks ReCAPTCHA Using Googles Speech Recognition API
+  url: https://it.slashdot.org/story/17/03/01/2145230/researcher-breaks-recaptcha-using-googles-speech-recognition-api
+  domain: it.slashdot.org
+  image: ""
+- curated_id: 0aa01393f46dc42ffbd87aea23540e26
+  item_date: "2017-03-07 00:00:00"
+  title: Digital assistants are the latest craze to hit the mobile industry
+  url: https://disruptiveviews.com/digital-assistants-latest-craze-mobile/
+  domain: disruptiveviews.com
+  image: ""
+- curated_id: 4df2af780021a89b039d8e868b973897
+  item_date: "2017-03-10 00:00:00"
+  title: 'Connecting the Dots Between Firebase and Microsoft Bot Framework: Part II'
+  url: https://dzone.com/articles/firebase-azure-functions-azure-service-bus-microso-1
+  domain: dzone.com
+  image: ""
+- curated_id: 2171cbd752cbcc50ff2b73a5b6f77f1d
+  item_date: "2017-03-10 00:00:00"
+  title: Capital One launches Eno, gender-neutral virtual assistant
+  url: http://www.reuters.com/article/us-capital-one-fin-chatbot-idUSKBN16H1Q8
+  domain: www.reuters.com
+  image: ""
+- curated_id: 2627921b940cd114f83875dff27718a7
+  item_date: "2017-03-10 00:00:00"
+  title: Proper Use of Chatbots, IoT Could Bring Trust Back to FIs
+  url: http://bankinnovation.net/2017/03/proper-use-of-chatbots-iot-could-bring-trust-back-to-fis/
+  domain: bankinnovation.net
+  image: ""
+- curated_id: 8c56e0620b5c3193f395e263fc968916
+  item_date: "2017-03-13 00:00:00"
+  title: A Toolkit for Creating and Deploying Bots Inside Salesforce
+  url: https://developer.salesforce.com/blogs/developer-relations/2017/03/bot-toolkit-creating-deploying-bots-inside-salesforce.html
+  domain: developer.salesforce.com
+  image: ""
+- curated_id: a4be6b688fc3bc9e9e1aca21932208d2
+  item_date: "2017-03-13 00:00:00"
+  title: Chatbot That Helped Beat $4 Million In Bogus Parking Tickets Now Handling
+    Asylum Applications
+  url: https://www.techdirt.com/articles/20170308/10393436870/chatbot-that-helped-beat-4-million-bogus-parking-tickets-now-handling-asylum-applications.shtml
+  domain: www.techdirt.com
+  image: ""
+- curated_id: a9fa2426d6cecd311e2717c01dd2ab20
+  item_date: "2017-03-13 00:00:00"
+  title: New Machine Learning Framework Uncovers Twitters Vast Bot Population
+  url: https://motherboard.vice.com/en_us/article/new-machine-learning-framework-uncovers-twitters-vast-bot-population
+  domain: motherboard.vice.com
+  image: ""
+- curated_id: 891767c6cd5b8d91d8430b56bdd46681
+  item_date: "2017-03-13 00:00:00"
+  title: Detecting and eliminating Chamois, a fraud botnet on Android
+  url: https://security.googleblog.com/2017/03/detecting-and-eliminating-chamois-fraud.html
+  domain: security.googleblog.com
+  image: ""
+- curated_id: c7444b4b28bfeed1d1d3099252a4b1a3
+  item_date: "2017-03-13 11:15:16"
+  title: 'It Has To Have A Soul: How Chatbots Get Their Personalities'
+  url: http://www.npr.org/sections/alltechconsidered/2017/03/10/519002884/it-has-to-have-a-soul-how-chatbots-get-their-personalities
+  domain: www.npr.org
+  image: ""
+- curated_id: ceb82393956a6e9a8051304479717689
+  item_date: "2017-03-14 00:00:00"
+  title: Interactive fiction and the origins of the conversational interface
+  url: https://techcrunch.com/2017/03/14/interactive-fiction-and-the-origins-of-the-conversational-interface/
+  domain: techcrunch.com
+  image: ""
+- curated_id: df99e1ace8d1f166fbd8ddfbc309ef57
+  item_date: "2017-03-15 00:00:00"
+  title: "Why We Chose Slack as Zoe\u2019s First Integration"
+  url: https://www.totango.com/blog/2017/03/why-we-chose-slack-as-zoes-first-integration/
+  domain: www.totango.com
+  image: ""
+- curated_id: dc04ecb8eeaf97b7abf20a4ca4ef43be
+  item_date: "2017-03-15 00:00:00"
+  title: Google shuts down massive Android ad fraud botnet Chamois
+  url: http://www.itsecurityguru.org/2017/03/15/google-shuts-massive-android-ad-fraud-botnet-chamois/
+  domain: www.itsecurityguru.org
+  image: ""
+- curated_id: c8555c79c49b546b892293200f3552e8
+  item_date: "2017-03-16 00:00:00"
+  title: 'It Begins: Bots Are Learning to Chat in Their Own Language'
+  url: https://www.wired.com/2017/03/openai-builds-bots-learn-speak-language/
+  domain: www.wired.com
+  image: ""
+- curated_id: b3a886bdbdda1c4b98eb8b8640bceecb
+  item_date: "2017-03-19 00:00:00"
+  title: 'Microsoft Bot Framework: Forms Dialog and Dynamic Options'
+  url: https://dzone.com/articles/microsoft-bot-framework-forms-dialog-and-how-to-ad
+  domain: dzone.com
+  image: ""
+- curated_id: 7a66e9e02b89804380dc24c5526d5662
+  item_date: "2017-03-21 00:00:00"
+  title: "Build a \u201CServerless\u201D Slack Bot in 9 Minutes with Node.js and StdLib"
+  url: https://medium.com/slack-developer-blog/build-a-serverless-slack-bot-in-9-minutes-with-node-js-and-stdlib-b993cfa15358
+  domain: medium.com
+  image: ""
+- curated_id: 67b89cba211c1af52d5f7529e054d55e
+  item_date: "2017-03-21 00:00:00"
+  title: Necurs Botnet Diversifies with Stock Manipulation Instead of Ransomware
+  url: https://continuum.cisco.com/2017/03/21/necurs-botnet-diversifies-with-stock-manipulation-instead-of-ransomware/
+  domain: continuum.cisco.com
+  image: ""
+- curated_id: a29076ad42446dfd32d461f5100be4b2
+  item_date: "2017-03-21 00:00:00"
+  title: Chatbots To Usher In A New Era in Personal Advertising
+  url: http://www.cxotoday.com/story/chatbots-to-usher-in-a-new-era-in-personal-advertising/
+  domain: www.cxotoday.com
+  image: ""
+- curated_id: 7a39769f25332a6793e8e93df635a349
+  item_date: "2017-03-21 00:00:00"
+  title: "What Does the Bot Bubble Mean for Facebook\u2019s Long Game?"
+  url: http://streetfightmag.com/2017/03/21/what-does-the-bot-bubble-mean-for-facebooks-long-game/
+  domain: streetfightmag.com
+  image: ""
+- curated_id: 07ac1c5e2bbd7fcefc7e2f7995f99e90
+  item_date: "2017-03-21 00:00:00"
+  title: Now Delete Unwanted Bot Messages in Typetalk
+  url: https://nulab-inc.com/blog/typetalk/delete-unwanted-bot-messages-in-typetalk/
+  domain: nulab-inc.com
+  image: ""
+- curated_id: f93ee80554ed9c10a0b04f773f0578df
+  item_date: "2017-03-23 00:00:00"
+  title: Why bots should use buttons
+  url: https://medium.com/slack-developer-blog/why-bots-should-use-buttons-5f729df17c0
+  domain: medium.com
+  image: ""
+- curated_id: eafbd6615af65261d11be28825b93ac1
+  item_date: "2017-03-23 00:00:00"
+  title: "Kim Kardashian\u2019s new bot wants to solve puzzles with you"
+  url: https://thenextweb.com/apps/2017/03/23/kim-kardashians-new-bot-wants-solve-puzzles/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 90ff6e62ec79ffed6b32dcf89d7a7bfe
+  item_date: "2017-04-03 02:48:21"
+  title: Customer Service Chatbots Are About to Become Frighteningly Realistic
+  url: https://www.technologyreview.com/s/603895/customer-service-chatbots-are-about-to-become-frighteningly-realistic/
+  domain: www.technologyreview.com
+  image: ""
+- curated_id: 02a62bda3500073a08f0d4edfd6de8bc
+  item_date: "2017-04-04 00:00:00"
+  title: Subliminal Images of Pasta Easily Fooled Googles Bots
+  url: https://motherboard.vice.com/en_us/article/subliminal-images-of-pasta-easily-fooled-googles-bots
+  domain: motherboard.vice.com
+  image: ""
+- curated_id: 95d64709c09f60bd215de9933c7970ff
+  item_date: "2017-04-04 00:00:00"
+  title: 'Chatbots: Overhyped or the Real Thing?'
+  url: https://dzone.com/articles/chatbots-overhyped-or-the-real-thing
+  domain: dzone.com
+  image: ""
+- curated_id: 25f4c545057a548d12389848f0f3df1f
+  item_date: "2017-04-05 00:00:00"
+  title: How Trumps Shitposters Take Over Twitter Without Bots
+  url: https://motherboard.vice.com/en_us/article/trump-shitposters-twitter-bots
+  domain: motherboard.vice.com
+  image: ""
+- curated_id: 27735c2fe10be84f01eb24eea7d8e341
+  item_date: "2017-04-06 11:58:40"
+  title: 'If you missed my #OpenWhisk Pig Latin Twitterbot workshop at #IBMInterConnnect
+    I have posted full instructions'
+  url: https://twitter.com/emckean/status/850051310661632000
+  domain: twitter.com
+  image: ""
+- curated_id: 821c55f686917b18e462fd5c4f5197e8
+  item_date: "2017-04-07 00:00:00"
+  title: "Payments are all that\u2019s needed for chatbots to deliver on their promise,
+    says Kik CEO"
+  url: https://techcrunch.com/2017/04/07/chatbots-payments/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 81f9b2b4a1a847bead40d7b031d42520
+  item_date: "2017-04-07 00:00:00"
+  title: New Bots Seek to Permanently Damage IoT Devices
+  url: https://continuum.cisco.com/2017/04/07/new-bots-seek-to-permanently-damage-iot-devices/
+  domain: continuum.cisco.com
+  image: ""
+- curated_id: 7fdfd1b6c6f783f069767c6c8e37282e
+  item_date: "2017-04-08 00:00:00"
+  title: Shell Script to Detect if the IP Address Is Googlebot
+  url: https://dzone.com/articles/shell-script-to-detect-if-the-ip-address-is-google-1
+  domain: dzone.com
+  image: ""
+- curated_id: 2cff6316b4dff56849cc68f7e3683fca
+  item_date: "2017-04-09 00:00:00"
+  title: An Effective Conversation-Based Botnet Detection Method
+  url: https://www.hindawi.com/journals/mpe/2017/4934082/
+  domain: www.hindawi.com
+  image: ""
+- curated_id: f91cc4a5d05a8e01abc43c1c8a1f7c87
+  item_date: "2017-04-12 00:00:00"
+  title: BrickerBot Permanent Denial-of-Service Attack
+  url: https://ics-cert.us-cert.gov/alerts/ICS-ALERT-17-102-01
+  domain: ics-cert.us-cert.gov
+  image: ""
+- curated_id: 7819a529b078280a2cb77e6ecc54c84b
+  item_date: "2017-04-12 00:00:00"
+  title: "Chip\u2019s new chatbot app points the way to \u2018plugin banking\u2019"
+  url: https://techcrunch.com/2017/04/12/chips-new-chatbot-app-points-the-way-to-plugin-banking/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 15155a69ee7deb51ff1c665ffa42a85a
+  item_date: "2017-04-12 00:00:00"
+  title: 'The Rise of the IoT Botnet: Beyond the Mirai Bot'
+  url: http://resources.infosecinstitute.com/rise-iot-botnet-beyond-mirai-bot/
+  domain: resources.infosecinstitute.com
+  image: ""
+- curated_id: f4970f153e9f24d3f3bd01b18b76ccb6
+  item_date: "2017-04-12 00:00:00"
+  title: FBI Tries New Rule 41 Changes On For Size In Fight Against Long-Running Botnet
+  url: https://www.techdirt.com/articles/20170411/09411837126/fbi-tries-new-rule-41-changes-size-fight-against-long-running-botnet.shtml
+  domain: www.techdirt.com
+  image: ""
+- curated_id: f42ad47dae3245d66b49f325490f311e
+  item_date: "2017-04-13 00:00:00"
+  title: Location FB Messenger Bot using Microsoft Bot Framework
+  url: https://www.codeproject.com/Articles/1181374/Location-FB-Messenger-Bot-using-Microsoft-Bot-Fram
+  domain: www.codeproject.com
+  image: ""
+- curated_id: fac8bef7c17a1c3ed9c07d518919e357
+  item_date: "2017-04-13 00:00:00"
+  title: Announcing GIF Bots on Reddit
+  url: https://redditblog.com/2017/04/13/announcing-gif-bots-on-reddit/
+  domain: redditblog.com
+  image: ""
+- curated_id: afe8ee3496587cd41e4ed0da4b810500
+  item_date: "2017-04-17 00:00:00"
+  title: Need of Context in a Chatbot Conversation
+  url: https://dzone.com/articles/need-of-context-in-a-chatbot-conversation-1
+  domain: dzone.com
+  image: ""
+- curated_id: 861677d7d6daba5a44efe80321e6e6e5
+  item_date: "2017-04-17 00:00:00"
+  title: How chatbots can disrupt the Banking and Finance sector
+  url: http://blog.gupshup.io/index.php/2017/04/18/how-chatbots-can-disrupt-the-banking-and-finance-sector/
+  domain: blog.gupshup.io
+  image: ""
+- curated_id: 3127c16b9ef2c007f01a42f2602f2c48
+  item_date: "2017-04-18 00:00:00"
+  title: 'Bots: Disruption or Bubble?'
+  url: https://dzone.com/articles/bots-disruption-or-bubble
+  domain: dzone.com
+  image: ""
+- curated_id: 6427f53759fcc97bbecebc8773c5fdcc
+  item_date: "2017-04-19 00:00:00"
+  title: Could a robot fool you on the phone?
+  url: https://newsroom.cisco.com/feature-content
+  domain: newsroom.cisco.com
+  image: ""
+- curated_id: a1e35b711b8dae00f7b4fec5239415bf
+  item_date: "2017-04-19 00:00:00"
+  title: Can the enterprise save Facebook bots?
+  url: http://www.pcworld.com/article/3191030/instant-messaging/can-the-enterprise-save-facebook-bots.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: 2325fce7584eb99df52832062202afd0
+  item_date: "2017-04-19 00:00:00"
+  title: Tata Capital Launches AI based Online Chatbot
+  url: http://www.cxotoday.com/story/tata-capital-launches-ai-based-online-chatbot/
+  domain: www.cxotoday.com
+  image: ""
+- curated_id: 1bb92f65f629f427f85f903a996b419b
+  item_date: "2017-04-19 00:00:00"
+  title: "Wells Fargo is testing a chatbot on Facebook\u2019s messaging platform"
+  url: https://disruptiveviews.com/wells-fargo-chatbot-facebook/
+  domain: disruptiveviews.com
+  image: ""
+- curated_id: 9cc81aa0b2e695936f9c9c33fb454b48
+  item_date: "2017-04-19 00:00:00"
+  title: Amazon rolls out chatbot tools in race to dominate voice-powered tech
+  url: http://www.reuters.com/article/us-amazon-com-cloud-idUSKBN17L2FY
+  domain: www.reuters.com
+  image: ""
+- curated_id: 52b9289dfa981381f98d382ab4f17165
+  item_date: "2017-04-19 00:00:00"
+  title: The Los Angeles Times built a Slack bot that lets the newsroom know when
+    the coffee is ready
+  url: http://www.niemanlab.org/2017/04/the-los-angeles-times-built-a-slack-bot-that-lets-the-newsroom-know-when-the-coffee-is-ready/
+  domain: www.niemanlab.org
+  image: ""
+- curated_id: a61e085ff048de70fe9aefaa1d549fd4
+  item_date: "2017-04-20 00:00:00"
+  title: By Djingo, theres a new virtual assistant
+  url: http://www.pcworld.com/article/3191374/artificial-intelligence/by-djingo-theres-a-new-virtual-assistant.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: 991d884d3c23ecb8e734ae8feb6b083c
+  item_date: "2017-04-21 00:00:00"
+  title: How Bots Can Benefit Businesses, According to Messengers Director of...
+  url: http://www.stamfordadvocate.com/news/article/How-Bots-Can-Benefit-Businesses-According-to-11089305.php
+  domain: www.stamfordadvocate.com
+  image: ""
+- curated_id: a9fc92770520359193df923ad8a9f926
+  item_date: "2017-04-21 00:00:00"
+  title: "Announcing the AWS Chatbot Challenge \u2013 Create Conversational, Intelligent
+    Chatbots using Amazon Lex and AWS Lambda"
+  url: https://aws.amazon.com/blogs/aws/announcing-the-aws-chatbot-challenge-create-conversational-intelligent-chatbots-using-amazon-lex-and-aws-lambda/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 24d7eeac3dfe15517388799c93667284
+  item_date: "2017-04-24 00:00:00"
+  title: F8 updates for Bots
+  url: http://blog.gupshup.io/index.php/2017/04/25/f8-updates-for-bots/
+  domain: blog.gupshup.io
+  image: ""
+- curated_id: 296904ee72296772cdddfec4441bdb63
+  item_date: "2017-04-25 14:12:03"
+  title: Bot Building Basics | Udemy
+  url: https://www.udemy.com/bot-building-basics/
+  domain: www.udemy.com
+  image: ""
+- curated_id: 773edd62129fbb2e43790ce0641f854f
+  item_date: "2017-04-26 00:00:00"
+  title: This is how The New York Times is using bots to create more one-to-one experiences
+    with readers
+  url: http://www.niemanlab.org/2017/04/this-is-how-the-new-york-times-is-using-bots-to-create-more-one-to-one-experiences-with-readers/
+  domain: www.niemanlab.org
+  image: ""
+- curated_id: 31f22d355db831bd34c70abb6c26225d
+  item_date: "2017-04-26 09:30:11"
+  title: Build an AI Twitter Bot Powered with IBM Watson (No Coding!)
+  url: https://www.udemy.com/artificial-intelligence-w-ibm-watson-twitter-bot/
+  domain: www.udemy.com
+  image: ""
+- curated_id: 4aa6539a6ed7069db22387a530c2f274
+  item_date: "2017-04-27 00:00:00"
+  title: Are the wheels falling off the digital assistant bandwagon?
+  url: https://disruptiveviews.com/digital-assistant-bandwagon/
+  domain: disruptiveviews.com
+  image: ""
+- curated_id: 11d8ad3a03346e7b1371302b4609f077
+  item_date: "2017-04-27 00:00:00"
+  title: Google Assistant SDK lets anyone make an intelligent voice-controlled...
+  url: https://www.aivanet.com/2017/04/google-assistant-sdk-lets-anyone-make-an-intelligent-voice-controlled-device/
+  domain: www.aivanet.com
+  image: ""
+- curated_id: e246080f2bf38a8a0b6586da1d47f51d
+  item_date: "2017-04-27 00:00:00"
+  title: Google Assistant SDK Offered to Third-Party Devs
+  url: http://www.pcmag.com/news/353359/google-assistant-sdk-offered-to-third-party-devs
+  domain: www.pcmag.com
+  image: ""
+- curated_id: fa6a391f4ee8b61a601360ba39b9e74a
+  item_date: "2017-04-27 00:00:00"
+  title: Google opens up the Google Assistant to developers, shows off mocktail mixer
+    to prove it
+  url: https://thenextweb.com/google/2017/04/27/1043688/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 8e970485c5321f60a9346a80529d6429
+  item_date: "2017-04-27 00:00:00"
+  title: Google eyes massive AI expansion with new Assistant SDK
+  url: http://www.pcworld.com/article/3192964/android/google-eyes-massive-ai-expansion-with-new-assistant-sdk.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: f81e9127d6a5085dd8ed3c4dabba02a0
+  item_date: "2017-04-27 09:30:02"
+  title: 'UPDATE 2017: Build a personal chatbot for Facebook Messenger | Udemy'
+  url: https://www.udemy.com/how-to-build-a-personal-chatbot-for-facebook-messenger/
+  domain: www.udemy.com
+  image: ""
+- curated_id: 4bd5249cf2f65a374eb61a39a4158c4e
+  item_date: "2017-04-28 00:00:00"
+  title: Amazon style assistant divides opinion
+  url: http://www.bbc.co.uk/news/technology-39744293
+  domain: www.bbc.co.uk
+  image: ""
+- curated_id: d10e82a28534bf3eff2d6e7e35a5540f
+  item_date: "2017-04-29 00:00:00"
+  title: The Future of Assistive Tech Is Smart
+  url: http://www.pcmag.com/commentary/353201/the-future-of-assistive-tech-is-smart
+  domain: www.pcmag.com
+  image: ""
+- curated_id: a00c793e8810c04d01781edeb54c1c5a
+  item_date: "2017-05-02 00:00:00"
+  title: Full List of Stripe Analytics Software
+  url: https://medium.com/m/global-identity
+  domain: medium.com
+  image: ""
+- curated_id: 1dcc095960898617f83e6c5b9296f04a
+  item_date: "2017-05-03 23:15:00"
+  title: A developers guide to chatbots
+  url: https://www.ibm.com/developerworks/library/cc-cognitive-chatbot-guide/index.html
+  domain: www.ibm.com
+  image: ""
+- curated_id: a75ceacf16dd3faa2f7a67205616c9f2
+  item_date: "2017-05-08 00:00:00"
+  title: My week with a bot
+  url: https://exchange.telstra.com.au/my-week-with-a-bot/
+  domain: exchange.telstra.com.au
+  image: ""
+- curated_id: 94be18e41fdf576ca711bea2b96b727d
+  item_date: "2017-05-10 00:00:00"
+  title: 'The Data Briefing: How to Best Prepare Federal Government Datasets for Chatbots'
+  url: https://www.digitalgov.gov/2017/05/10/the-data-briefing-how-to-best-prepare-federal-government-datasets-for-chatbots/
+  domain: www.digitalgov.gov
+  image: ""
+- curated_id: c1fa11eb3fbadd597fea70e4debfdb08
+  item_date: "2017-05-11 00:00:00"
+  title: '25 Chatbot Platforms: A Comparative Table'
+  url: https://medium.com/@datamonsters/25-chatbot-platforms-a-comparative-table-aeefc932eaff
+  domain: medium.com
   image: ""
 ...
