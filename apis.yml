@@ -1,0 +1,178 @@
+aid: bots
+name: Bots
+description: >-
+  An index and topic collection covering chatbots, conversational agents, and bot frameworks across messaging, voice, and customer experience channels. Bots are scripted or model-augmented conversational
+  interfaces deployed inside Slack, Discord, Microsoft Teams, Telegram, WhatsApp, web chat widgets, and voice channels. This collection brings together developer-oriented bot frameworks like Microsoft Bot
+  Framework, Botpress, Rasa, Botkit, Hubot, and Errbot alongside SaaS conversational platforms like Intercom, Drift, ManyChat, Tidio, Landbot, Dialogflow, IBM watsonx Assistant, and Amazon Lex. Bots in
+  this collection are distinct from autonomous AI agents — they are conversational, channel-bound interfaces driven by intents, dialog flows, and integration triggers.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+- Chatbots
+- Conversational AI
+- Bot Framework
+- Slack Bot
+- Discord Bot
+- Messaging
+- Voice Bot
+- Customer Support Bot
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/bots/refs/heads/main/apis.yml
+created: '2026-05-19'
+modified: '2026-05-19'
+specificationVersion: '0.19'
+apis: []
+network:
+- name: Amazon Connect
+  url: https://raw.githubusercontent.com/api-evangelist/amazon-connect/refs/heads/main/apis.yml
+- name: Amazon Lex
+  url: https://raw.githubusercontent.com/api-evangelist/amazon-lex/refs/heads/main/apis.yml
+- name: Botpress
+  url: https://raw.githubusercontent.com/api-evangelist/botpress/refs/heads/main/apis.yml
+- name: Character.AI
+  url: https://raw.githubusercontent.com/api-evangelist/character-ai/refs/heads/main/apis.yml
+- name: Cisco Webex
+  url: https://raw.githubusercontent.com/api-evangelist/webex/refs/heads/main/apis.yml
+- name: Crisp
+  url: https://raw.githubusercontent.com/api-evangelist/crisp/refs/heads/main/apis.yml
+- name: Discord
+  url: https://raw.githubusercontent.com/api-evangelist/discord/refs/heads/main/apis.yml
+- name: Drift
+  url: https://raw.githubusercontent.com/api-evangelist/drift/refs/heads/main/apis.yml
+- name: Freshchat
+  url: https://raw.githubusercontent.com/api-evangelist/freshchat/refs/heads/main/apis.yml
+- name: Google Assistant
+  url: https://raw.githubusercontent.com/api-evangelist/google-assistant/refs/heads/main/apis.yml
+- name: Google Chat
+  url: https://raw.githubusercontent.com/api-evangelist/google-chat-integrations-for-workspace/refs/heads/main/apis.yml
+- name: Google Cloud Dialogflow CX
+  url: https://raw.githubusercontent.com/api-evangelist/google-cloud-dialogflow-cx/refs/heads/main/apis.yml
+- name: Google Dialogflow
+  url: https://raw.githubusercontent.com/api-evangelist/google-dialogflow/refs/heads/main/apis.yml
+- name: HipChat
+  url: https://raw.githubusercontent.com/api-evangelist/hipchat/refs/heads/main/apis.yml
+- name: IBM Watson
+  url: https://raw.githubusercontent.com/api-evangelist/ibm-watson/refs/heads/main/apis.yml
+- name: Inworld
+  url: https://raw.githubusercontent.com/api-evangelist/inworld/refs/heads/main/apis.yml
+- name: Intercom
+  url: https://raw.githubusercontent.com/api-evangelist/intercom/refs/heads/main/apis.yml
+- name: LINE
+  url: https://raw.githubusercontent.com/api-evangelist/line/refs/heads/main/apis.yml
+- name: LivePerson
+  url: https://raw.githubusercontent.com/api-evangelist/liveperson/refs/heads/main/apis.yml
+- name: ManyChat
+  url: https://raw.githubusercontent.com/api-evangelist/manychat/refs/heads/main/apis.yml
+- name: Mattermost
+  url: https://raw.githubusercontent.com/api-evangelist/mattermost/refs/heads/main/apis.yml
+- name: MessageBird
+  url: https://raw.githubusercontent.com/api-evangelist/messagebird/refs/heads/main/apis.yml
+- name: Microsoft Bot Framework
+  url: https://raw.githubusercontent.com/api-evangelist/microsoft-bot-framework/refs/heads/main/apis.yml
+- name: Microsoft Copilot
+  url: https://raw.githubusercontent.com/api-evangelist/microsoft-copilot/refs/heads/main/apis.yml
+- name: Microsoft Power Virtual Agents
+  url: https://raw.githubusercontent.com/api-evangelist/microsoft-power-virtual-agents/refs/heads/main/apis.yml
+- name: Microsoft Teams
+  url: https://raw.githubusercontent.com/api-evangelist/microsoft-teams/refs/heads/main/apis.yml
+- name: Olark
+  url: https://raw.githubusercontent.com/api-evangelist/olark/refs/heads/main/apis.yml
+- name: Paradox
+  url: https://raw.githubusercontent.com/api-evangelist/paradox/refs/heads/main/apis.yml
+- name: Quora
+  url: https://raw.githubusercontent.com/api-evangelist/quora/refs/heads/main/apis.yml
+- name: Retell AI
+  url: https://raw.githubusercontent.com/api-evangelist/retell-ai/refs/heads/main/apis.yml
+- name: RingCentral
+  url: https://raw.githubusercontent.com/api-evangelist/ringcentral/refs/heads/main/apis.yml
+- name: Salesforce Einstein
+  url: https://raw.githubusercontent.com/api-evangelist/salesforce-einstein/refs/heads/main/apis.yml
+- name: Salesforce Service Cloud
+  url: https://raw.githubusercontent.com/api-evangelist/salesforce-service-cloud/refs/heads/main/apis.yml
+- name: Sendbird
+  url: https://raw.githubusercontent.com/api-evangelist/sendbird/refs/heads/main/apis.yml
+- name: Sinch
+  url: https://raw.githubusercontent.com/api-evangelist/sinch/refs/heads/main/apis.yml
+- name: Slack
+  url: https://raw.githubusercontent.com/api-evangelist/slack/refs/heads/main/apis.yml
+- name: Symphony
+  url: https://raw.githubusercontent.com/api-evangelist/symphony/refs/heads/main/apis.yml
+- name: Telegram
+  url: https://raw.githubusercontent.com/api-evangelist/telegram/refs/heads/main/apis.yml
+- name: Twilio
+  url: https://raw.githubusercontent.com/api-evangelist/twilio/refs/heads/main/apis.yml
+- name: Voiceflow
+  url: https://raw.githubusercontent.com/api-evangelist/voiceflow/refs/heads/main/apis.yml
+- name: Vonage
+  url: https://raw.githubusercontent.com/api-evangelist/vonage/refs/heads/main/apis.yml
+- name: WATI
+  url: https://raw.githubusercontent.com/api-evangelist/wati/refs/heads/main/apis.yml
+- name: WhatsApp
+  url: https://raw.githubusercontent.com/api-evangelist/whatsapp/refs/heads/main/apis.yml
+- name: Zendesk
+  url: https://raw.githubusercontent.com/api-evangelist/zendesk/refs/heads/main/apis.yml
+- name: Zulip
+  url: https://raw.githubusercontent.com/api-evangelist/zulip/refs/heads/main/apis.yml
+common:
+- type: Portal
+  url: https://apievangelist.com
+- type: GitHubOrganization
+  url: https://github.com/api-evangelist
+- type: Features
+  data:
+  - name: Channel Integration
+    description: Bot platforms expose adapters that connect a single bot implementation to multiple messaging channels — Slack, Microsoft Teams, Discord, Telegram, WhatsApp, web chat, and voice — without rewriting conversation logic for each surface.
+  - name: Intent Recognition and NLU
+    description: Conversational AI platforms like Dialogflow, Amazon Lex, IBM watsonx Assistant, and Rasa classify user utterances into intents and extract entities, mapping free-text input to structured actions.
+  - name: Dialog Flow Management
+    description: Frameworks model multi-turn conversations as state machines, decision trees, or graph-based flows, tracking conversation context across turns and routing users through branching dialog paths.
+  - name: Bot SDKs and Builder Tooling
+    description: Developer SDKs like Microsoft Bot Framework, Botkit, Botpress, and Hubot provide opinionated abstractions for handling events, sending messages, building cards, and deploying bots to a runtime.
+  - name: Low-Code Bot Builders
+    description: SaaS platforms like ManyChat, Chatfuel, Tidio, and Landbot offer visual flow editors that let non-developers assemble bots through drag-and-drop nodes, templates, and conditional logic.
+  - name: Human Handoff and Hybrid Conversations
+    description: Customer support bots integrate with live agent platforms to escalate from automated flows to human agents when intents fall outside the bot's confidence threshold or scope.
+  - name: Channel-Native Rich Messaging
+    description: Bots emit channel-specific rich content — Slack blocks, Discord embeds, Teams adaptive cards, WhatsApp interactive lists — using a unified abstraction or channel-targeted payloads.
+  - name: Voice and Telephony Bots
+    description: Voice-bot platforms like Amazon Lex, Amazon Connect, Voiceflow, and Retell AI wire conversational logic into PSTN telephony, IVRs, and voice assistants.
+- type: UseCases
+  data:
+  - name: Customer Support Automation
+    description: Conversational bots in platforms like Intercom Fin, Drift, Freshchat, and Zendesk deflect common support questions, qualify tickets, and hand off to human agents with full conversation history.
+  - name: Lead Qualification and Marketing
+    description: Sales chatbots from Drift, ManyChat, and Landbot greet website visitors, qualify leads by asking screening questions, and route qualified prospects into CRM pipelines.
+  - name: Internal Productivity and ChatOps
+    description: Slack and Teams bots automate routine workflows — deploys, on-call alerts, polls, time tracking — bringing operations into the team's primary chat channel.
+  - name: Conversational Commerce
+    description: WhatsApp, Messenger, and Instagram bots powered by Sinch, MessageBird, WATI, and Twilio handle catalog browsing, order placement, payment collection, and shipping notifications.
+  - name: HR and Recruiting Conversations
+    description: Recruiting bots like Paradox Olivia screen candidates, schedule interviews, and answer FAQ across SMS, WhatsApp, and career-site chat.
+  - name: IVR Modernization and Voice Bots
+    description: Voice-bot frameworks from Amazon Lex, Google Dialogflow CX, and Voiceflow replace touch-tone IVRs with natural-language voice flows for contact centers.
+  - name: Community and Moderation Bots
+    description: Discord and Slack community bots handle onboarding, role assignment, moderation, polls, and gamification for online communities.
+  - name: Knowledge Base Q and A
+    description: Bots integrate with knowledge bases and retrieval systems to answer policy, product, and how-to questions in chat using grounded responses.
+- type: Integrations
+  data:
+  - name: Slack
+    description: Workplace messaging platform with a rich bot and app ecosystem; the de facto channel for ChatOps and internal automation bots.
+  - name: Microsoft Bot Framework
+    description: Microsoft's SDK and channel connector service for building bots that deploy across Teams, Web Chat, Direct Line, SMS, and other channels.
+  - name: Google Dialogflow
+    description: Google Cloud's conversational AI platform with intent classification, entity extraction, and Dialogflow CX visual flow builder.
+  - name: Amazon Lex
+    description: AWS conversational AI service for building text and voice bots, with native integration to Amazon Connect for contact-center voice flows.
+  - name: Botpress
+    description: Open-source conversational AI platform with a visual flow builder, NLU engine, and channel integrations for self-hosted bots.
+  - name: Intercom
+    description: Customer messaging platform with the Fin AI agent and a long-standing chatbot product for support deflection and proactive messaging.
+  - name: Twilio
+    description: Cloud communications platform exposing SMS, WhatsApp, voice, and chat channels that bot frameworks plug into for omnichannel deployment.
+  - name: ManyChat
+    description: Low-code chatbot builder focused on Messenger, Instagram, WhatsApp, and SMS for marketing and conversational commerce.
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com
+humanURL: https://apievangelist.com

@@ -1,0 +1,81 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/bots/refs/heads/main/json-schema/bots-bot-definition-schema.json",
+  "title": "BotDefinition",
+  "description": "Represents a deployable chatbot or conversational agent definition, including its target channels, NLU configuration, dialog entry points, and runtime settings.",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Human-readable name of the bot.",
+      "example": "Support Concierge"
+    },
+    "description": {
+      "type": "string",
+      "description": "Description of the bot's purpose and scope.",
+      "example": "Tier-1 customer support bot that answers FAQ, files tickets, and hands off to human agents on low-confidence intents."
+    },
+    "platform": {
+      "type": "string",
+      "description": "Bot framework or conversational platform powering the bot.",
+      "enum": ["microsoft-bot-framework", "botpress", "rasa", "dialogflow", "dialogflow-cx", "amazon-lex", "watsonx-assistant", "voiceflow", "botkit", "hubot", "errbot", "intercom", "drift", "manychat", "chatfuel", "tidio", "landbot", "custom"],
+      "example": "dialogflow-cx"
+    },
+    "channels": {
+      "type": "array",
+      "description": "Messaging or voice channels where this bot is deployed.",
+      "items": {
+        "type": "string",
+        "enum": ["slack", "discord", "telegram", "whatsapp", "ms-teams", "web-chat", "facebook-messenger", "instagram", "sms", "voice", "google-chat", "line", "viber", "alexa", "google-assistant"]
+      },
+      "example": ["slack", "ms-teams", "web-chat"]
+    },
+    "language": {
+      "type": "string",
+      "description": "Primary BCP-47 language tag for the bot.",
+      "example": "en-US"
+    },
+    "nlu": {
+      "type": "object",
+      "description": "Natural-language understanding configuration for the bot.",
+      "properties": {
+        "engine": {
+          "type": "string",
+          "enum": ["dialogflow", "lex", "watsonx", "rasa", "luis", "botpress-nlu", "custom", "none"],
+          "example": "dialogflow"
+        },
+        "confidence_threshold": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1,
+          "description": "Minimum intent-classification confidence before the bot acts on a user utterance.",
+          "example": 0.65
+        }
+      }
+    },
+    "default_intent": {
+      "type": "string",
+      "description": "Intent the bot routes to when no other intent matches.",
+      "example": "fallback"
+    },
+    "handoff": {
+      "type": "object",
+      "description": "Human-agent handoff configuration.",
+      "properties": {
+        "enabled": { "type": "boolean", "example": true },
+        "target": {
+          "type": "string",
+          "description": "Live-agent platform or queue used for handoff.",
+          "example": "zendesk-support"
+        }
+      }
+    },
+    "status": {
+      "type": "string",
+      "enum": ["draft", "testing", "published", "retired"],
+      "description": "Lifecycle status of the bot.",
+      "example": "published"
+    }
+  },
+  "required": ["name", "platform", "channels"]
+}

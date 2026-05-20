@@ -1,0 +1,23 @@
+{
+  "turn_id": "turn_01HX5J9Z6E7K",
+  "conversation_id": "conv_8f1c2d",
+  "channel": "slack",
+  "timestamp": "2026-05-19T14:22:11Z",
+  "user": {
+    "id": "U02ABCDEF",
+    "display_name": "Jordan Park"
+  },
+  "user_utterance": "I need to reset my password for jordan@example.com",
+  "intent": {
+    "name": "account.reset_password",
+    "confidence": 0.91
+  },
+  "entities": [
+    { "type": "email", "value": "jordan@example.com" }
+  ],
+  "bot_response": {
+    "text": "I can help with that. I just sent a reset link to jordan@example.com — check your inbox.",
+    "rich_content_type": "text"
+  },
+  "handoff_triggered": false
+}

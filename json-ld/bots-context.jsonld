@@ -1,0 +1,103 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "bots": "https://api-evangelist.github.io/bots/schema/",
+    "schema": "https://schema.org/",
+    "dcterms": "http://purl.org/dc/terms/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dcat": "https://www.w3.org/ns/dcat#",
+
+    "BotDefinition": "bots:BotDefinition",
+    "ConversationTurn": "bots:ConversationTurn",
+    "Intent": "bots:Intent",
+    "DialogFlow": "bots:DialogFlow",
+
+    "name": "schema:name",
+    "description": "schema:description",
+    "language": "schema:inLanguage",
+
+    "platform": {
+      "@id": "bots:platform",
+      "@type": "xsd:string"
+    },
+    "channels": {
+      "@id": "bots:channel",
+      "@container": "@set",
+      "@type": "xsd:string"
+    },
+    "channel": {
+      "@id": "bots:channel",
+      "@type": "xsd:string"
+    },
+    "nlu": {
+      "@id": "bots:nlu",
+      "@type": "@id"
+    },
+    "engine": {
+      "@id": "bots:nluEngine",
+      "@type": "xsd:string"
+    },
+    "confidence_threshold": {
+      "@id": "bots:confidenceThreshold",
+      "@type": "xsd:decimal"
+    },
+    "confidence": {
+      "@id": "bots:confidence",
+      "@type": "xsd:decimal"
+    },
+    "default_intent": {
+      "@id": "bots:defaultIntent",
+      "@type": "xsd:string"
+    },
+    "handoff": {
+      "@id": "bots:handoff",
+      "@type": "@id"
+    },
+    "handoff_triggered": {
+      "@id": "bots:handoffTriggered",
+      "@type": "xsd:boolean"
+    },
+    "turn_id": {
+      "@id": "bots:turnId",
+      "@type": "xsd:string"
+    },
+    "conversation_id": {
+      "@id": "bots:conversationId",
+      "@type": "xsd:string"
+    },
+    "timestamp": {
+      "@id": "dcterms:created",
+      "@type": "xsd:dateTime"
+    },
+    "user_utterance": {
+      "@id": "bots:userUtterance",
+      "@type": "xsd:string"
+    },
+    "bot_response": {
+      "@id": "bots:botResponse",
+      "@type": "@id"
+    },
+    "rich_content_type": {
+      "@id": "bots:richContentType",
+      "@type": "xsd:string"
+    },
+    "intent": {
+      "@id": "bots:intent",
+      "@type": "@id"
+    },
+    "entities": {
+      "@id": "bots:entity",
+      "@container": "@set",
+      "@type": "@id"
+    },
+    "status": {
+      "@id": "bots:status",
+      "@type": "xsd:string"
+    },
+    "tags": {
+      "@id": "dcat:keyword",
+      "@container": "@set",
+      "@type": "xsd:string"
+    }
+  }
+}

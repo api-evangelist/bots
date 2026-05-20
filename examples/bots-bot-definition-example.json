@@ -1,0 +1,17 @@
+{
+  "name": "Support Concierge",
+  "description": "Tier-1 customer support bot that answers FAQ, files tickets, and hands off to human agents on low-confidence intents.",
+  "platform": "dialogflow-cx",
+  "channels": ["slack", "ms-teams", "web-chat"],
+  "language": "en-US",
+  "nlu": {
+    "engine": "dialogflow",
+    "confidence_threshold": 0.65
+  },
+  "default_intent": "fallback",
+  "handoff": {
+    "enabled": true,
+    "target": "zendesk-support"
+  },
+  "status": "published"
+}

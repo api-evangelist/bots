@@ -1,0 +1,322 @@
+vocabulary: "1.0.0"
+
+info:
+  provider: Bots
+  description: Vocabulary for the bots topic, covering chatbots, conversational agents, bot frameworks, NLU engines, dialog flows, and multi-channel deployment platforms.
+  created: '2026-05-19'
+  modified: '2026-05-19'
+
+operational:
+  apis:
+    - name: Slack Web API
+      namespace: slack
+      status: active
+    - name: Microsoft Bot Framework
+      namespace: microsoft-bot-framework
+      status: active
+    - name: Google Dialogflow CX
+      namespace: google-cloud-dialogflow-cx
+      status: active
+    - name: Amazon Lex
+      namespace: amazon-lex
+      status: active
+    - name: Botpress
+      namespace: botpress
+      status: active
+    - name: Intercom Conversations API
+      namespace: intercom
+      status: active
+    - name: Twilio Conversations
+      namespace: twilio
+      status: active
+
+  resources:
+    - name: bots
+      description: Bot or conversational agent definitions
+      actions:
+        - list
+        - get
+        - create
+        - update
+        - delete
+        - publish
+    - name: intents
+      description: NLU intents recognized by the bot
+      actions:
+        - list
+        - get
+        - create
+        - update
+        - delete
+        - train
+    - name: conversations
+      description: Multi-turn conversations between users and bots
+      actions:
+        - list
+        - get
+        - create
+        - close
+    - name: messages
+      description: Inbound and outbound messages within a conversation
+      actions:
+        - list
+        - get
+        - send
+    - name: dialog-flows
+      description: Branching dialog graphs that orchestrate multi-turn flows
+      actions:
+        - list
+        - get
+        - create
+        - update
+        - delete
+    - name: webhooks
+      description: Event subscriptions delivering channel events to a bot
+      actions:
+        - create
+        - list
+        - delete
+
+  actions:
+    - name: list
+      description: Enumerate resources
+      httpMethod: GET
+      pattern: read
+    - name: get
+      description: Retrieve a single resource
+      httpMethod: GET
+      pattern: read
+    - name: create
+      description: Create a new resource
+      httpMethod: POST
+      pattern: write
+    - name: update
+      description: Update an existing resource
+      httpMethod: PUT
+      pattern: write
+    - name: delete
+      description: Remove a resource
+      httpMethod: DELETE
+      pattern: destructive
+    - name: publish
+      description: Move a bot from draft to published status on its channels
+      httpMethod: POST
+      pattern: write
+    - name: train
+      description: Train an NLU model on intent and entity examples
+      httpMethod: POST
+      pattern: write
+    - name: send
+      description: Send a message to a channel user from a bot
+      httpMethod: POST
+      pattern: write
+    - name: close
+      description: Close an active conversation
+      httpMethod: POST
+      pattern: write
+
+  schemas:
+    core:
+      - name: BotDefinition
+        description: A deployable bot or conversational agent
+        properties:
+          - name
+          - platform
+          - channels
+          - language
+          - nlu
+          - default_intent
+          - handoff
+          - status
+      - name: ConversationTurn
+        description: A single turn in a bot conversation
+        properties:
+          - turn_id
+          - conversation_id
+          - channel
+          - timestamp
+          - user
+          - user_utterance
+          - intent
+          - entities
+          - bot_response
+          - handoff_triggered
+
+  enums:
+    platforms:
+      - microsoft-bot-framework
+      - botpress
+      - rasa
+      - dialogflow
+      - dialogflow-cx
+      - amazon-lex
+      - watsonx-assistant
+      - voiceflow
+      - botkit
+      - hubot
+      - errbot
+      - intercom
+      - drift
+      - manychat
+      - chatfuel
+      - tidio
+      - landbot
+      - custom
+    channels:
+      - slack
+      - discord
+      - telegram
+      - whatsapp
+      - ms-teams
+      - web-chat
+      - facebook-messenger
+      - instagram
+      - sms
+      - voice
+      - google-chat
+      - line
+      - viber
+      - alexa
+      - google-assistant
+    nlu_engines:
+      - dialogflow
+      - lex
+      - watsonx
+      - rasa
+      - luis
+      - botpress-nlu
+      - custom
+      - none
+    rich_content_types:
+      - text
+      - card
+      - carousel
+      - quick_replies
+      - form
+      - voice
+    bot_status:
+      - draft
+      - testing
+      - published
+      - retired
+
+capability:
+  workflows:
+    - name: Customer Support Deflection
+      description: Front-line chatbot answers FAQ, files tickets, and escalates to human agents on low-confidence intents
+      apis:
+        - intercom
+        - drift
+        - freshchat
+        - zendesk
+      personas:
+        - Support Lead
+        - Conversation Designer
+      domains:
+        - Customer Support
+    - name: Multi-Channel Bot Deployment
+      description: Build a bot once and deploy to Slack, Teams, Web Chat, WhatsApp, and SMS via a unified framework
+      apis:
+        - microsoft-bot-framework
+        - botpress
+        - twilio
+      personas:
+        - Bot Developer
+      domains:
+        - Bot Framework
+    - name: Voice IVR Modernization
+      description: Replace touch-tone IVR with natural-language voice flows backed by NLU and connected to a contact center
+      apis:
+        - amazon-lex
+        - amazon-connect
+        - google-cloud-dialogflow-cx
+        - voiceflow
+      personas:
+        - Contact Center Architect
+      domains:
+        - Voice
+    - name: Conversational Commerce
+      description: Run a WhatsApp or Messenger storefront with catalog browsing, ordering, and payment collection through a bot
+      apis:
+        - manychat
+        - wati
+        - twilio
+        - sinch
+        - messagebird
+      personas:
+        - Marketing Operator
+      domains:
+        - Commerce
+
+  personas:
+    - id: bot-developer
+      name: Bot Developer
+      description: Engineers building bots on developer frameworks and SDKs
+      workflows:
+        - Multi-Channel Bot Deployment
+    - id: conversation-designer
+      name: Conversation Designer
+      description: Designers authoring dialog flows, intents, and persona for bots
+      workflows:
+        - Customer Support Deflection
+    - id: support-lead
+      name: Support Lead
+      description: Customer support leaders deploying bots to deflect and triage tickets
+      workflows:
+        - Customer Support Deflection
+    - id: contact-center-architect
+      name: Contact Center Architect
+      description: Architects modernizing IVR and voice contact-center flows with conversational AI
+      workflows:
+        - Voice IVR Modernization
+    - id: marketing-operator
+      name: Marketing Operator
+      description: Marketers running conversational campaigns on messaging channels
+      workflows:
+        - Conversational Commerce
+
+  domains:
+    - name: Customer Support
+      description: Chatbots embedded in support channels for FAQ, ticketing, and triage
+    - name: Bot Framework
+      description: Developer SDKs and platforms for building and deploying bots across channels
+    - name: Voice
+      description: Voice and telephony bots powering IVR replacement and voice assistants
+    - name: Commerce
+      description: Conversational commerce bots running on Messenger, WhatsApp, Instagram, and SMS
+
+crossReference:
+  - resource: bots
+    operations:
+      - create
+      - update
+      - publish
+    workflows:
+      - Multi-Channel Bot Deployment
+    personas:
+      - Bot Developer
+  - resource: intents
+    operations:
+      - create
+      - train
+    workflows:
+      - Customer Support Deflection
+    personas:
+      - Conversation Designer
+  - resource: conversations
+    operations:
+      - list
+      - get
+      - close
+    workflows:
+      - Customer Support Deflection
+    personas:
+      - Support Lead
+  - resource: dialog-flows
+    operations:
+      - create
+      - update
+    workflows:
+      - Voice IVR Modernization
+    personas:
+      - Contact Center Architect
