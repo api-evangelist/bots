@@ -1,0 +1,25 @@
+title: Bots
+description: An index and topic collection covering chatbots, conversational agents,
+  and bot frameworks across messaging, voice, and customer experience channels. Bots
+  are scripted or model-augmented conversational interfaces deployed inside Slack,
+  Discord, Microsoft Teams, Telegram, WhatsApp, web chat widgets, and voice channels.
+  This collection brings together developer-oriented bot frameworks like Microsoft
+  Bot Framework, Botpress, Rasa, Botkit, Hubot, and Errbot alongside SaaS conversational
+  platforms like Intercom, Drift, ManyChat, Tidio, Landbot, Dialogflow, IBM watsonx
+  Assistant, and Amazon Lex. Bots in this collection are distinct from autonomous
+  AI agents — they are conversational, channel-bound interfaces driven by intents,
+  dialog flows, and integration triggers.
+url: https://bots.apievangelist.com
+collections:
+  api_stories:
+    output: false
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- Dockerfile
+- examples
+- json-ld
+- json-schema
+- json-structure
+- vocabulary
