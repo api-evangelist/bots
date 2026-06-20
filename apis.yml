@@ -6,7 +6,7 @@ description: >-
   Framework, Botpress, Rasa, Botkit, Hubot, and Errbot alongside SaaS conversational platforms like Intercom, Drift, ManyChat, Tidio, Landbot, Dialogflow, IBM watsonx Assistant, and Amazon Lex. Bots in
   this collection are distinct from autonomous AI agents — they are conversational, channel-bound interfaces driven by intents, dialog flows, and integration triggers.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
 - Chatbots
 - Conversational AI
