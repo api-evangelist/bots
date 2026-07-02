@@ -1,0 +1,31 @@
+related:
+- name: Support
+  url: https://support.apievangelist.com
+  icon: https://support.apievangelist.com/icon.png
+  description: An index and topic collection covering customer support, help desk, ticketing, knowledge
+    base, and live chat APIs. Customer support platforms power the interfaces and back-office…
+- name: Communications
+  url: https://communications.apievangelist.com
+  icon: https://communications.apievangelist.com/icon.png
+  description: An index and topic collection covering Communications Platform as a Service (CPaaS) and
+    messaging-and-voice infrastructure APIs. This network gathers providers offering…
+- name: AIOps
+  url: https://aiops.apievangelist.com
+  icon: https://aiops.apievangelist.com/icon.png
+  description: AIOps applies artificial intelligence and machine learning to IT operations, enabling intelligent
+    alerting, anomaly detection, automated root cause analysis, and predictive…
+- name: AI Automation
+  url: https://ai-automation.apievangelist.com
+  icon: https://ai-automation.apievangelist.com/icon.png
+  description: AI automation combines artificial intelligence with workflow and process automation to
+    create intelligent, autonomous systems including AI agent frameworks, autonomous coding…
+- name: Agents
+  url: https://agents.apievangelist.com
+  icon: https://agents.apievangelist.com/icon.png
+  description: An index and topic collection covering AI agents, agent frameworks, and agent runtimes
+    that enable autonomous reasoning, tool use, and multi-step task execution. This profile…
+- name: Agent Skills
+  url: https://agents-skills.apievangelist.com
+  icon: https://agents-skills.apievangelist.com/icon.png
+  description: An index and topic collection covering Agent Skills, the packaged, file-based capability
+    units that AI coding agents load to extend their behavior. Agent Skills bundle…
