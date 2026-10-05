@@ -1,5 +1,6 @@
 aid: bots
 name: Bots
+kind: topic
 description: >-
   An index and topic collection covering chatbots, conversational agents, and bot frameworks across messaging, voice, and customer experience channels. Bots are scripted or model-augmented conversational
   interfaces deployed inside Slack, Discord, Microsoft Teams, Telegram, WhatsApp, web chat widgets, and voice channels. This collection brings together developer-oriented bot frameworks like Microsoft Bot
