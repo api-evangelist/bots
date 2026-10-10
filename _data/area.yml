@@ -17,7 +17,7 @@ meta:
   - Slack Bot
   - Discord Bot
   - Messaging
-  - Voice Bot
+  - Voicebot
   - Customer Support Bot
   portal: https://apievangelist.com
   github: https://github.com/api-evangelist
