@@ -1,7 +1,7 @@
 ---
-title: Otto Support - SSRF and Token Passthrough with MCP
-link: https://bishopfox.com/blog/otto-support-ssrf-token-passthrough-with-mcp
-published: '2026-05-07'
+title: Otto-Support - Supply Chain Risks in MCP Servers
+link: https://bishopfox.com/blog/otto-support-supply-chain-risks-mcp-servers
+published: '2026-05-13'
 provider: bishop-fox
 repo: https://github.com/api-evangelist/bishop-fox
 domain: bishopfox.com
